@@ -17,6 +17,7 @@ SRC	=	$(WAY)/main.c 	\
 		$(WAY)/ELF64/elf64_get.c 	\
 		$(WAY)/ELF64/elf64_flags_handle.c 	\
 		$(WAY)/common/show_mem.c \
+		$(WAY)/common/show_header.c \
 
 OBJ	=	$(SRC:.c=.o)
 

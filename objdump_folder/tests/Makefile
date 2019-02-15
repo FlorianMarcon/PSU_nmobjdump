@@ -20,10 +20,16 @@ SRC	=	$(COMMON_SRC_WAY)/ELF64/getSection.c 	\
 		$(COMMON_SRC_WAY)/stock_file.c 	\
 		$(COMMON_SRC_WAY)/verification.c 	\
 		$(WAY)/ELF64/show_mem.c 	\
+		$(WAY)/ELF64/show_header.c 	\
+		$(WAY)/ELF64/flags.c 	\
+		$(WAY)/common/flags.c 	\
 		$(WAY)/common/show_mem.c 	\
+		$(WAY)/common/show_format.c 	\
 
 SRC_UT	=	ELF64/tests_utils.1.c \
 			ELF64/tests_utils.2.c \
+			common/tests_utils.1.c \
+			common/tests_utils.2.c \
 
 OBJ	=	$(SRC:.c=.o)
 
