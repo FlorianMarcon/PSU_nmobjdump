@@ -14,8 +14,8 @@
 Test(ELF_verification_magic, test)
 {
 	Elf64_Ehdr *elf = stock_file("./print/print");
+	char bad[] = {0x00, 0x87, 0x98, 0x67};
 
 	cr_assert_eq(ELF_verification_magic(elf), 0);
-	((char *)elf)[0] = 0x89;
-	cr_assert_eq(ELF_verification_magic(elf), 1);
+	cr_assert_eq(ELF_verification_magic((void *)bad), 1);
 }

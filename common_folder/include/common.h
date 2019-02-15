@@ -22,5 +22,6 @@ Elf64_Shdr	*ELF64_getSectionHeader_byType(Elf64_Ehdr *elf, unsigned int type);
 Elf64_Shdr	*ELF64_getSectionHeader_byName(Elf64_Ehdr *elf, const char *name);
 void	*ELF64_getSectionContent_byType(Elf64_Ehdr *elf, unsigned int type);
 void	*ELF64_getSectionContent_byName(Elf64_Ehdr *elf, const char *name);
+void	*ELF64_getTableString(Elf64_Ehdr *elf);
 
 #endif /* !COMMON_H_ */

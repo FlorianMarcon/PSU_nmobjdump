@@ -62,3 +62,13 @@ void	*ELF64_getSectionContent_byName(Elf64_Ehdr *elf, const char *name)
 		return (section->sh_offset + (void *)elf);
 	return (NULL);
 }
+void	*ELF64_getTableString(Elf64_Ehdr *elf)
+{
+	Elf64_Shdr *section;
+	
+	if (elf == NULL)
+		return (NULL);
+	section = elf->e_shoff + (void *)elf;
+	section = &section[elf->e_shstrndx];
+	return (section->sh_offset + (void *)elf);
+}

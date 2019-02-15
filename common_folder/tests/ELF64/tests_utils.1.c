@@ -55,3 +55,10 @@ Test(ELF64_getSectionContent_byName, test)
 	cr_assert_eq(ELF64_getSectionContent_byName(elf, NULL), NULL);
 	cr_assert_neq(ELF64_getSectionContent_byName(elf, ".strtab"), NULL);
 }
+Test(ELF64_getSection, test)
+{
+	Elf64_Ehdr *elf = stock_file("./print/print");
+
+	cr_assert_eq(ELF64_getTableString(NULL), NULL);
+	cr_assert_eq(ELF64_getTableString(elf), 0x18cd + (void *)elf);
+}

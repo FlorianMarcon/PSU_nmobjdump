@@ -16,6 +16,7 @@ SRC	=	$(WAY)/ELF64/getSection.c 	\
 		$(WAY)/verification.c 	\
 
 SRC_UT	=	ELF64/tests_utils.1.c \
+		ELF64/tests_utils.2.c \
 
 OBJ	=	$(SRC:.c=.o)
 
