@@ -19,23 +19,17 @@ SRC	=	$(WAY)/main.c 	\
 		$(COMMON_SRC_WAY)/ELF64/getSection.c 	\
 		$(COMMON_SRC_WAY)/stock_file.c 	\
 		$(COMMON_SRC_WAY)/verification.c 	\
-		$(WAY)/ELF64/show_mem.c 	\
-		$(WAY)/ELF64/show_header.c 	\
-		$(WAY)/ELF64/flags.c 	\
-		$(WAY)/common/flags.c 	\
-		$(WAY)/common/show_mem.c 	\
-		$(WAY)/common/show_format.c 	\
 
 OBJ	=	$(SRC:.c=.o)
 
 INCLUDES	=	-I$(WAY_INCLUDE)	\
-				-I$(COMMON_INCLUDE_WAY)	\
+			-I$(COMMON_INCLUDE_WAY)	\
 
 CFLAGS	=	$(INCLUDES) -W -Wall -Wextra -Werror
 
 LDFLAGS	=	-W -Wall -Wextra -Werror
 
-NAME	=	my_objdump
+NAME	=	my_nm
 
 all:	$(NAME)
 

@@ -47,5 +47,7 @@ unsigned int	flags_sum(flags_t *flags);
 void	ELF64_showSectionMemory(Elf64_Ehdr *elf, Elf64_Shdr *section);
 void	ELF64_setFlags(Elf64_Ehdr *elf, flags_t *flags);
 void	ELF64_showHeader(Elf64_Ehdr *elf);
+void	ELF64_showMemoryRelocatable(Elf64_Ehdr *elf);
+void	ELF64_showMemoryExecutable(Elf64_Ehdr *elf);
 
 #endif /* !OBJDUMP_H_ */

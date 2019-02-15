@@ -1,0 +1,3 @@
+./my_objdump
+./tests/print/print
+/bin/bash

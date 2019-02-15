@@ -9,7 +9,7 @@ WAY_OBJDUMP	=	./objdump_folder
 
 WAY_NM		=	./nm_folder
 
-all: nm objdump
+all: objdump nm
 
 nm:
 	make -C $(WAY_NM)

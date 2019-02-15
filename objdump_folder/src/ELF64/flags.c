@@ -19,8 +19,8 @@ void	ELF64_setFlags(Elf64_Ehdr *elf, flags_t *flags)
 		flags->exec_p = true;
 	else if (elf->e_type == ET_DYN)
 		flags->dynamic = true;
-	else if (elf->e_type == ET_REL)
-		flags->has_reloc = true;
+	// else if (elf->e_type == ET_REL)
+	// 	flags->has_reloc = true;
 	
 	sections = elf->e_shoff + (void *)elf;
 	for (unsigned int i = 0; i < elf->e_shnum; i++) {

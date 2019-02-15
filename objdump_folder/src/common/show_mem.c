@@ -17,14 +17,14 @@ void	ELF_showMemoryBasic(char *memory, unsigned int size)
 		if (i >= size) {
 			dprintf(1, "  ");
 		} else {
-			dprintf(1, "%02x", memory[i]);
+			dprintf(1, "%02hhx", memory[i]);
 		}
 	}
 }
 
 void	ELF_showMemoryAscii(char *memory, unsigned int size)
 {
-	dprintf(1, " ");
+	dprintf(1, "  ");
 	for (unsigned int i = 0; i < 16; i++) {
 		if (i < size && ISASCII(memory[i])) {
 			dprintf(1, "%c", memory[i]);
