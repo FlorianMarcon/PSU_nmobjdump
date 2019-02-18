@@ -15,13 +15,18 @@ void	process64(Elf64_Ehdr *elf)
 	ELF64_showHeader(elf);
 	if (elf->e_type == ET_EXEC)
 		ELF64_showMemoryExecutable(elf);
-	if (elf->e_type == ET_REL)
+	else if (elf->e_type == ET_REL)
 		ELF64_showMemoryRelocatable(elf);
+	else if (elf->e_type == ET_DYN)
+		ELF64_showMemoryDynamic(elf);
+
+		// printf("0x%x\n", elf->e_type);
+	
 }
 void	process32(Elf32_Ehdr *elf)
 {
 	(void)elf;
-	dprintf(1, "process32\n");
+	printf("process32\n");
 }
 void	process(char *filename)
 {
@@ -34,10 +39,10 @@ void	process(char *filename)
 	)
 		return;
 	if (program[0x04] == 0x02) {
-		dprintf(1, "\n%s:     format de fichier elf64-x86-64\n", filename);
+		printf("\n%s:     file format elf64-x86-64\n", filename);
 		process64((void *)program);
 	} else if (program[0x04] == 0x01) {
-		dprintf(1, "\n%s:     format de fichier elf32-x86\n", filename);
+		printf("\n%s:     file format elf32-x86\n", filename);
 		process32((void *)program);
 	}
 }

@@ -1,3 +1,10 @@
-./my_objdump
-./tests/print/print
-/bin/bash
+
+src/common/show_format.o:     file format elf64-x86-64
+architecture: i386:x86-64, flags 0x00000010:
+HAS_SYMS
+start address 0x0000000000000000
+
+Contents of section .comment:
+ 0000 00474343 3a202847 4e552920 372e322e  .GCC: (GNU) 7.2.
+ 0010 31203230 31373039 31352028 52656420  1 20170915 (Red 
+ 0020 48617420 372e322e 312d3229 00        Hat 7.2.1-2).   

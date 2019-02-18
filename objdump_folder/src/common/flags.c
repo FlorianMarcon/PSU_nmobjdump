@@ -42,18 +42,18 @@ void	flags_display(flags_t *flags)
 
 	if (flags == NULL)
 		return;
-	for (unsigned int i = 0; i <= sizeof(tmp) / sizeof(bool); i++) {
+	for (unsigned int i = 0; i <= sizeof(flags) / sizeof(bool); i++) {
 		if (tmp[i] == true) {
 			if (!isfirst)
-				dprintf(1, ", ");
-			dprintf(1, "%s", flags_getString(flagsString[i].key));
+				printf(", ");
+			printf("%s", flags_getString(flagsString[i].key));
 			isfirst = false;
 		}
 	}
 	if (isfirst) {
-		dprintf(1, "BFD_NO_FLAGS");
+		printf("BFD_NO_FLAGS");
 	}
-	dprintf(1, "\n");
+	printf("\n");
 	//ADD NO FLAGS
 }
 
@@ -64,7 +64,7 @@ unsigned int	flags_sum(flags_t *flags)
 
 	if (flags == NULL)
 		return (0);
-	for (unsigned int i = 0; i <= sizeof(tmp) / sizeof(bool); i++) {
+	for (unsigned int i = 0; i <= (sizeof(flags) / sizeof(tmp[0])); i++) {
 		if (tmp[i] == true) {
 			total += flagsString[i].key;
 		}

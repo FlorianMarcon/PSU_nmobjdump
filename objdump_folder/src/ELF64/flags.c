@@ -27,8 +27,14 @@ void	ELF64_setFlags(Elf64_Ehdr *elf, flags_t *flags)
 		switch (sections[i].sh_type) {
 			case SHT_SYMTAB: flags->has_syms = true; break;
 			case SHT_DYNAMIC: flags->has_syms = true; break;
-			// case SHT_REL: flags->has_reloc = true; break;
-			// case SHT_RELA: flags->has_reloc = true; break;
+			case SHT_REL: 
+				if (elf->e_type == ET_REL)
+					flags->has_reloc = true;
+				break;
+			case SHT_RELA: 
+				if (elf->e_type == ET_REL)
+					flags->has_reloc = true;
+				break;
 		} 
 	}
 	if (elf->e_phnum != 0)

@@ -13,25 +13,25 @@ void	ELF_showMemoryBasic(char *memory, unsigned int size)
 {
 	for (unsigned int i = 0; i < 16; i++) {
 		if (i % 4 == 0)
-			dprintf(1, " ");
+			printf(" ");
 		if (i >= size) {
-			dprintf(1, "  ");
+			printf("  ");
 		} else {
-			dprintf(1, "%02hhx", memory[i]);
+			printf("%02hhx", memory[i]);
 		}
 	}
 }
 
 void	ELF_showMemoryAscii(char *memory, unsigned int size)
 {
-	dprintf(1, "  ");
+	printf("  ");
 	for (unsigned int i = 0; i < 16; i++) {
 		if (i < size && ISASCII(memory[i])) {
-			dprintf(1, "%c", memory[i]);
+			printf("%c", memory[i]);
 		} else if (i < size) {
-			dprintf(1, ".");
+			printf(".");
 		} else {
-			dprintf(1, " ");
+			printf(" ");
 		}
 	}
 }
