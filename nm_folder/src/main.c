@@ -1,47 +1,30 @@
 /*
 ** EPITECH PROJECT, 2019
-** nm_folder
+** PSU_2018_malloc
 ** File description:
 ** main
 */
 
-#include <unistd.h>
+#include <stdlib.h>
 #include <stdio.h>
-#include <elf.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include "stock_file.h"
 #include "nm.h"
-#include "common.h"
 
-void	process64(Elf64_Ehdr *elf)
+int main(int argc, char const *argv[])
 {
-	linked_list_t *list = ELF64_getSections(elf);
+	void *p;
+	int ret = 0;
 
-	ELF64_showSections(elf, list);
-	// dprintf(1, "64\n");
-}
-void	process32(Elf32_Ehdr *elf)
-{
-	(void)elf;
-	dprintf(1, "process32\n");
-}
-void	process(char *filename)
-{
-	char *program = NULL;
-
-	program = stock_file(filename);
-	if (
-		program == NULL
-		|| ELF_verification_magic((Elf64_Ehdr *)program)
-	)
-		return;
-	if (program[0x04] == 0x02) {
-		process64((void *)program);
-	} else if (program[0x04] == 0x01) {
-		process32((void *)program);
+	if (argc == 1) {
+		printf("Try with \"aout\" and if not present return 1\n TO DO\n");
 	}
-}
-int	main(int ac, char **av)
-{
-	for (int i = 1; i < ac; i++) {
-		process(av[i]);
+	for (int i = 1; i < argc; i++) {
+		if ((p = stock_file(argv[i])) != NULL) {
+			nm(p);
+		} else
+			ret = 1;
 	}
+	return (ret);
 }

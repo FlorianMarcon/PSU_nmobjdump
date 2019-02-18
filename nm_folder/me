@@ -12,10 +12,10 @@
 00000000004005c4 T _fini
 0000000000400500 t frame_dummy
 0000000000600e10 t __frame_dummy_init_array_entry
-0000000000400708 r __FRAME_END__
+0000000000400700 r __FRAME_END__
 0000000000601000 d _GLOBAL_OFFSET_TABLE_
                  w __gmon_start__
-00000000004005e4 r __GNU_EH_FRAME_HDR
+00000000004005d8 r __GNU_EH_FRAME_HDR
 00000000004003c8 T _init
 0000000000600e18 t __init_array_end
 0000000000600e10 t __init_array_start
@@ -29,7 +29,7 @@
 0000000000400550 T __libc_csu_init
                  U __libc_start_main@@GLIBC_2.2.5
 0000000000400526 T main
+                 U puts@@GLIBC_2.2.5
 00000000004004a0 t register_tm_clones
 0000000000400430 T _start
 0000000000601038 D __TMC_END__
-                 U write@@GLIBC_2.2.5

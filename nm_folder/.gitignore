@@ -1,0 +1,5 @@
+print.c
+*.o
+*.~
+*.gcno
+*.gcda

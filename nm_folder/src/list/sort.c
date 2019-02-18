@@ -6,9 +6,32 @@
 */
 
 #include <stdlib.h>
-#include <stdio.h>
 #include "my.h"
 #include "nm.h"
+
+// void	swap_node(linked_list_t **head, linked_list_t *one, linked_list_t *two)
+// {
+// 	linked_list_t *a = *head;
+// 	linked_list_t *b = *head;
+
+// 	if (one == NULL || two == NULL)
+// 		return;
+// 	while(a != one && a->next != one)
+// 		a = a->next;
+// 	while(b != two && b->next != two)
+// 		b = b->next;
+// 	// printf("%d  %d\n", *((int *)a->data), *((int*)b->data));
+	
+// 	b->next = b->next->next;
+// 	// if (a->next )
+// 	two->next = one;
+
+// 	if (a == one) {
+// 		*head = two;
+// 	} else {
+// 		a->next = two;
+// 	}
+// }
 
 void	swap_node(linked_list_t *one, linked_list_t *two)
 {
@@ -47,18 +70,20 @@ int	compare_name(char *a, char *b)
 	}
 	return (0);
 }
-int	ELF64_compare_item(Elf64_Ehdr *elf, linked_list_t *one, linked_list_t *two)
+int	compare_item(linked_list_t *one, linked_list_t *two)
 {
-	char *a;
-	char *b;
+	symbole_item_t *a;
+	symbole_item_t *b;
+	int val = 0;
 
-	if (one == NULL || two == NULL || one->data == NULL || two->data == NULL)
+	if (one == NULL || one->data == NULL || two == NULL || two->data == NULL)
 		return (-1);
-	a = ELF64_getSymboleName(elf, one->data);
-	b = ELF64_getSymboleName(elf, two->data);
-	return (compare_name(a, b));
+	a = one->data;
+	b = two->data;
+	val = compare_name(a->name_addr, b->name_addr);
+	return (val);
 }
-linked_list_t	*ELF64_sort_list(Elf64_Ehdr *elf, linked_list_t *head)
+linked_list_t	*sort_list(linked_list_t *head)
 {
 	// linked_list_t *a = head;
 	linked_list_t *new = NULL;
@@ -67,7 +92,7 @@ linked_list_t	*ELF64_sort_list(Elf64_Ehdr *elf, linked_list_t *head)
 	while (head != NULL) {
 		f = head;
 		for (linked_list_t *tmp = head; tmp != NULL; tmp = tmp->next) {
-			int comp = ELF64_compare_item(elf, f, tmp);
+			int comp = compare_item(f, tmp);
 			if (comp == 0 || comp == 1)
 				f = tmp;
 		}

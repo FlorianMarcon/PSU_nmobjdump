@@ -5,7 +5,6 @@
 ** header my.h
 */
 
-#include <stdbool.h>
 #include <stdarg.h>
 
 #ifndef MY_
@@ -75,7 +74,7 @@ int	my_showmem(char const *str, int size);
 
 int	my_showstr(char const *str);
 
-int	my_show_word_array(char *const *tab);
+//int	my_show_word_array(char *const *tab);
 
 char	*my_strcat(char *dest, char const *src);
 
@@ -83,9 +82,11 @@ char	*my_strncat(char *dest, char const *src, int nb);
 
 char	*my_strdup(char const *str);
 
+char	**my_tabdup(char **tab);
+
 char	*concat_params(int argc, char **argv);
 
-int	my_show_word_array(char * const *tab);
+//int	my_show_word_array(char * const *tab);
 
 char	**mise_en_tableau(char const *str, int nb_separateur);
 
