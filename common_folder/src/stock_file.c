@@ -22,13 +22,13 @@ void	*stock_file(const char *filename)
 		fprintf(stderr, "File is NULL or not readable\n");
 		return (NULL);
 	}
-	if (fstat(fd, &s) == -1) {
+	if (fstat(fd, &s) == -1 ) {
 		perror("stat");
 		close(fd);
 		return (NULL);
 	}
-	if ((address = mmap(NULL, s.st_size, PROT_READ, MAP_PRIVATE, fd, 0))== NULL) {
-		fprintf(stderr, "Problem mmap\n");
+	if ((address = mmap(NULL, s.st_size, PROT_READ, MAP_PRIVATE, fd, 0)) == (void *)-1) {
+		fprintf(stderr, "my_objdump: %s is not an ordinary format\n", filename);
 		return (NULL);
 	}
 	// printf("\n%s:     format de fichier elf64-x86-64\n\n", filename);

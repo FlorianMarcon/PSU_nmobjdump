@@ -8,17 +8,17 @@
 #include <string.h>
 #include "nm.h"
 
-void	*find_name_section(Elf64_Ehdr *elf)
+void	*ELF64_find_name_section(Elf64_Ehdr *elf)
 {
 	Elf64_Shdr *h;
 	void	*section;
 
 	h = (Elf64_Shdr *)(elf->e_shoff + (elf->e_shentsize * elf->e_shstrndx) + (long int)elf);
-	section = find_section(elf, h);
+	section = ELF64_find_section(elf, h);
 	return (section);
 }
 
-Elf64_Shdr	*find_section_header_by_index(Elf64_Ehdr *elf, unsigned int index)
+Elf64_Shdr	*ELF64_find_section_header_by_index(Elf64_Ehdr *elf, unsigned int index)
 {
 	Elf64_Shdr *h;
 	h = (Elf64_Shdr *)(elf->e_shoff + (elf->e_shentsize * index) + (long int)elf);
@@ -27,7 +27,7 @@ Elf64_Shdr	*find_section_header_by_index(Elf64_Ehdr *elf, unsigned int index)
 }
 
 
-Elf64_Shdr	*find_section_header(Elf64_Ehdr *elf, unsigned int type)
+Elf64_Shdr	*ELF64_find_section_header(Elf64_Ehdr *elf, unsigned int type)
 {
 	Elf64_Shdr *h;
 
@@ -40,10 +40,10 @@ Elf64_Shdr	*find_section_header(Elf64_Ehdr *elf, unsigned int type)
 	}
 	return (NULL);
 }
-Elf64_Shdr	*find_section_header_by_name(Elf64_Ehdr *elf, const char *name)
+Elf64_Shdr	*ELF64_find_section_header_by_name(Elf64_Ehdr *elf, const char *name)
 {
 	Elf64_Shdr *h;
-	void *nameSection = find_name_section(elf);
+	void *nameSection = ELF64_find_name_section(elf);
 
 	for (unsigned int i = 0; i < elf->e_shnum; i++) {
 		h = (Elf64_Shdr *)(elf->e_shoff + (elf->e_shentsize * i) + (long int)elf);
@@ -53,14 +53,7 @@ Elf64_Shdr	*find_section_header_by_name(Elf64_Ehdr *elf, const char *name)
 	return (NULL);
 }
 
-void	display_information_header(Elf64_Shdr *h)
-{
-	printf("Total Size 	%ld\n", h->sh_size);
-	printf("Nb entry 	%ld\n", h->sh_entsize);
-	// printf("Total Size %ld\n", h->sh_size);
-	// printf("Total Size %ld\n", h->sh_size);
-}
-void	*find_section(Elf64_Ehdr *header_program, Elf64_Shdr *header_section)
+void	*ELF64_find_section(Elf64_Ehdr *header_program, Elf64_Shdr *header_section)
 {
 	void *address = (void *)header_program + header_section->sh_offset;
 

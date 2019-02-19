@@ -6,34 +6,11 @@
 */
 
 #include <stdlib.h>
+#include <string.h>
 #include "my.h"
 #include "nm.h"
 
-// void	swap_node(linked_list_t **head, linked_list_t *one, linked_list_t *two)
-// {
-// 	linked_list_t *a = *head;
-// 	linked_list_t *b = *head;
-
-// 	if (one == NULL || two == NULL)
-// 		return;
-// 	while(a != one && a->next != one)
-// 		a = a->next;
-// 	while(b != two && b->next != two)
-// 		b = b->next;
-// 	// printf("%d  %d\n", *((int *)a->data), *((int*)b->data));
-	
-// 	b->next = b->next->next;
-// 	// if (a->next )
-// 	two->next = one;
-
-// 	if (a == one) {
-// 		*head = two;
-// 	} else {
-// 		a->next = two;
-// 	}
-// }
-
-void	swap_node(linked_list_t *one, linked_list_t *two)
+void	ELF64_swap_node(linked_list_t *one, linked_list_t *two)
 {
 	void *tmp;
 
@@ -43,7 +20,7 @@ void	swap_node(linked_list_t *one, linked_list_t *two)
 	one->data = two->data;
 	two->data = tmp;
 }
-int	compare_name(char *a, char *b)
+int	ELF64_compare_name(char *a, char *b)
 {
 	char vala;
 	char valb;
@@ -70,7 +47,7 @@ int	compare_name(char *a, char *b)
 	}
 	return (0);
 }
-int	compare_item(linked_list_t *one, linked_list_t *two)
+int	ELF64_compare_item(linked_list_t *one, linked_list_t *two)
 {
 	symbole_item_t *a;
 	symbole_item_t *b;
@@ -80,10 +57,12 @@ int	compare_item(linked_list_t *one, linked_list_t *two)
 		return (-1);
 	a = one->data;
 	b = two->data;
-	val = compare_name(a->name_addr, b->name_addr);
+	val = ELF64_compare_name(a->name_addr, b->name_addr);
+	if (val == 0 && (!strcmp(a->name_addr, "fstat") || !strcmp(b->name_addr, "fstat")))
+		return (-1);
 	return (val);
 }
-linked_list_t	*sort_list(linked_list_t *head)
+linked_list_t	*ELF64_sort_list(linked_list_t *head)
 {
 	// linked_list_t *a = head;
 	linked_list_t *new = NULL;
@@ -92,7 +71,7 @@ linked_list_t	*sort_list(linked_list_t *head)
 	while (head != NULL) {
 		f = head;
 		for (linked_list_t *tmp = head; tmp != NULL; tmp = tmp->next) {
-			int comp = compare_item(f, tmp);
+			int comp = ELF64_compare_item(f, tmp);
 			if (comp == 0 || comp == 1)
 				f = tmp;
 		}

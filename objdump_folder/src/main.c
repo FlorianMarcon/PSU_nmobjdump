@@ -28,7 +28,7 @@ void	process32(Elf32_Ehdr *elf)
 	(void)elf;
 	printf("process32\n");
 }
-void	process(char *filename)
+int	process(char *filename)
 {
 	char *program = NULL;
 
@@ -37,7 +37,7 @@ void	process(char *filename)
 		program == NULL
 		|| ELF_verification_magic((Elf64_Ehdr *)program)
 	)
-		return;
+		return (1);
 	if (program[0x04] == 0x02) {
 		printf("\n%s:     file format elf64-x86-64\n", filename);
 		process64((void *)program);
@@ -45,10 +45,15 @@ void	process(char *filename)
 		printf("\n%s:     file format elf32-x86\n", filename);
 		process32((void *)program);
 	}
+	return (0);
 }
 int	main(int ac, char **av)
 {
+	int sum = 0;
+
 	for (int i = 1; i < ac; i++) {
-		process(av[i]);
+		sum += process(av[i]);
 	}
+	if (sum > 0)
+		return (84);
 }

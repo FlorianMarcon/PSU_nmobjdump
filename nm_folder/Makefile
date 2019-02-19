@@ -14,11 +14,11 @@ WAY_LIB	=	./lib/my
 WAY_TEST = ./tests
 
 SRC	=	$(WAY)/main.c 	\
-		$(WAY)/nm/nm.c 	\
+		$(WAY)/ELF64/nm/nm.c 	\
 		$(WAY)/stock_file.c 	\
-		$(WAY)/find/find.c 	\
-		$(WAY)/list/sort.c 	\
-		$(WAY)/symbole/symbole.c 	\
+		$(WAY)/ELF64/find/find.c 	\
+		$(WAY)/ELF64/list/sort.c 	\
+		$(WAY)/ELF64/symbole/symbole.c 	\
 
 OBJ	=	$(SRC:.c=.o)
 

@@ -1,0 +1,5689 @@
+
+________________________
+Test file is :  /bin/bash
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  src/main.o
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  src/stock_file.o
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  src/find/find.o
+1c1
+< nm: 'src/find/find.o': No such file
+---
+> File is NULL or not readable
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  src/list/sort.o
+1c1
+< nm: 'src/list/sort.o': No such file
+---
+> File is NULL or not readable
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  src/nm/nm.o
+1c1
+< nm: 'src/nm/nm.o': No such file
+---
+> File is NULL or not readable
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  ./my_nm
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ab
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/abs2rel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/aclocal
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/aclocal-1.15
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/addr2line
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/alias
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/altonegen
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/antlr
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/appletviewer
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/applydeltarpm
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ar
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/arch
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/as
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/aserver
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autoconf
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autoheader
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autom4te
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/automake
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/automake-1.15
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autoreconf
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autoscan
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/autoupdate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/awk
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/b2sum
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/base32
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/base64
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/basename
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bash
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bashbug
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bashbug-64
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bdf2gdfont.pl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bdftopcf
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bg
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bsh
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bsh-console
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bshdoc
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/bsincgen
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/build-classpath
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/build-classpath-directory
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/build-jar-repository
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/busctl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/c++
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/c89
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/c99
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cal
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ca-legacy
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/callgrind_annotate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/callgrind_control
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/captoinfo
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cat
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/catchsegv
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cc
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ccmake
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ccmake3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/certutil
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/c++filt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cg_annotate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cg_diff
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cg_merge
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chacl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chage
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chcon
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/check-binary-files
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/checksctp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chgrp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chmem
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chmod
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chown
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/chrt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/c-index-test
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cksum
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang++
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-4.0
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-check
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-cl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-cpp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-format
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-import-test
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clang-offload-bundler
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clean-binary-files
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/clear
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cmake
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cmake3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cmp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cmsutil
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/col
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/colcrt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/colrm
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/column
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/combinedeltarpm
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/comm
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/command
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/coredumpctl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cpack
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cpack3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cpp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/create-jar-links
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/crlutil
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/csh
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/csplit
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ctest
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ctest3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/curl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/cut
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/date
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_archive
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_checkpoint
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_deadlock
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_dump
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_dump185
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_hotbackup
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_load
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_log_verify
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_printlog
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_recover
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_replicate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_stat
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_tuner
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_upgrade
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-binding-tool
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-cleanup-sockets
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-daemon
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-monitor
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-run-session
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-send
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-test-tool
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-update-activation-environment
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dbus-uuidgen
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/db_verify
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/df
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/diff
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/diff3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/diff-jars
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dir
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dircolors
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dirmngr
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dirmngr-client
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dirname
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dmesg
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dnf
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dnf-3
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dotnet
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/du
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dwp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/dwz
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/easy_install
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/easy_install-2.7
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/easy_install-3.6
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/echo
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ecj
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ed2k-link
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/egrep
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/eject
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/elfedit
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/encguess
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/env
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/eqn
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/erb
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/ex
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/expand
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/expr
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/extcheck
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/factor
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fallocate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/false
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-cache
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-cache-64
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-cat
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-list
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-match
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-pattern
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-query
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-scan
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fc-validate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fg
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fgrep
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fincore
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/find
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/find-jar
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/findmnt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fipscheck
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fipshmac
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/flock
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fmt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fold
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/fonttosfnt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/freetype-config
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/funzip
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/g++
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/g13
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/gapplication
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/gawk
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/gcc
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /bin/gcc-araddgnupghome
+1c1
+< nm: '/bin/gcc-araddgnupghome': No such file
+---
+> File is NULL or not readable
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/addpart
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/adduser
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/agetty
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/alternatives
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/apachectl
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/applygnupgdefaults
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/arp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/blkdeactivate
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/blkdiscard
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/blkid
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/blkzone
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/blockdev
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/build-locale-archive
+3d2
+< 000000000047f510 W access
+4a4
+> 000000000047f510 W access
+16c16
+< 00000000006e1ad0 V __after_morecore_hook
+---
+> 00000000006e1ad0 W __after_morecore_hook
+33d32
+< 00000000004490c0 T __argz_create_sep
+34a34,35
+> 00000000004490c0 T __argz_create_sep
+> 0000000000424970 T ___asprintf
+37d37
+< 0000000000424970 T ___asprintf
+40d39
+< 0000000000462ed0 W backtrace
+41a41
+> 0000000000462ed0 W backtrace
+44d43
+< 0000000000462f50 T __backtrace_symbols_fd
+45a45
+> 0000000000462f50 T __backtrace_symbols_fd
+48d47
+< 0000000000449260 W basename
+50c49
+< 00000000004ad660 t base_of_encoded_value
+---
+> 0000000000449260 W basename
+52c51,52
+< 0000000000442470 i bcmp
+---
+> 00000000004ad660 t base_of_encoded_value
+> 0000000000442470 W bcmp
+54d53
+< 00000000004b7a30 r blanks
+55a55
+> 00000000004b7a30 r blanks
+63d62
+< 000000000041f520 t buffered_vfprintf
+64a64
+> 000000000041f520 t buffered_vfprintf
+70d69
+< 000000000045d4b0 W c32rtomb
+83c82
+< 0000000000000048 b catch_hook
+---
+> 0000000000000048 t catch_hook
+90d88
+< 00000000004711d0 W clearenv
+91a90
+> 00000000004711d0 W clearenv
+103,104d101
+< 00000000006e0b80 d __compound_literal.0
+< 00000000006e0b70 d __compound_literal.1
+105a103,104
+> 00000000006e0b70 d __compound_literal.1
+> 00000000006e0b80 d __compound_literal.0
+112a112
+> 000000000045d4b0 W c32rtomb
+122d121
+< 0000000000401f20 t dataentcmp
+123a123
+> 0000000000401f20 t dataentcmp
+126c126
+< 00000000006e1c88 V daylight
+---
+> 00000000006e1c88 W daylight
+143d142
+< 000000000048e810 T __dladdr
+145a145
+> 000000000048e810 T __dladdr
+262d261
+< 000000000048bcd0 T _dl_runtime_resolve_avx
+263a263
+> 000000000048bcd0 T _dl_runtime_resolve_avx
+277c277
+< 00000000006e0610 V _dl_starting_up
+---
+> 00000000006e0610 W _dl_starting_up
+280d279
+< 000000000049b920 T __dlsym
+281a281
+> 000000000049b920 T __dlsym
+341c341
+< 0000000000400000 r __ehdr_start
+---
+> 0000000000400000 t __ehdr_start
+345,352d344
+< 00000000004d2280 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d2268 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d2270 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d2288 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d2290 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d2298 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d22a0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004d22a8 r __elf_set___libc_subfreeres_element_free_mem__
+353a346,353
+> 00000000004d22a8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d22a0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2298 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2290 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2288 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2270 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2268 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004d2280 r __elf_set___libc_subfreeres_element_free_mem__
+359,360c359
+< 00000000006e1b78 V environ
+< 00000000006e1b78 V _environ
+---
+> 00000000006e1b78 W environ
+361a361
+> 00000000006e1b78 W _environ
+364c364
+< 0000000000000020 B errno
+---
+> 0000000000000020 t errno
+372d371
+< 000000000045e5b0 W execve
+374c373
+< 0000000000418810 T exit
+---
+> 000000000045e5b0 W execve
+375a375
+> 0000000000418810 T exit
+381d380
+< 0000000000460480 W fchmod
+382a382
+> 0000000000460480 W fchmod
+392d391
+< 000000000047f2f0 W fdopendir
+393a393
+> 000000000047f2f0 W fdopendir
+396d395
+< 000000000042a160 T __fgets_unlocked
+397a397
+> 000000000042a160 T __fgets_unlocked
+404d403
+< 00000000004005f0 t fini
+405a405
+> 00000000004005f0 t fini
+411d410
+< 00000000004258c0 W fopen
+412a412
+> 00000000004258c0 W fopen
+417d416
+< 00000000004247f0 T fprintf
+418a418
+> 00000000004247f0 T fprintf
+430d429
+< 000000000048e360 T __fread_unlocked
+431a431
+> 000000000048e360 T __fread_unlocked
+436c436
+< 00000000006e1ad8 V __free_hook
+---
+> 00000000006e1ad8 W __free_hook
+440,447d439
+< 00000000004b3340 t free_mem
+< 00000000004b2ed0 t free_mem
+< 00000000004b30d0 t free_mem
+< 00000000004b35d0 t free_mem
+< 00000000004b3600 t free_mem
+< 00000000004b3660 t free_mem
+< 00000000004b3690 t free_mem
+< 00000000004b3770 t free_mem
+448a441,446
+> 00000000004b3770 t free_mem
+> 00000000004b3690 t free_mem
+> 00000000004b3660 t free_mem
+> 00000000004b3600 t free_mem
+> 00000000004b35d0 t free_mem
+> 00000000004b30d0 t free_mem
+449a448,449
+> 00000000004b2ed0 t free_mem
+> 00000000004b3340 t free_mem
+462,463d461
+< 0000000000461260 W ftruncate
+< 0000000000461260 W __ftruncate
+466,474c464,467
+< 00000000004b8b58 r __func__.10701
+< 00000000004b8af8 r __func__.10708
+< 00000000004b8b08 r __func__.10740
+< 00000000004b8c00 r __func__.10751
+< 00000000004b8c20 r __func__.10818
+< 00000000004b8b78 r __func__.10977
+< 00000000004b8b48 r __func__.11021
+< 00000000004b8b38 r __func__.11032
+< 00000000004b8b18 r __func__.11054
+---
+> 0000000000461260 W ftruncate
+> 0000000000461260 W __ftruncate
+> 00000000004b800a r __func__.11335
+> 00000000004b8ac8 r __func__.11153
+477,479d469
+< 00000000004b8ac8 r __func__.11153
+< 00000000004b8b88 r __func__.11194
+< 00000000004b8b68 r __func__.11233
+482,483c472,482
+< 00000000004b800a r __func__.11335
+< 0000000000424a60 W funlockfile
+---
+> 00000000004b8b18 r __func__.11054
+> 00000000004b8b88 r __func__.11194
+> 00000000004b8b78 r __func__.10977
+> 00000000004b8b68 r __func__.11233
+> 00000000004b8b58 r __func__.10701
+> 00000000004b8b48 r __func__.11021
+> 00000000004b8c00 r __func__.10751
+> 00000000004b8b08 r __func__.10740
+> 00000000004b8af8 r __func__.10708
+> 00000000004b8b38 r __func__.11032
+> 00000000004b8c20 r __func__.10818
+484a484
+> 0000000000424a60 W funlockfile
+487d486
+< 0000000000460430 W _fxstat
+488a488
+> 0000000000460430 W _fxstat
+490d489
+< 000000000047f470 T __fxstatat
+491a491
+> 000000000047f470 T __fxstatat
+526d525
+< 000000000046d520 T __gconv_transform_internal_ucs2reverse
+528a528
+> 000000000046d520 T __gconv_transform_internal_ucs2reverse
+530,531d529
+< 000000000046bba0 T __gconv_transform_ucs2_internal
+< 000000000046cd60 T __gconv_transform_ucs2reverse_internal
+532a531
+> 000000000046bba0 T __gconv_transform_ucs2_internal
+533a533
+> 000000000046cd60 T __gconv_transform_ucs2reverse_internal
+548d547
+< 000000000045e460 T __getdents
+549a549
+> 000000000045e460 T __getdents
+552d551
+< 000000000047f410 W getegid
+553a553
+> 000000000047f410 W getegid
+555d554
+< 000000000047f3f0 W geteuid
+556a556
+> 000000000047f3f0 W geteuid
+558d557
+< 000000000047f400 W getgid
+560c559
+< 00000000004623b0 T __get_nprocs
+---
+> 000000000047f400 W getgid
+562c561
+< 0000000000462980 T __get_nprocs_conf
+---
+> 00000000004623b0 T __get_nprocs
+563a563
+> 0000000000462980 T __get_nprocs_conf
+572d571
+< 00000000004611a0 W getpagesize
+573a573
+> 00000000004611a0 W getpagesize
+578c578
+< 0000000000461080 W getrlimit
+---
+> 0000000000461080 T __getrlimit64
+581c581
+< 0000000000461080 T __getrlimit64
+---
+> 0000000000461080 W getrlimit
+588d587
+< 000000000047f3e0 W getuid
+589a589
+> 000000000047f3e0 W getuid
+593d592
+< 0000000000442f00 T __GI_stpcpy
+594a594
+> 0000000000442f00 T __GI_stpcpy
+604d603
+< 0000000000419b10 t group_number
+605a605
+> 0000000000419b10 t group_number
+615,619c615
+< 0000000000419c70 t _i18n_number_rewrite
+< 000000000041f8b0 t _i18n_number_rewrite
+< 0000000000473e90 t _i18n_number_rewrite
+< 000000000043cd50 i index
+< 000000000048e3c0 t init
+---
+> 000000000043cd50 W index
+620a617
+> 000000000048e3c0 t init
+629d625
+< 0000000000418e40 T __initstate_r
+630a627
+> 0000000000418e40 T __initstate_r
+631a629,631
+> 0000000000473e90 t _i18n_number_rewrite
+> 000000000041f8b0 t _i18n_number_rewrite
+> 0000000000419c70 t _i18n_number_rewrite
+634d633
+< 00000000004b9a20 r intel_02_known
+635a635
+> 00000000004b9a20 r intel_02_known
+643,645d642
+< 00000000006df360 D _IO_2_1_stderr_
+< 00000000006df7a0 D _IO_2_1_stdin_
+< 00000000006df580 D _IO_2_1_stdout_
+718d714
+< 00000000004d22c0 r _IO_helper_jumps
+720c716
+< 0000000000419f00 t _IO_helper_overflow
+---
+> 00000000004d22c0 r _IO_helper_jumps
+721a718
+> 0000000000419f00 t _IO_helper_overflow
+775a773
+> 00000000006df360 D _IO_2_1_stderr_
+780a779
+> 00000000006df7a0 D _IO_2_1_stdin_
+782a782
+> 00000000006df580 D _IO_2_1_stdout_
+839d838
+< 000000000047f540 W isatty
+840a840
+> 000000000047f540 W isatty
+848d847
+< 00000000004b73c0 r jump_table
+849a849
+> 00000000004b73c0 r jump_table
+874c874
+< 0000000000000020 B __libc_errno
+---
+> 0000000000000020 t __libc_errno
+888c888
+< 00000000004428a0 i __libc_memmove
+---
+> 00000000004428a0 T __libc_memmove
+894d893
+< 0000000000460310 T __libc_pread
+895a895
+> 0000000000460310 T __libc_pread
+909c909
+< 0000000000441ff0 i __libc_strstr
+---
+> 0000000000441ff0 T __libc_strstr
+911,914c911,914
+< 0000000000000038 B __libc_tsd_CTYPE_B
+< 0000000000000028 B __libc_tsd_CTYPE_TOLOWER
+< 0000000000000030 B __libc_tsd_CTYPE_TOUPPER
+< 0000000000000000 D __libc_tsd_LOCALE
+---
+> 0000000000000038 t __libc_tsd_CTYPE_B
+> 0000000000000028 t __libc_tsd_CTYPE_TOLOWER
+> 0000000000000030 t __libc_tsd_CTYPE_TOUPPER
+>                  t __libc_tsd_LOCALE
+930d929
+< 000000000048ee90 T __localtime_r
+931a931
+> 000000000048ee90 T __localtime_r
+933,940d932
+< 00000000006e15f8 b lock
+< 00000000006e1610 b lock
+< 00000000006e1a50 b lock
+< 00000000006e1a54 b lock
+< 00000000006e1a58 b lock
+< 00000000006e1a60 b lock
+< 00000000006e1a64 b lock
+< 00000000006e1580 b lock.10097
+941a934,940
+> 00000000006e1a64 b lock
+> 00000000006e1a60 b lock
+> 00000000006e1a58 b lock
+> 00000000006e1a54 b lock
+> 00000000006e1a50 b lock
+> 00000000006e1610 b lock
+> 00000000006e15f8 b lock
+942a942
+> 00000000006e1580 b lock.10097
+946d945
+< 00000000004b5480 r locnames
+947a947
+> 00000000004b5480 r locnames
+954,955d953
+< 00000000004605c0 W lseek
+< 00000000004605c0 W __lseek
+956a955,956
+> 00000000004605c0 W __lseek
+> 00000000004605c0 W lseek
+958,959d957
+< 000000000047f420 W _lxstat
+< 000000000047f420 T __lxstat
+961,962c959,960
+< 00000000004b9860 R ___m128i_shift_right
+< 0000000000461380 W madvise
+---
+> 000000000047f420 T __lxstat
+> 000000000047f420 W _lxstat
+963a962
+> 0000000000461380 W madvise
+968d966
+< 0000000000439610 T malloc
+969a968
+> 0000000000439610 T malloc
+977c976
+< 00000000006dfa08 V __malloc_hook
+---
+> 00000000006dfa08 W __malloc_hook
+979d977
+< 000000000043ca40 T __malloc_info
+980a979
+> 000000000043ca40 T __malloc_info
+985d983
+< 000000000043b530 T __malloc_trim
+986a985
+> 000000000043b530 T __malloc_trim
+989d987
+< 000000000043bdf0 W mallopt
+991c989
+< 00000000006e2818 b map
+---
+> 000000000043bdf0 W mallopt
+992a991
+> 00000000006e2818 b map
+1000d998
+< 000000000049bb60 W mbrlen
+1001a1000
+> 000000000049bb60 W mbrlen
+1003d1001
+< 000000000049bb80 W mbrtowc
+1005c1003
+< 000000000047bb10 W mbsrtowcs
+---
+> 000000000049bb80 W mbrtowc
+1006a1005
+> 000000000047bb10 W mbsrtowcs
+1018c1017
+< 00000000006df9f8 V __memalign_hook
+---
+> 00000000006df9f8 W __memalign_hook
+1020d1018
+< 0000000000442110 T memchr
+1022c1020,1021
+< 0000000000442470 i memcmp
+---
+> 0000000000442110 T memchr
+> 0000000000442470 T memcmp
+1027d1025
+< 00000000004488e0 W memmem
+1029c1027,1028
+< 00000000004428a0 i memmove
+---
+> 00000000004488e0 W memmem
+> 00000000004428a0 T memmove
+1031,1032d1029
+< 000000000045c590 T __memmove_avx512_unaligned
+< 000000000045c5d0 T __memmove_avx512_unaligned_erms
+1033a1031
+> 000000000045c590 T __memmove_avx512_unaligned
+1034a1033
+> 000000000045c5d0 T __memmove_avx512_unaligned_erms
+1042d1040
+< 0000000000442980 W mempcpy
+1044c1042,1043
+< 0000000000442cf0 i memset
+---
+> 0000000000442980 W mempcpy
+> 0000000000442cf0 T memset
+1046,1047d1044
+< 000000000045cad0 T __memset_avx2_unaligned
+< 000000000045cb20 T __memset_avx2_unaligned_erms
+1050a1048
+> 000000000045cad0 T __memset_avx2_unaligned
+1051a1050
+> 000000000045cb20 T __memset_avx2_unaligned_erms
+1054a1054
+> 00000000004b9860 R ___m128i_shift_right
+1061,1062d1060
+< 0000000000461290 W mmap
+< 0000000000461290 T __mmap
+1064a1063,1064
+> 0000000000461290 W mmap
+> 0000000000461290 T __mmap
+1083d1082
+< 00000000004722c0 T __mpn_mul
+1084a1084
+> 00000000004722c0 T __mpn_mul
+1091d1090
+< 0000000000462bf0 W mremap
+1092a1092
+> 0000000000462bf0 W mremap
+1096d1095
+< 0000000000461340 W munmap
+1097a1097
+> 0000000000461340 W munmap
+1099d1098
+< 00000000004020e0 t nameentcmp
+1101c1100
+< 000000000045e4f0 W nanosleep
+---
+> 00000000004020e0 t nameentcmp
+1102a1102
+> 000000000045e4f0 W nanosleep
+1108d1107
+< 00000000004d19e0 r nbits.11362
+1109a1109
+> 00000000004d19e0 r nbits.11362
+1137d1136
+< 00000000004bd7e0 R _nl_C_LC_CTYPE_class
+1138a1138
+> 00000000004bd7e0 R _nl_C_LC_CTYPE_class
+1169,1174c1169,1171
+< 0000000000000008 D _nl_current_LC_CTYPE
+< 0000000000000002 A _nl_current_LC_CTYPE_used
+< 0000000000000010 D _nl_current_LC_MONETARY
+< 0000000000000002 A _nl_current_LC_MONETARY_used
+< 0000000000000018 D _nl_current_LC_NUMERIC
+< 0000000000000002 A _nl_current_LC_NUMERIC_used
+---
+> 0000000000000008 t _nl_current_LC_CTYPE
+> 0000000000000010 t _nl_current_LC_MONETARY
+> 0000000000000018 t _nl_current_LC_NUMERIC
+1219d1215
+< 00000000004b6bda r null
+1220a1217
+> 00000000004b6bda r null
+1231d1227
+< 00000000006e1c10 b once
+1232a1229
+> 00000000006e1c10 b once
+1234a1232
+> 00000000004604a0 W __open64
+1236d1233
+< 00000000004604a0 W __open
+1238c1235
+< 00000000004604a0 W __open64
+---
+> 00000000004604a0 W __open
+1244d1240
+< 000000000047b500 T __open_memstream
+1245a1242
+> 000000000047b500 T __open_memstream
+1273d1269
+< 000000000043c790 T __posix_memalign
+1274a1271
+> 000000000043c790 T __posix_memalign
+1277d1273
+< 0000000000460310 W pread64
+1278a1275
+> 0000000000460310 W pread64
+1280,1281c1277,1278
+< 00000000006deee0 b __preinit_array_end
+< 00000000006deee0 b __preinit_array_start
+---
+> 00000000006deee0 t __preinit_array_end
+> 00000000006deee0 t __preinit_array_start
+1283,1298c1280,1293
+< 00000000004bbd00 r __PRETTY_FUNCTION__.10060
+< 00000000004cf3b8 r __PRETTY_FUNCTION__.10072
+< 00000000004b7af0 r __PRETTY_FUNCTION__.10073
+< 00000000004cf6e0 r __PRETTY_FUNCTION__.10085
+< 00000000004b7d00 r __PRETTY_FUNCTION__.10121
+< 00000000004bbb40 r __PRETTY_FUNCTION__.10135
+< 00000000004cf6b8 r __PRETTY_FUNCTION__.10135
+< 00000000004ba9f0 r __PRETTY_FUNCTION__.10224
+< 00000000004bbce0 r __PRETTY_FUNCTION__.10237
+< 00000000004b5600 r __PRETTY_FUNCTION__.10290
+< 00000000004bbb20 r __PRETTY_FUNCTION__.10317
+< 00000000004bbcc0 r __PRETTY_FUNCTION__.10399
+< 00000000004bbb00 r __PRETTY_FUNCTION__.10467
+< 00000000004d05b0 r __PRETTY_FUNCTION__.10540
+< 00000000004bbca0 r __PRETTY_FUNCTION__.10545
+< 00000000004d0340 r __PRETTY_FUNCTION__.10567
+---
+> 00000000004d1ae0 r __PRETTY_FUNCTION__.11274
+> 00000000004d18f8 r __PRETTY_FUNCTION__.11224
+> 00000000004d1a20 r __PRETTY_FUNCTION__.11274
+> 00000000004d18f8 r __PRETTY_FUNCTION__.11224
+> 00000000004d1960 r __PRETTY_FUNCTION__.11279
+> 00000000004d18f8 r __PRETTY_FUNCTION__.11229
+> 00000000004d14c8 r __PRETTY_FUNCTION__.9288
+> 00000000004d1460 r __PRETTY_FUNCTION__.12201
+> 00000000004d0c00 r __PRETTY_FUNCTION__.8466
+> 00000000004d0be8 r __PRETTY_FUNCTION__.8387
+> 00000000004d0a98 r __PRETTY_FUNCTION__.8265
+> 00000000004d09e0 r __PRETTY_FUNCTION__.10657
+> 00000000004d09d0 r __PRETTY_FUNCTION__.10602
+> 00000000004d0970 r __PRETTY_FUNCTION__.9368
+1299a1295
+> 00000000004d05b0 r __PRETTY_FUNCTION__.10540
+1301,1303d1296
+< 00000000004d09d0 r __PRETTY_FUNCTION__.10602
+< 00000000004bbae0 r __PRETTY_FUNCTION__.10613
+< 00000000004d09e0 r __PRETTY_FUNCTION__.10657
+1305,1306c1298,1318
+< 00000000004bba60 r __PRETTY_FUNCTION__.10694
+< 00000000004bbaa0 r __PRETTY_FUNCTION__.10765
+---
+> 00000000004d0340 r __PRETTY_FUNCTION__.10567
+> 00000000004d00f0 r __PRETTY_FUNCTION__.9159
+> 00000000004cfdc0 r __PRETTY_FUNCTION__.9337
+> 00000000004cfcc0 r __PRETTY_FUNCTION__.9319
+> 00000000004cfc60 r __PRETTY_FUNCTION__.9553
+> 00000000004cf6b8 r __PRETTY_FUNCTION__.10135
+> 00000000004cf6e0 r __PRETTY_FUNCTION__.10085
+> 00000000004cf6c8 r __PRETTY_FUNCTION__.9859
+> 00000000004cf3b8 r __PRETTY_FUNCTION__.10072
+> 00000000004cf410 r __PRETTY_FUNCTION__.9786
+> 00000000004bafd0 r __PRETTY_FUNCTION__.9605
+> 00000000004cf3f0 r __PRETTY_FUNCTION__.9808
+> 00000000004cf3d0 r __PRETTY_FUNCTION__.9947
+> 00000000004cec40 r __PRETTY_FUNCTION__.5964
+> 00000000004cec30 r __PRETTY_FUNCTION__.5927
+> 00000000004ceb58 r __PRETTY_FUNCTION__.9290
+> 00000000004cd570 r __PRETTY_FUNCTION__.9186
+> 00000000004ccd68 r __PRETTY_FUNCTION__.11788
+> 00000000004b7420 r __PRETTY_FUNCTION__.12000
+> 00000000004bbe00 r __PRETTY_FUNCTION__.8879
+> 00000000004bbde0 r __PRETTY_FUNCTION__.8887
+1309,1316c1321,1339
+< 00000000004b7cd0 r __PRETTY_FUNCTION__.11112
+< 00000000004d18f8 r __PRETTY_FUNCTION__.11224
+< 00000000004d18f8 r __PRETTY_FUNCTION__.11224
+< 00000000004d18f8 r __PRETTY_FUNCTION__.11229
+< 00000000004d1a20 r __PRETTY_FUNCTION__.11274
+< 00000000004d1ae0 r __PRETTY_FUNCTION__.11274
+< 00000000004b53f0 r __PRETTY_FUNCTION__.11275
+< 00000000004d1960 r __PRETTY_FUNCTION__.11279
+---
+> 00000000004bbaa0 r __PRETTY_FUNCTION__.10765
+> 00000000004bba60 r __PRETTY_FUNCTION__.10694
+> 00000000004bbca0 r __PRETTY_FUNCTION__.10545
+> 00000000004bbae0 r __PRETTY_FUNCTION__.10613
+> 00000000004bbcc0 r __PRETTY_FUNCTION__.10399
+> 00000000004bbb00 r __PRETTY_FUNCTION__.10467
+> 00000000004bbce0 r __PRETTY_FUNCTION__.10237
+> 00000000004bbb20 r __PRETTY_FUNCTION__.10317
+> 00000000004bbd00 r __PRETTY_FUNCTION__.10060
+> 00000000004bbb40 r __PRETTY_FUNCTION__.10135
+> 00000000004bbb60 r __PRETTY_FUNCTION__.9975
+> 00000000004bbd20 r __PRETTY_FUNCTION__.9908
+> 00000000004bbba0 r __PRETTY_FUNCTION__.9831
+> 00000000004bbd40 r __PRETTY_FUNCTION__.9648
+> 00000000004bbbe0 r __PRETTY_FUNCTION__.9717
+> 00000000004bbc20 r __PRETTY_FUNCTION__.9613
+> 00000000004bbc60 r __PRETTY_FUNCTION__.9518
+> 00000000004bbc80 r __PRETTY_FUNCTION__.9415
+> 00000000004bb6a0 r __PRETTY_FUNCTION__.8245
+1318,1319c1341,1350
+< 00000000004b7a08 r __PRETTY_FUNCTION__.11312
+< 00000000004b53e0 r __PRETTY_FUNCTION__.11315
+---
+> 00000000004bb050 r __PRETTY_FUNCTION__.8697
+> 00000000004bafd0 r __PRETTY_FUNCTION__.9536
+> 00000000004bafb8 r __PRETTY_FUNCTION__.9545
+> 00000000004ba9f0 r __PRETTY_FUNCTION__.10224
+> 00000000004ba978 r __PRETTY_FUNCTION__.9148
+> 00000000004ba938 r __PRETTY_FUNCTION__.7815
+> 00000000004b9d88 r __PRETTY_FUNCTION__.9290
+> 00000000004b9d10 r __PRETTY_FUNCTION__.9284
+> 00000000004b7d00 r __PRETTY_FUNCTION__.10121
+> 00000000004b7cd0 r __PRETTY_FUNCTION__.11112
+1321c1352,1354
+< 00000000004b53a8 r __PRETTY_FUNCTION__.11687
+---
+> 00000000004b7af0 r __PRETTY_FUNCTION__.10073
+> 00000000004b7a08 r __PRETTY_FUNCTION__.11312
+> 00000000004b7540 r __PRETTY_FUNCTION__.13005
+1323,1324d1355
+< 00000000004ccd68 r __PRETTY_FUNCTION__.11788
+< 00000000004b53c0 r __PRETTY_FUNCTION__.11967
+1326,1332d1356
+< 00000000004b7420 r __PRETTY_FUNCTION__.12000
+< 00000000004d1460 r __PRETTY_FUNCTION__.12201
+< 00000000004b7540 r __PRETTY_FUNCTION__.13005
+< 00000000004b4e80 r __PRETTY_FUNCTION__.4529
+< 00000000004b4e90 r __PRETTY_FUNCTION__.4579
+< 00000000004cec30 r __PRETTY_FUNCTION__.5927
+< 00000000004cec40 r __PRETTY_FUNCTION__.5964
+1334,1341d1357
+< 00000000004ba938 r __PRETTY_FUNCTION__.7815
+< 00000000004bb6a0 r __PRETTY_FUNCTION__.8245
+< 00000000004d0a98 r __PRETTY_FUNCTION__.8265
+< 00000000004d0be8 r __PRETTY_FUNCTION__.8387
+< 00000000004d0c00 r __PRETTY_FUNCTION__.8466
+< 00000000004b6050 r __PRETTY_FUNCTION__.8681
+< 00000000004bb050 r __PRETTY_FUNCTION__.8697
+< 00000000004b60e0 r __PRETTY_FUNCTION__.8802
+1343,1357c1359,1360
+< 00000000004bbe00 r __PRETTY_FUNCTION__.8879
+< 00000000004bb080 r __PRETTY_FUNCTION__.8884
+< 00000000004bbde0 r __PRETTY_FUNCTION__.8887
+< 00000000004ba978 r __PRETTY_FUNCTION__.9148
+< 00000000004d00f0 r __PRETTY_FUNCTION__.9159
+< 00000000004cd570 r __PRETTY_FUNCTION__.9186
+< 00000000004b9c50 r __PRETTY_FUNCTION__.9208
+< 00000000004b9c40 r __PRETTY_FUNCTION__.9277
+< 00000000004b9d10 r __PRETTY_FUNCTION__.9284
+< 00000000004d14c8 r __PRETTY_FUNCTION__.9288
+< 00000000004d0090 r __PRETTY_FUNCTION__.9290
+< 00000000004b9d88 r __PRETTY_FUNCTION__.9290
+< 00000000004ceb58 r __PRETTY_FUNCTION__.9290
+< 00000000004cfcc0 r __PRETTY_FUNCTION__.9319
+< 00000000004cfdc0 r __PRETTY_FUNCTION__.9337
+---
+> 00000000004b60e0 r __PRETTY_FUNCTION__.8802
+> 00000000004b6050 r __PRETTY_FUNCTION__.8681
+1359,1360c1362,1366
+< 00000000004d0070 r __PRETTY_FUNCTION__.9349
+< 00000000004d0970 r __PRETTY_FUNCTION__.9368
+---
+> 00000000004b5600 r __PRETTY_FUNCTION__.10290
+> 00000000004b9c40 r __PRETTY_FUNCTION__.9277
+> 00000000004b9c50 r __PRETTY_FUNCTION__.9208
+> 00000000004b4e90 r __PRETTY_FUNCTION__.4579
+> 00000000004b4e80 r __PRETTY_FUNCTION__.4529
+1362,1377c1368,1374
+< 00000000004bbc80 r __PRETTY_FUNCTION__.9415
+< 00000000004bbc60 r __PRETTY_FUNCTION__.9518
+< 00000000004bafd0 r __PRETTY_FUNCTION__.9536
+< 00000000004bafb8 r __PRETTY_FUNCTION__.9545
+< 00000000004cfc60 r __PRETTY_FUNCTION__.9553
+< 00000000004bafd0 r __PRETTY_FUNCTION__.9605
+< 00000000004bbc20 r __PRETTY_FUNCTION__.9613
+< 00000000004bbd40 r __PRETTY_FUNCTION__.9648
+< 00000000004bbbe0 r __PRETTY_FUNCTION__.9717
+< 00000000004cf410 r __PRETTY_FUNCTION__.9786
+< 00000000004cf3f0 r __PRETTY_FUNCTION__.9808
+< 00000000004bbba0 r __PRETTY_FUNCTION__.9831
+< 00000000004cf6c8 r __PRETTY_FUNCTION__.9859
+< 00000000004bbd20 r __PRETTY_FUNCTION__.9908
+< 00000000004cf3d0 r __PRETTY_FUNCTION__.9947
+< 00000000004bbb60 r __PRETTY_FUNCTION__.9975
+---
+> 00000000004d0070 r __PRETTY_FUNCTION__.9349
+> 00000000004d0090 r __PRETTY_FUNCTION__.9290
+> 00000000004bb080 r __PRETTY_FUNCTION__.8884
+> 00000000004b53c0 r __PRETTY_FUNCTION__.11967
+> 00000000004b53a8 r __PRETTY_FUNCTION__.11687
+> 00000000004b53f0 r __PRETTY_FUNCTION__.11275
+> 00000000004b53e0 r __PRETTY_FUNCTION__.11315
+1382d1378
+< 0000000000422560 T ___printf_fp
+1383a1380
+> 0000000000422560 T ___printf_fp
+1388d1384
+< 0000000000419fe0 t printf_positional
+1389a1386
+> 0000000000419fe0 t printf_positional
+1397,1398c1394,1395
+< 00000000006e0370 V program_invocation_name
+< 00000000006e0368 V program_invocation_short_name
+---
+> 00000000006e0370 W program_invocation_name
+> 00000000006e0368 W program_invocation_short_name
+1403d1399
+< 000000000043aec0 W pvalloc
+1404a1401
+> 000000000043aec0 W pvalloc
+1406d1402
+< 0000000000418140 T __qsort_r
+1407a1404
+> 0000000000418140 T __qsort_r
+1410d1406
+< 0000000000418c50 W random
+1411a1408
+> 0000000000418c50 W random
+1422,1423d1418
+< 000000000045e360 W readdir
+< 000000000045e360 T __readdir
+1424a1420
+> 000000000045e360 T __readdir
+1426,1427c1422
+< 00000000004ad520 t read_encoded_value_with_base
+< 00000000004b0540 t read_encoded_value_with_base
+---
+> 000000000045e360 W readdir
+1428a1424,1425
+> 00000000004b0540 t read_encoded_value_with_base
+> 00000000004ad520 t read_encoded_value_with_base
+1431d1427
+< 000000000043a240 T realloc
+1432a1429
+> 000000000043a240 T realloc
+1434c1431
+< 00000000006dfa00 V __realloc_hook
+---
+> 00000000006dfa00 W __realloc_hook
+1443d1439
+< 00000000004226e0 T __register_printf_function
+1445c1441
+< 0000000000424390 T __register_printf_modifier
+---
+> 00000000004226e0 T __register_printf_function
+1447c1443
+< 00000000004225d0 T __register_printf_specifier
+---
+> 0000000000424390 T __register_printf_modifier
+1449c1445
+< 0000000000424700 T __register_printf_type
+---
+> 00000000004225d0 T __register_printf_specifier
+1450a1447
+> 0000000000424700 T __register_printf_type
+1452,1453c1449,1450
+< 0000000000400310 r __rela_iplt_end
+< 00000000004001d8 r __rela_iplt_start
+---
+> 0000000000400310 t __rela_iplt_end
+> 00000000004001d8 t __rela_iplt_start
+1458d1454
+< 000000000047f260 W rewinddir
+1459a1456
+> 000000000047f260 W rewinddir
+1462,1463d1458
+< 000000000049c520 t round_and_return
+< 000000000049f580 t round_and_return
+1464a1460,1461
+> 000000000049f580 t round_and_return
+> 000000000049c520 t round_and_return
+1475d1471
+< 0000000000461110 W sbrk
+1477c1473
+< 00000000004602f0 T __sched_yield
+---
+> 0000000000461110 W sbrk
+1478a1475
+> 00000000004602f0 T __sched_yield
+1482d1478
+< 0000000000471030 W setenv
+1483a1480
+> 0000000000471030 W setenv
+1485d1481
+< 000000000049bd80 W setitimer
+1486a1483
+> 000000000049bd80 W setitimer
+1489d1485
+< 0000000000418ba0 W setstate
+1491c1487
+< 00000000004190d0 T __setstate_r
+---
+> 0000000000418ba0 W setstate
+1492a1489
+> 00000000004190d0 T __setstate_r
+1494d1490
+< 000000000046f7d0 W sigaction
+1495a1492
+> 000000000046f7d0 W sigaction
+1502d1498
+< 000000000048dd70 T sprintf
+1503a1500
+> 000000000048dd70 T sprintf
+1520,1522d1516
+< 00000000006e1b28 b state
+< 00000000006e1b30 b state
+< 00000000006e1c70 b state
+1523a1518,1520
+> 00000000006e1c70 b state
+> 00000000006e1b30 b state
+> 00000000006e1b28 b state
+1529,1535d1525
+< 00000000004b72c0 r step0_jumps.11766
+< 00000000004cd380 r step0_jumps.11792
+< 00000000004b71c0 r step1_jumps.11797
+< 00000000004cd280 r step1_jumps.11823
+< 00000000004b70c0 r step2_jumps.11798
+< 00000000004cd180 r step2_jumps.11824
+< 00000000004b6fc0 r step3a_jumps.11799
+1537c1527
+< 00000000004b6dc0 r step3b_jumps.11801
+---
+> 00000000004b6fc0 r step3a_jumps.11799
+1539c1529,1531
+< 00000000004b6ec0 r step4_jumps.11802
+---
+> 00000000004b6dc0 r step3b_jumps.11801
+> 00000000004cd280 r step1_jumps.11823
+> 00000000004cd180 r step2_jumps.11824
+1541c1533
+< 00000000004b6cc0 r step4_jumps.11980
+---
+> 00000000004cd380 r step0_jumps.11792
+1542a1535,1539
+> 00000000004b6ec0 r step4_jumps.11802
+> 00000000004b71c0 r step1_jumps.11797
+> 00000000004b70c0 r step2_jumps.11798
+> 00000000004b72c0 r step0_jumps.11766
+> 00000000004b6cc0 r step4_jumps.11980
+1545,1546c1542,1543
+< 0000000000442ed0 i stpcpy
+< 0000000000442ed0 i __stpcpy
+---
+> 0000000000442ed0 T __stpcpy
+> 0000000000442ed0 W stpcpy
+1550,1551c1547,1548
+< 0000000000443020 i strcasecmp
+< 0000000000443020 i __strcasecmp
+---
+> 0000000000443020 T __strcasecmp
+> 0000000000443020 W strcasecmp
+1553,1554c1550,1551
+< 0000000000442fe0 i __strcasecmp_l
+< 0000000000442fe0 i strcasecmp_l
+---
+> 0000000000442fe0 T __strcasecmp_l
+> 0000000000442fe0 W strcasecmp_l
+1560d1556
+< 0000000000443070 T __strcasecmp_sse2
+1561a1558
+> 0000000000443070 T __strcasecmp_sse2
+1563c1560
+< 000000000043cb60 i strcat
+---
+> 000000000043cb60 T strcat
+1567c1564
+< 000000000043cd50 i strchr
+---
+> 000000000043cd50 T strchr
+1572c1569,1570
+< 000000000043cf90 i strcmp
+---
+> 000000000043cf90 T strcmp
+> 000000000043e400 T __strcmp_sse42
+1575d1572
+< 000000000043e400 T __strcmp_sse42
+1577c1574
+< 000000000043f1b0 i strcpy
+---
+> 000000000043f1b0 T strcpy
+1581,1582c1578
+< 000000000043f2c0 i strcspn
+< 000000000043f2e0 T __strcspn_sse2
+---
+> 000000000043f2c0 T strcspn
+1583a1580
+> 000000000043f2e0 T __strcspn_sse2
+1587d1583
+< 000000000043f4b0 T __strerror_r
+1588a1585
+> 000000000043f4b0 T __strerror_r
+1593,1594c1590,1591
+< 00000000004a4f50 i strncasecmp
+< 00000000004a4f50 i __strncasecmp
+---
+> 00000000004a4f50 W strncasecmp
+> 00000000004a4f50 T __strncasecmp
+1596,1597c1593,1594
+< 00000000004a4f10 i __strncasecmp_l
+< 00000000004a4f10 i strncasecmp_l
+---
+> 00000000004a4f10 T __strncasecmp_l
+> 00000000004a4f10 W strncasecmp_l
+1603d1599
+< 00000000004a4fa0 T __strncasecmp_sse2
+1604a1601
+> 00000000004a4fa0 T __strncasecmp_sse2
+1607d1603
+< 000000000043f3d0 W strndup
+1608a1605
+> 000000000043f3d0 W strndup
+1615c1612
+< 0000000000441ff0 i strstr
+---
+> 0000000000441ff0 T strstr
+1620d1616
+< 00000000004a1ff0 W __strtod_l
+1621a1618
+> 00000000004a1ff0 W __strtod_l
+1633d1629
+< 00000000004712c0 W strtol
+1634a1631
+> 00000000004712c0 W strtol
+1637d1633
+< 00000000004a4be0 W __strtold_l
+1638a1635
+> 00000000004a4be0 W __strtold_l
+1642d1638
+< 00000000004712c0 W strtoll
+1645c1641
+< 00000000004712e0 T ____strtol_l_internal
+---
+> 00000000004712c0 W strtoll
+1646a1643
+> 00000000004712e0 T ____strtol_l_internal
+1652,1653d1648
+< 000000000049c230 t str_to_mpn.isra.0
+< 000000000049f290 t str_to_mpn.isra.0
+1654a1650,1651
+> 000000000049f290 t str_to_mpn.isra.0
+> 000000000049c230 t str_to_mpn.isra.0
+1656d1652
+< 0000000000419260 W strtoul
+1657a1654
+> 0000000000419260 W strtoul
+1659d1655
+< 0000000000419260 W strtoull
+1661a1658
+> 0000000000419260 W strtoull
+1664d1660
+< 00000000004196a0 W __strtoull_l
+1665a1662
+> 00000000004196a0 W __strtoull_l
+1673d1669
+< 000000000045e6d0 W sysconf
+1674a1671
+> 000000000045e6d0 W sysconf
+1676,1677c1673,1674
+< 00000000004ce240 V _sys_errlist
+< 00000000004ce240 V sys_errlist
+---
+> 00000000004ce240 W sys_errlist
+> 00000000004ce240 W _sys_errlist
+1680d1676
+< 0000000000462c10 W sysinfo
+1681a1678
+> 0000000000462c10 W sysinfo
+1683,1685c1680,1681
+< 00000000004ce678 V _sys_nerr
+< 00000000004ce678 V sys_nerr
+< 00000000004ce678 R __sys_nerr_internal
+---
+> 00000000004ce678 W _sys_nerr
+> 00000000004ce678 W sys_nerr
+1686a1683
+> 00000000004ce678 R __sys_nerr_internal
+1691d1687
+< 0000000000461930 W tdelete
+1692a1689
+> 0000000000461930 W tdelete
+1700d1696
+< 00000000004618d0 W tfind
+1702c1698,1699
+< 0000000000000040 b thread_arena
+---
+> 00000000004618d0 W tfind
+> 0000000000000040 t thread_arena
+1706d1702
+< 00000000006e1c80 V timezone
+1707a1704
+> 00000000006e1c80 W timezone
+1715d1711
+< 0000000000462cc0 W towctrans
+1716a1713
+> 0000000000462cc0 W towctrans
+1726,1727d1722
+< 0000000000461230 W truncate
+< 0000000000461230 W truncate64
+1729c1724,1725
+< 00000000004614f0 W tsearch
+---
+> 0000000000461230 W truncate64
+> 0000000000461230 W truncate
+1730a1727
+> 00000000004614f0 W tsearch
+1737d1733
+< 0000000000441540 t two_way_long_needle
+1738a1735
+> 0000000000441540 t two_way_long_needle
+1749c1746
+< 00000000006e0e70 V tzname
+---
+> 00000000006e0e70 W tzname
+1763d1759
+< 000000000047f3b0 W uname
+1764a1761
+> 000000000047f3b0 W uname
+1771d1767
+< 0000000000471090 W unsetenv
+1772a1769
+> 0000000000471090 W unsetenv
+1803d1799
+< 000000000043aa70 W valloc
+1804a1801
+> 000000000043aa70 W valloc
+1809,1810d1805
+< 000000000049b490 W vfscanf
+< 000000000049b490 T __vfscanf
+1812c1807,1808
+< 00000000004768d0 W vfwprintf
+---
+> 000000000049b490 T __vfscanf
+> 000000000049b490 W vfscanf
+1813a1810
+> 00000000004768d0 W vfwprintf
+1815d1811
+< 000000000048dfc0 W vsscanf
+1816a1813
+> 000000000048dfc0 W vsscanf
+1821d1817
+< 000000000047b6c0 W wcslen
+1822a1819
+> 000000000047b6c0 W wcslen
+1828d1824
+< 000000000045d930 W wcsnlen
+1830c1826
+< 000000000045d680 W wcsrtombs
+---
+> 000000000045d930 W wcsnlen
+1831a1828
+> 000000000045d680 W wcsrtombs
+1834d1830
+< 000000000045d400 W wmemcpy
+1835a1832
+> 000000000045d400 W wmemcpy
+1838d1834
+< 000000000045d4a0 W wmempcpy
+1840c1836
+< 000000000045d420 W wmemset
+---
+> 000000000045d4a0 W wmempcpy
+1841a1838
+> 000000000045d420 W wmemset
+1846d1842
+< 000000000047f6a0 W writev
+1847a1844
+> 000000000047f6a0 W writev
+1852a1850
+> 0000000000401eac T xmalloc
+1861,1862d1858
+< 0000000000401eac T xmalloc
+< 00000000004603e0 W _xstat
+1864a1861
+> 00000000004603e0 W _xstat
+1874d1870
+< 00000000004b7a20 r zeroes
+1875a1872
+> 00000000004b7a20 r zeroes
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/capsh
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/cfdisk
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/chcpu
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/chgpasswd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/chkconfig
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/chpasswd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/chroot
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/clock
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/cracklib-check
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/cracklib-format
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/cracklib-packer
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/cracklib-unpacker
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/create-cracklib-dict
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/ctrlaltdel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/delpart
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/dmsetup
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/dmstats
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/ether-wake
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/faillock
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fcgistarter
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fdformat
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fdisk
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/findfs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fsck
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fsck.cramfs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fsck.minix
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fsfreeze
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/fstrim
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/g13-syshelp
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/getcap
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/getpcaps
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/glibc_post_upgrade.x86_64
+3d2
+< 0000000000442ab0 W access
+4a4
+> 0000000000442ab0 W access
+12c12
+< 00000000006d17e0 V __after_morecore_hook
+---
+> 00000000006d17e0 W __after_morecore_hook
+28d27
+< 000000000046b710 T __argz_create_sep
+29a29,30
+> 000000000046b710 T __argz_create_sep
+> 000000000040fa30 T ___asprintf
+32d32
+< 000000000040fa30 T ___asprintf
+35d34
+< 00000000004451a0 W backtrace
+36a36
+> 00000000004451a0 W backtrace
+39d38
+< 0000000000445220 T __backtrace_symbols_fd
+40a40
+> 0000000000445220 T __backtrace_symbols_fd
+43d42
+< 00000000004a0450 t base_of_encoded_value
+45,46c44,45
+< 0000000000429ba0 i bcmp
+< 00000000004a8a70 r blanks
+---
+> 00000000004a0450 t base_of_encoded_value
+> 0000000000429ba0 W bcmp
+47a47
+> 00000000004a8a70 r blanks
+54d53
+< 000000000045b890 t buffered_vfprintf
+55a55
+> 000000000045b890 t buffered_vfprintf
+61d60
+< 000000000046bda0 W c32rtomb
+74c73
+< 0000000000000048 b catch_hook
+---
+> 0000000000000048 t catch_hook
+82d80
+< 0000000000455380 W clearenv
+83a82
+> 0000000000455380 W clearenv
+93,94d91
+< 00000000006d08e0 d __compound_literal.0
+< 00000000006d08d0 d __compound_literal.1
+95a93,94
+> 00000000006d08d0 d __compound_literal.1
+> 00000000006d08e0 d __compound_literal.0
+100a100
+> 000000000046bda0 W c32rtomb
+112c112
+< 00000000006d1a68 V daylight
+---
+> 00000000006d1a68 W daylight
+128d127
+< 00000000004809e0 T __dladdr
+130a130
+> 00000000004809e0 T __dladdr
+247d246
+< 000000000047c2e0 T _dl_runtime_resolve_avx
+248a248
+> 000000000047c2e0 T _dl_runtime_resolve_avx
+262c262
+< 00000000006d0370 V _dl_starting_up
+---
+> 00000000006d0370 W _dl_starting_up
+265d264
+< 000000000048e510 T __dlsym
+266a266
+> 000000000048e510 T __dlsym
+328c328
+< 0000000000400000 r __ehdr_start
+---
+> 0000000000400000 t __ehdr_start
+332,339d331
+< 00000000004c37d8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c37c8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c37e0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c37e8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c37f0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c37f8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c3800 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004c3808 r __elf_set___libc_subfreeres_element_free_mem__
+340a333,340
+> 00000000004c3808 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c3800 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37f8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37f0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37e8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37e0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37c8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004c37d8 r __elf_set___libc_subfreeres_element_free_mem__
+345,346c345
+< 00000000006d1830 V environ
+< 00000000006d1830 V _environ
+---
+> 00000000006d1830 W environ
+347a347
+> 00000000006d1830 W _environ
+350c350
+< 0000000000000020 B errno
+---
+> 0000000000000020 t errno
+357d356
+< 0000000000470180 W execve
+359c358
+< 000000000040ef20 T exit
+---
+> 0000000000470180 W execve
+360a360
+> 000000000040ef20 T exit
+375d374
+< 00000000004700a0 W fdopendir
+376a376
+> 00000000004700a0 W fdopendir
+378d377
+< 00000000004123b0 T __fgets_unlocked
+379a379
+> 00000000004123b0 T __fgets_unlocked
+385d384
+< 0000000000400580 t fini
+386a386
+> 0000000000400580 t fini
+392d391
+< 0000000000410180 W fopen
+393a393
+> 0000000000410180 W fopen
+398d397
+< 0000000000460b60 T fprintf
+399a399
+> 0000000000460b60 T fprintf
+410d409
+< 0000000000480530 T __fread_unlocked
+411a411
+> 0000000000480530 T __fread_unlocked
+416c416
+< 00000000006d17e8 V __free_hook
+---
+> 00000000006d17e8 W __free_hook
+420,427d419
+< 00000000004a5820 t free_mem
+< 00000000004a5410 t free_mem
+< 00000000004a5ab0 t free_mem
+< 00000000004a5ae0 t free_mem
+< 00000000004a5b40 t free_mem
+< 00000000004a6420 t free_mem
+< 00000000004a6500 t free_mem
+< 00000000004a6560 t free_mem
+428a421,426
+> 00000000004a6560 t free_mem
+> 00000000004a6500 t free_mem
+> 00000000004a6420 t free_mem
+> 00000000004a5b40 t free_mem
+> 00000000004a5ae0 t free_mem
+> 00000000004a5ab0 t free_mem
+429a428,429
+> 00000000004a5410 t free_mem
+> 00000000004a5820 t free_mem
+443,451c443,444
+< 00000000004a8858 r __func__.10701
+< 00000000004a87f8 r __func__.10708
+< 00000000004a8808 r __func__.10740
+< 00000000004a8900 r __func__.10751
+< 00000000004a8920 r __func__.10818
+< 00000000004a8878 r __func__.10977
+< 00000000004a8848 r __func__.11021
+< 00000000004a8838 r __func__.11032
+< 00000000004a8818 r __func__.11054
+---
+> 00000000004a7d0a r __func__.11335
+> 00000000004a87c8 r __func__.11153
+454,456d446
+< 00000000004a87c8 r __func__.11153
+< 00000000004a8888 r __func__.11194
+< 00000000004a8868 r __func__.11233
+459,460c449,459
+< 00000000004a7d0a r __func__.11335
+< 0000000000466b40 W funlockfile
+---
+> 00000000004a8818 r __func__.11054
+> 00000000004a8888 r __func__.11194
+> 00000000004a8878 r __func__.10977
+> 00000000004a8868 r __func__.11233
+> 00000000004a8858 r __func__.10701
+> 00000000004a8848 r __func__.11021
+> 00000000004a8900 r __func__.10751
+> 00000000004a8808 r __func__.10740
+> 00000000004a87f8 r __func__.10708
+> 00000000004a8838 r __func__.11032
+> 00000000004a8920 r __func__.10818
+461a461
+> 0000000000466b40 W funlockfile
+464d463
+< 00000000004428e0 W _fxstat
+465a465
+> 00000000004428e0 W _fxstat
+467d466
+< 0000000000470230 T __fxstatat
+468a468
+> 0000000000470230 T __fxstatat
+503d502
+< 000000000044f5e0 T __gconv_transform_internal_ucs2reverse
+505a505
+> 000000000044f5e0 T __gconv_transform_internal_ucs2reverse
+507,508d506
+< 000000000044dc60 T __gconv_transform_ucs2_internal
+< 000000000044ee20 T __gconv_transform_ucs2reverse_internal
+509a508
+> 000000000044dc60 T __gconv_transform_ucs2_internal
+510a510
+> 000000000044ee20 T __gconv_transform_ucs2reverse_internal
+524d523
+< 0000000000470010 T __getdents
+525a525
+> 0000000000470010 T __getdents
+530d529
+< 00000000004701d0 W getegid
+531a531
+> 00000000004701d0 W getegid
+533d532
+< 00000000004701b0 W geteuid
+534a534
+> 00000000004701b0 W geteuid
+536d535
+< 00000000004701c0 W getgid
+538c537
+< 0000000000444750 T __get_nprocs
+---
+> 00000000004701c0 W getgid
+540c539
+< 0000000000444d20 T __get_nprocs_conf
+---
+> 0000000000444750 T __get_nprocs
+542c541
+< 0000000000443580 W getpagesize
+---
+> 0000000000444d20 T __get_nprocs_conf
+543a543
+> 0000000000443580 W getpagesize
+548c548
+< 0000000000443460 W getrlimit
+---
+> 0000000000443460 T __getrlimit64
+551c551
+< 0000000000443460 T __getrlimit64
+---
+> 0000000000443460 W getrlimit
+556d555
+< 00000000004701a0 W getuid
+557a557
+> 00000000004701a0 W getuid
+561d560
+< 000000000042a630 T __GI_stpcpy
+562a562
+> 000000000042a630 T __GI_stpcpy
+571d570
+< 0000000000455e80 t group_number
+572a572
+> 0000000000455e80 t group_number
+582,586c582
+< 0000000000455fe0 t _i18n_number_rewrite
+< 000000000045bc20 t _i18n_number_rewrite
+< 0000000000460f30 t _i18n_number_rewrite
+< 0000000000424d00 i index
+< 0000000000480590 t init
+---
+> 0000000000424d00 W index
+587a584
+> 0000000000480590 t init
+594a592,594
+> 0000000000460f30 t _i18n_number_rewrite
+> 000000000045bc20 t _i18n_number_rewrite
+> 0000000000455fe0 t _i18n_number_rewrite
+596d595
+< 00000000004a96a0 r intel_02_known
+597a597
+> 00000000004a96a0 r intel_02_known
+605,607d604
+< 00000000006cf0c0 D _IO_2_1_stderr_
+< 00000000006cf500 D _IO_2_1_stdin_
+< 00000000006cf2e0 D _IO_2_1_stdout_
+678d674
+< 00000000004c3d60 r _IO_helper_jumps
+680c676
+< 0000000000456270 t _IO_helper_overflow
+---
+> 00000000004c3d60 r _IO_helper_jumps
+681a678
+> 0000000000456270 t _IO_helper_overflow
+728a726
+> 00000000006cf0c0 D _IO_2_1_stderr_
+733a732
+> 00000000006cf500 D _IO_2_1_stdin_
+735a735
+> 00000000006cf2e0 D _IO_2_1_stdout_
+790d789
+< 0000000000470290 W isatty
+791a791
+> 0000000000470290 W isatty
+799d798
+< 00000000004b8a00 r jump_table
+800a800
+> 00000000004b8a00 r jump_table
+824c824
+< 0000000000000020 B __libc_errno
+---
+> 0000000000000020 t __libc_errno
+838c838
+< 0000000000429fd0 i __libc_memmove
+---
+> 0000000000429fd0 T __libc_memmove
+857c857
+< 0000000000429820 i __libc_strstr
+---
+> 0000000000429820 T __libc_strstr
+859,862c859,862
+< 0000000000000040 B __libc_tsd_CTYPE_B
+< 0000000000000030 B __libc_tsd_CTYPE_TOLOWER
+< 0000000000000038 B __libc_tsd_CTYPE_TOUPPER
+< 0000000000000008 D __libc_tsd_LOCALE
+---
+> 0000000000000040 t __libc_tsd_CTYPE_B
+> 0000000000000030 t __libc_tsd_CTYPE_TOLOWER
+> 0000000000000038 t __libc_tsd_CTYPE_TOUPPER
+> 0000000000000008 t __libc_tsd_LOCALE
+877d876
+< 00000000004810f0 T __localtime_r
+879,883c878
+< 00000000006d1318 b lock
+< 00000000006d1330 b lock
+< 00000000006d1770 b lock
+< 00000000006d1a24 b lock
+< 00000000006d1a2c b lock
+---
+> 00000000004810f0 T __localtime_r
+885c880,881
+< 00000000006d12a0 b lock.10097
+---
+> 00000000006d1a2c b lock
+> 00000000006d1a24 b lock
+886a883,885
+> 00000000006d1770 b lock
+> 00000000006d1330 b lock
+> 00000000006d1318 b lock
+887a887
+> 00000000006d12a0 b lock.10097
+893,894d892
+< 0000000000442a50 W lseek
+< 0000000000442a50 W __lseek
+895a894,895
+> 0000000000442a50 W __lseek
+> 0000000000442a50 W lseek
+897,898d896
+< 00000000004701e0 W _lxstat
+< 00000000004701e0 T __lxstat
+900,901c898,899
+< 00000000004a94d0 R ___m128i_shift_right
+< 0000000000443720 W madvise
+---
+> 00000000004701e0 T __lxstat
+> 00000000004701e0 W _lxstat
+902a901
+> 0000000000443720 W madvise
+907d905
+< 0000000000421860 T malloc
+908a907
+> 0000000000421860 T malloc
+916c915
+< 00000000006cf768 V __malloc_hook
+---
+> 00000000006cf768 W __malloc_hook
+918d916
+< 0000000000424c90 T __malloc_info
+919a918
+> 0000000000424c90 T __malloc_info
+924d922
+< 0000000000423780 T __malloc_trim
+925a924
+> 0000000000423780 T __malloc_trim
+928d926
+< 0000000000424040 W mallopt
+930c928
+< 00000000006d25b8 b map
+---
+> 0000000000424040 W mallopt
+931a930
+> 00000000006d25b8 b map
+938d936
+< 000000000048e750 W mbrlen
+939a938
+> 000000000048e750 W mbrlen
+941d939
+< 000000000048e770 W mbrtowc
+943c941
+< 000000000046bf70 W mbsrtowcs
+---
+> 000000000048e770 W mbrtowc
+944a943
+> 000000000046bf70 W mbsrtowcs
+949c948
+< 00000000006cf758 V __memalign_hook
+---
+> 00000000006cf758 W __memalign_hook
+951d949
+< 0000000000429840 T memchr
+953c951,952
+< 0000000000429ba0 i memcmp
+---
+> 0000000000429840 T memchr
+> 0000000000429ba0 T memcmp
+958d956
+< 000000000046b350 W memmem
+960c958,959
+< 0000000000429fd0 i memmove
+---
+> 000000000046b350 W memmem
+> 0000000000429fd0 T memmove
+962,963d960
+< 0000000000440e20 T __memmove_avx512_unaligned
+< 0000000000440e60 T __memmove_avx512_unaligned_erms
+964a962
+> 0000000000440e20 T __memmove_avx512_unaligned
+965a964
+> 0000000000440e60 T __memmove_avx512_unaligned_erms
+973d971
+< 000000000042a0b0 W mempcpy
+975c973,974
+< 000000000042a420 i memset
+---
+> 000000000042a0b0 W mempcpy
+> 000000000042a420 T memset
+977,978d975
+< 0000000000441360 T __memset_avx2_unaligned
+< 00000000004413b0 T __memset_avx2_unaligned_erms
+981a979
+> 0000000000441360 T __memset_avx2_unaligned
+982a981
+> 00000000004413b0 T __memset_avx2_unaligned_erms
+986a986
+> 00000000004a94d0 R ___m128i_shift_right
+989,990d988
+< 0000000000443630 W mmap
+< 0000000000443630 T __mmap
+992a991,992
+> 0000000000443630 W mmap
+> 0000000000443630 T __mmap
+1011d1010
+< 000000000047ea40 T __mpn_mul
+1012a1012
+> 000000000047ea40 T __mpn_mul
+1019d1018
+< 0000000000444f90 W mremap
+1020a1020
+> 0000000000444f90 W mremap
+1024d1023
+< 00000000004436e0 W munmap
+1025a1025
+> 00000000004436e0 W munmap
+1031d1030
+< 00000000004c2f40 r nbits.11362
+1032a1032
+> 00000000004c2f40 r nbits.11362
+1057d1056
+< 00000000004adbe0 R _nl_C_LC_CTYPE_class
+1058a1058
+> 00000000004adbe0 R _nl_C_LC_CTYPE_class
+1089,1094c1089,1091
+< 0000000000000000 D _nl_current_LC_CTYPE
+< 0000000000000002 A _nl_current_LC_CTYPE_used
+< 0000000000000010 D _nl_current_LC_MONETARY
+< 0000000000000002 A _nl_current_LC_MONETARY_used
+< 0000000000000018 D _nl_current_LC_NUMERIC
+< 0000000000000002 A _nl_current_LC_NUMERIC_used
+---
+>                  t _nl_current_LC_CTYPE
+> 0000000000000010 t _nl_current_LC_MONETARY
+> 0000000000000018 t _nl_current_LC_NUMERIC
+1139d1135
+< 00000000004b8216 r null
+1140a1137
+> 00000000004b8216 r null
+1149d1145
+< 00000000006d18b0 b once
+1150a1147
+> 00000000006d18b0 b once
+1152a1150
+> 0000000000442930 W __open64
+1154d1151
+< 0000000000442930 W __open
+1156c1153
+< 0000000000442930 W __open64
+---
+> 0000000000442930 W __open
+1181d1177
+< 00000000004249e0 T __posix_memalign
+1183,1212c1179,1182
+< 00000000006ceee0 b __preinit_array_end
+< 00000000006ceee0 b __preinit_array_start
+< 00000000004ab660 r __PRETTY_FUNCTION__.10060
+< 00000000004ba7f8 r __PRETTY_FUNCTION__.10072
+< 00000000004a78e0 r __PRETTY_FUNCTION__.10073
+< 00000000004bab20 r __PRETTY_FUNCTION__.10085
+< 00000000004a7a00 r __PRETTY_FUNCTION__.10121
+< 00000000004ab4a0 r __PRETTY_FUNCTION__.10135
+< 00000000004baaf8 r __PRETTY_FUNCTION__.10135
+< 00000000004aa350 r __PRETTY_FUNCTION__.10224
+< 00000000004ab640 r __PRETTY_FUNCTION__.10237
+< 00000000004a6ee0 r __PRETTY_FUNCTION__.10290
+< 00000000004ab480 r __PRETTY_FUNCTION__.10317
+< 00000000004ab620 r __PRETTY_FUNCTION__.10399
+< 00000000004ab460 r __PRETTY_FUNCTION__.10467
+< 00000000004bb920 r __PRETTY_FUNCTION__.10540
+< 00000000004ab600 r __PRETTY_FUNCTION__.10545
+< 00000000004bb6b0 r __PRETTY_FUNCTION__.10567
+< 00000000004bb930 r __PRETTY_FUNCTION__.10567
+< 00000000004bb690 r __PRETTY_FUNCTION__.10585
+< 00000000004c1e70 r __PRETTY_FUNCTION__.10602
+< 00000000004ab440 r __PRETTY_FUNCTION__.10613
+< 00000000004c1e80 r __PRETTY_FUNCTION__.10657
+< 00000000004bb6a0 r __PRETTY_FUNCTION__.10659
+< 00000000004ab3c0 r __PRETTY_FUNCTION__.10694
+< 00000000004ab400 r __PRETTY_FUNCTION__.10765
+< 00000000004ab340 r __PRETTY_FUNCTION__.10846
+< 00000000004ab380 r __PRETTY_FUNCTION__.10917
+< 00000000004a79d0 r __PRETTY_FUNCTION__.11112
+< 00000000004c2e68 r __PRETTY_FUNCTION__.11224
+---
+> 00000000004249e0 T __posix_memalign
+> 00000000006ceee0 t __preinit_array_end
+> 00000000006ceee0 t __preinit_array_start
+> 00000000004c3040 r __PRETTY_FUNCTION__.11274
+1214d1183
+< 00000000004c2e68 r __PRETTY_FUNCTION__.11229
+1216c1185
+< 00000000004c3040 r __PRETTY_FUNCTION__.11274
+---
+> 00000000004c2e68 r __PRETTY_FUNCTION__.11224
+1218,1219c1187,1217
+< 00000000004aab60 r __PRETTY_FUNCTION__.11291
+< 00000000004a78a8 r __PRETTY_FUNCTION__.11312
+---
+> 00000000004c2e68 r __PRETTY_FUNCTION__.11229
+> 00000000004c2a38 r __PRETTY_FUNCTION__.9288
+> 00000000004c29d0 r __PRETTY_FUNCTION__.12201
+> 00000000004c20a0 r __PRETTY_FUNCTION__.8466
+> 00000000004c2088 r __PRETTY_FUNCTION__.8387
+> 00000000004c1f38 r __PRETTY_FUNCTION__.8265
+> 00000000004c1e80 r __PRETTY_FUNCTION__.10657
+> 00000000004c1e70 r __PRETTY_FUNCTION__.10602
+> 00000000004c1e10 r __PRETTY_FUNCTION__.9368
+> 00000000004bb930 r __PRETTY_FUNCTION__.10567
+> 00000000004bb920 r __PRETTY_FUNCTION__.10540
+> 00000000004bb690 r __PRETTY_FUNCTION__.10585
+> 00000000004bb6a0 r __PRETTY_FUNCTION__.10659
+> 00000000004bb6b0 r __PRETTY_FUNCTION__.10567
+> 00000000004bb460 r __PRETTY_FUNCTION__.9159
+> 00000000004bb200 r __PRETTY_FUNCTION__.9337
+> 00000000004bb100 r __PRETTY_FUNCTION__.9319
+> 00000000004bb0a0 r __PRETTY_FUNCTION__.9553
+> 00000000004baaf8 r __PRETTY_FUNCTION__.10135
+> 00000000004bab20 r __PRETTY_FUNCTION__.10085
+> 00000000004bab08 r __PRETTY_FUNCTION__.9859
+> 00000000004ba7f8 r __PRETTY_FUNCTION__.10072
+> 00000000004ba850 r __PRETTY_FUNCTION__.9786
+> 00000000004aa930 r __PRETTY_FUNCTION__.9605
+> 00000000004ba830 r __PRETTY_FUNCTION__.9808
+> 00000000004ba810 r __PRETTY_FUNCTION__.9947
+> 00000000004ba080 r __PRETTY_FUNCTION__.5964
+> 00000000004ba068 r __PRETTY_FUNCTION__.5927
+> 00000000004b9f90 r __PRETTY_FUNCTION__.9290
+> 00000000004b9f38 r __PRETTY_FUNCTION__.9290
+> 00000000004b9ec0 r __PRETTY_FUNCTION__.9284
+1221d1218
+< 00000000004b8a80 r __PRETTY_FUNCTION__.11762
+1223d1219
+< 00000000004b8a60 r __PRETTY_FUNCTION__.11976
+1225d1220
+< 00000000004c29d0 r __PRETTY_FUNCTION__.12201
+1227,1237c1222,1223
+< 00000000004ba068 r __PRETTY_FUNCTION__.5927
+< 00000000004ba080 r __PRETTY_FUNCTION__.5964
+< 00000000004a7878 r __PRETTY_FUNCTION__.7280
+< 00000000004aa298 r __PRETTY_FUNCTION__.7815
+< 00000000004ab000 r __PRETTY_FUNCTION__.8245
+< 00000000004c1f38 r __PRETTY_FUNCTION__.8265
+< 00000000004c2088 r __PRETTY_FUNCTION__.8387
+< 00000000004c20a0 r __PRETTY_FUNCTION__.8466
+< 00000000004ac150 r __PRETTY_FUNCTION__.8681
+< 00000000004aa9b0 r __PRETTY_FUNCTION__.8697
+< 00000000004ac1e0 r __PRETTY_FUNCTION__.8802
+---
+> 00000000004b8a80 r __PRETTY_FUNCTION__.11762
+> 00000000004b8a60 r __PRETTY_FUNCTION__.11976
+1238a1225,1227
+> 00000000004ac1e0 r __PRETTY_FUNCTION__.8802
+> 00000000004ac150 r __PRETTY_FUNCTION__.8681
+> 00000000004aba30 r __PRETTY_FUNCTION__.9341
+1240d1228
+< 00000000004aa9e0 r __PRETTY_FUNCTION__.8884
+1242,1257c1230,1247
+< 00000000004aa2d8 r __PRETTY_FUNCTION__.9148
+< 00000000004bb460 r __PRETTY_FUNCTION__.9159
+< 00000000004a98d0 r __PRETTY_FUNCTION__.9208
+< 00000000004a98c0 r __PRETTY_FUNCTION__.9277
+< 00000000004b9ec0 r __PRETTY_FUNCTION__.9284
+< 00000000004c2a38 r __PRETTY_FUNCTION__.9288
+< 00000000004bb400 r __PRETTY_FUNCTION__.9290
+< 00000000004b9f38 r __PRETTY_FUNCTION__.9290
+< 00000000004b9f90 r __PRETTY_FUNCTION__.9290
+< 00000000004bb100 r __PRETTY_FUNCTION__.9319
+< 00000000004bb200 r __PRETTY_FUNCTION__.9337
+< 00000000004aba30 r __PRETTY_FUNCTION__.9341
+< 00000000004bb3e0 r __PRETTY_FUNCTION__.9349
+< 00000000004c1e10 r __PRETTY_FUNCTION__.9368
+< 00000000004bb3c0 r __PRETTY_FUNCTION__.9388
+< 00000000004ab5e0 r __PRETTY_FUNCTION__.9415
+---
+> 00000000004ab340 r __PRETTY_FUNCTION__.10846
+> 00000000004ab380 r __PRETTY_FUNCTION__.10917
+> 00000000004ab400 r __PRETTY_FUNCTION__.10765
+> 00000000004ab3c0 r __PRETTY_FUNCTION__.10694
+> 00000000004ab600 r __PRETTY_FUNCTION__.10545
+> 00000000004ab440 r __PRETTY_FUNCTION__.10613
+> 00000000004ab620 r __PRETTY_FUNCTION__.10399
+> 00000000004ab460 r __PRETTY_FUNCTION__.10467
+> 00000000004ab640 r __PRETTY_FUNCTION__.10237
+> 00000000004ab480 r __PRETTY_FUNCTION__.10317
+> 00000000004ab660 r __PRETTY_FUNCTION__.10060
+> 00000000004ab4a0 r __PRETTY_FUNCTION__.10135
+> 00000000004ab4c0 r __PRETTY_FUNCTION__.9975
+> 00000000004ab680 r __PRETTY_FUNCTION__.9908
+> 00000000004ab500 r __PRETTY_FUNCTION__.9831
+> 00000000004ab6a0 r __PRETTY_FUNCTION__.9648
+> 00000000004ab540 r __PRETTY_FUNCTION__.9717
+> 00000000004ab580 r __PRETTY_FUNCTION__.9613
+1258a1249,1252
+> 00000000004ab5e0 r __PRETTY_FUNCTION__.9415
+> 00000000004ab000 r __PRETTY_FUNCTION__.8245
+> 00000000004aab60 r __PRETTY_FUNCTION__.11291
+> 00000000004aa9b0 r __PRETTY_FUNCTION__.8697
+1261,1272c1255,1269
+< 00000000004bb0a0 r __PRETTY_FUNCTION__.9553
+< 00000000004aa930 r __PRETTY_FUNCTION__.9605
+< 00000000004ab580 r __PRETTY_FUNCTION__.9613
+< 00000000004ab6a0 r __PRETTY_FUNCTION__.9648
+< 00000000004ab540 r __PRETTY_FUNCTION__.9717
+< 00000000004ba850 r __PRETTY_FUNCTION__.9786
+< 00000000004ba830 r __PRETTY_FUNCTION__.9808
+< 00000000004ab500 r __PRETTY_FUNCTION__.9831
+< 00000000004bab08 r __PRETTY_FUNCTION__.9859
+< 00000000004ab680 r __PRETTY_FUNCTION__.9908
+< 00000000004ba810 r __PRETTY_FUNCTION__.9947
+< 00000000004ab4c0 r __PRETTY_FUNCTION__.9975
+---
+> 00000000004aa350 r __PRETTY_FUNCTION__.10224
+> 00000000004aa2d8 r __PRETTY_FUNCTION__.9148
+> 00000000004aa298 r __PRETTY_FUNCTION__.7815
+> 00000000004a7a00 r __PRETTY_FUNCTION__.10121
+> 00000000004a79d0 r __PRETTY_FUNCTION__.11112
+> 00000000004a78e0 r __PRETTY_FUNCTION__.10073
+> 00000000004a78a8 r __PRETTY_FUNCTION__.11312
+> 00000000004a7878 r __PRETTY_FUNCTION__.7280
+> 00000000004a6ee0 r __PRETTY_FUNCTION__.10290
+> 00000000004a98c0 r __PRETTY_FUNCTION__.9277
+> 00000000004a98d0 r __PRETTY_FUNCTION__.9208
+> 00000000004bb3c0 r __PRETTY_FUNCTION__.9388
+> 00000000004bb3e0 r __PRETTY_FUNCTION__.9349
+> 00000000004bb400 r __PRETTY_FUNCTION__.9290
+> 00000000004aa9e0 r __PRETTY_FUNCTION__.8884
+1275d1271
+< 000000000045e8d0 T ___printf_fp
+1276a1273
+> 000000000045e8d0 T ___printf_fp
+1281d1277
+< 0000000000456350 t printf_positional
+1282a1279
+> 0000000000456350 t printf_positional
+1290,1291c1287,1288
+< 00000000006d00c8 V program_invocation_name
+< 00000000006d00c0 V program_invocation_short_name
+---
+> 00000000006d00c8 W program_invocation_name
+> 00000000006d00c0 W program_invocation_short_name
+1293d1289
+< 0000000000423110 W pvalloc
+1294a1291
+> 0000000000423110 W pvalloc
+1296d1292
+< 000000000040e850 T __qsort_r
+1297a1294
+> 000000000040e850 T __qsort_r
+1306,1307d1302
+< 000000000046fe80 W readdir
+< 000000000046fe80 T __readdir
+1308a1304
+> 000000000046fe80 T __readdir
+1310,1311c1306
+< 00000000004a0310 t read_encoded_value_with_base
+< 00000000004a3330 t read_encoded_value_with_base
+---
+> 000000000046fe80 W readdir
+1313c1308,1309
+< 0000000000443420 W readlink
+---
+> 00000000004a3330 t read_encoded_value_with_base
+> 00000000004a0310 t read_encoded_value_with_base
+1314a1311
+> 0000000000443420 W readlink
+1317d1313
+< 0000000000422490 T realloc
+1318a1315
+> 0000000000422490 T realloc
+1320c1317
+< 00000000006cf760 V __realloc_hook
+---
+> 00000000006cf760 W __realloc_hook
+1329d1325
+< 000000000045ea50 T __register_printf_function
+1331c1327
+< 0000000000460700 T __register_printf_modifier
+---
+> 000000000045ea50 T __register_printf_function
+1333c1329
+< 000000000045e940 T __register_printf_specifier
+---
+> 0000000000460700 T __register_printf_modifier
+1335c1331
+< 0000000000460a70 T __register_printf_type
+---
+> 000000000045e940 T __register_printf_specifier
+1336a1333
+> 0000000000460a70 T __register_printf_type
+1338,1339c1335,1336
+< 00000000004002e0 r __rela_iplt_end
+< 00000000004001d8 r __rela_iplt_start
+---
+> 00000000004002e0 t __rela_iplt_end
+> 00000000004001d8 t __rela_iplt_start
+1343d1339
+< 000000000046ff80 W rewinddir
+1344a1341
+> 000000000046ff80 W rewinddir
+1347,1348d1343
+< 000000000048f2f0 t round_and_return
+< 0000000000492350 t round_and_return
+1349a1345,1346
+> 0000000000492350 t round_and_return
+> 000000000048f2f0 t round_and_return
+1361d1357
+< 00000000004434f0 W sbrk
+1363c1359
+< 0000000000442800 T __sched_yield
+---
+> 00000000004434f0 W sbrk
+1364a1361
+> 0000000000442800 T __sched_yield
+1368d1364
+< 00000000004551e0 W setenv
+1369a1366
+> 00000000004551e0 W setenv
+1371d1367
+< 00000000004a02f0 W setitimer
+1372a1369
+> 00000000004a02f0 W setitimer
+1375d1371
+< 0000000000453980 W sigaction
+1376a1373
+> 0000000000453980 W sigaction
+1395,1397d1391
+< 00000000006d1a38 b state
+< 00000000006d1a40 b state
+< 00000000006d1a48 b state
+1398a1393,1395
+> 00000000006d1a48 b state
+> 00000000006d1a40 b state
+> 00000000006d1a38 b state
+1404,1410d1400
+< 00000000004b8900 r step0_jumps.11766
+< 00000000004b91e0 r step0_jumps.11792
+< 00000000004b8800 r step1_jumps.11797
+< 00000000004b90e0 r step1_jumps.11823
+< 00000000004b8700 r step2_jumps.11798
+< 00000000004b8fe0 r step2_jumps.11824
+< 00000000004b8600 r step3a_jumps.11799
+1412c1402
+< 00000000004b8400 r step3b_jumps.11801
+---
+> 00000000004b8600 r step3a_jumps.11799
+1414c1404,1406
+< 00000000004b8500 r step4_jumps.11802
+---
+> 00000000004b8400 r step3b_jumps.11801
+> 00000000004b90e0 r step1_jumps.11823
+> 00000000004b8fe0 r step2_jumps.11824
+1416c1408
+< 00000000004b8300 r step4_jumps.11980
+---
+> 00000000004b91e0 r step0_jumps.11792
+1417a1410,1414
+> 00000000004b8500 r step4_jumps.11802
+> 00000000004b8800 r step1_jumps.11797
+> 00000000004b8700 r step2_jumps.11798
+> 00000000004b8900 r step0_jumps.11766
+> 00000000004b8300 r step4_jumps.11980
+1420,1421c1417,1418
+< 000000000042a600 i stpcpy
+< 000000000042a600 i __stpcpy
+---
+> 000000000042a600 T __stpcpy
+> 000000000042a600 W stpcpy
+1425,1426c1422,1423
+< 000000000042a750 i strcasecmp
+< 000000000042a750 i __strcasecmp
+---
+> 000000000042a750 T __strcasecmp
+> 000000000042a750 W strcasecmp
+1428,1429c1425,1426
+< 000000000042a710 i __strcasecmp_l
+< 000000000042a710 i strcasecmp_l
+---
+> 000000000042a710 T __strcasecmp_l
+> 000000000042a710 W strcasecmp_l
+1435d1431
+< 000000000042a7a0 T __strcasecmp_sse2
+1436a1433
+> 000000000042a7a0 T __strcasecmp_sse2
+1438c1435
+< 0000000000424d00 i strchr
+---
+> 0000000000424d00 T strchr
+1443c1440,1441
+< 0000000000424f40 i strcmp
+---
+> 0000000000424f40 T strcmp
+> 00000000004263b0 T __strcmp_sse42
+1446d1443
+< 00000000004263b0 T __strcmp_sse42
+1448c1445
+< 0000000000427160 i strcpy
+---
+> 0000000000427160 T strcpy
+1452,1453c1449
+< 0000000000427270 i strcspn
+< 0000000000427290 T __strcspn_sse2
+---
+> 0000000000427270 T strcspn
+1454a1451
+> 0000000000427290 T __strcspn_sse2
+1458d1454
+< 000000000046a7b0 T __strerror_r
+1459a1456
+> 000000000046a7b0 T __strerror_r
+1464,1465c1461,1462
+< 0000000000497d20 i strncasecmp
+< 0000000000497d20 i __strncasecmp
+---
+> 0000000000497d20 W strncasecmp
+> 0000000000497d20 T __strncasecmp
+1467,1468c1464,1465
+< 0000000000497ce0 i __strncasecmp_l
+< 0000000000497ce0 i strncasecmp_l
+---
+> 0000000000497ce0 T __strncasecmp_l
+> 0000000000497ce0 W strncasecmp_l
+1474d1470
+< 0000000000497d70 T __strncasecmp_sse2
+1475a1472
+> 0000000000497d70 T __strncasecmp_sse2
+1478d1474
+< 000000000046a760 W strndup
+1479a1476
+> 000000000046a760 W strndup
+1486c1483
+< 0000000000429820 i strstr
+---
+> 0000000000429820 T strstr
+1491d1487
+< 0000000000494dc0 W __strtod_l
+1492a1489
+> 0000000000494dc0 W __strtod_l
+1503d1499
+< 0000000000455470 W strtol
+1504a1501
+> 0000000000455470 W strtol
+1507d1503
+< 00000000004979b0 W __strtold_l
+1508a1505
+> 00000000004979b0 W __strtold_l
+1512d1508
+< 0000000000455470 W strtoll
+1515c1511
+< 0000000000455490 T ____strtol_l_internal
+---
+> 0000000000455470 W strtoll
+1516a1513
+> 0000000000455490 T ____strtol_l_internal
+1522,1523d1518
+< 000000000048f000 t str_to_mpn.isra.0
+< 0000000000492060 t str_to_mpn.isra.0
+1524a1520,1521
+> 0000000000492060 t str_to_mpn.isra.0
+> 000000000048f000 t str_to_mpn.isra.0
+1526d1522
+< 000000000040f180 W strtoul
+1527a1524
+> 000000000040f180 W strtoul
+1529d1525
+< 000000000040f180 W strtoull
+1531a1528
+> 000000000040f180 W strtoull
+1534d1530
+< 000000000040f5c0 W __strtoull_l
+1535a1532
+> 000000000040f5c0 W __strtoull_l
+1541d1537
+< 0000000000442410 W sysconf
+1542a1539
+> 0000000000442410 W sysconf
+1544,1545c1541,1542
+< 00000000004c1700 V _sys_errlist
+< 00000000004c1700 V sys_errlist
+---
+> 00000000004c1700 W sys_errlist
+> 00000000004c1700 W _sys_errlist
+1548d1544
+< 0000000000444fb0 W sysinfo
+1549a1546
+> 0000000000444fb0 W sysinfo
+1551,1553c1548,1549
+< 00000000004c1b38 V _sys_nerr
+< 00000000004c1b38 V sys_nerr
+< 00000000004c1b38 R __sys_nerr_internal
+---
+> 00000000004c1b38 W _sys_nerr
+> 00000000004c1b38 W sys_nerr
+1554a1551
+> 00000000004c1b38 R __sys_nerr_internal
+1559d1555
+< 0000000000443cd0 W tdelete
+1560a1557
+> 0000000000443cd0 W tdelete
+1568d1564
+< 0000000000443c70 W tfind
+1570c1566,1567
+< 0000000000000028 b thread_arena
+---
+> 0000000000443c70 W tfind
+> 0000000000000028 t thread_arena
+1574d1570
+< 00000000006d1a60 V timezone
+1575a1572
+> 00000000006d1a60 W timezone
+1582d1578
+< 00000000004704e0 W towctrans
+1583a1580
+> 00000000004704e0 W towctrans
+1593d1589
+< 0000000000443890 W tsearch
+1594a1591
+> 0000000000443890 W tsearch
+1601d1597
+< 0000000000428d70 t two_way_long_needle
+1602a1599
+> 0000000000428d70 t two_way_long_needle
+1613c1610
+< 00000000006d0cb0 V tzname
+---
+> 00000000006d0cb0 W tzname
+1627d1623
+< 0000000000470160 W uname
+1628a1625
+> 0000000000470160 W uname
+1634d1630
+< 0000000000455240 W unsetenv
+1635a1632
+> 0000000000455240 W unsetenv
+1660d1656
+< 0000000000443600 W utimes
+1661a1658
+> 0000000000443600 W utimes
+1667d1663
+< 0000000000422cc0 W valloc
+1668a1665
+> 0000000000422cc0 W valloc
+1674,1675d1670
+< 000000000048e080 W vfscanf
+< 000000000048e080 T __vfscanf
+1677c1672,1673
+< 0000000000463970 W vfwprintf
+---
+> 000000000048e080 T __vfscanf
+> 000000000048e080 W vfscanf
+1679c1675
+< 0000000000480190 W vsscanf
+---
+> 0000000000463970 W vfwprintf
+1681c1677
+< 00000000004421e0 W waitpid
+---
+> 0000000000480190 W vsscanf
+1682a1679
+> 00000000004421e0 W waitpid
+1687d1683
+< 000000000046b8b0 W wcslen
+1688a1685
+> 000000000046b8b0 W wcslen
+1694d1690
+< 000000000046c240 W wcsnlen
+1696c1692
+< 000000000046bf90 W wcsrtombs
+---
+> 000000000046c240 W wcsnlen
+1697a1694
+> 000000000046bf90 W wcsrtombs
+1700d1696
+< 000000000046bb50 W wmemcpy
+1701a1698
+> 000000000046bb50 W wmemcpy
+1704d1700
+< 0000000000441c90 W wmempcpy
+1706c1702
+< 000000000046bb70 W wmemset
+---
+> 0000000000441c90 W wmempcpy
+1707a1704
+> 000000000046bb70 W wmemset
+1712d1708
+< 00000000004703f0 W writev
+1713a1710
+> 00000000004703f0 W writev
+1727d1723
+< 0000000000442890 W _xstat
+1729a1726
+> 0000000000442890 W _xstat
+1739d1735
+< 00000000004b9c80 r zeroes
+1740a1737
+> 00000000004b9c80 r zeroes
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/groupadd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/groupdel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/groupmems
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/groupmod
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/grpck
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/grpconv
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/grpunconv
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/halt
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/htcacheclean
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/httpd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/hwclock
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/iconvconfig
+92a93
+> 0000000000404bd8 r __PRETTY_FUNCTION__.5338
+95,97c96
+< 0000000000404bd8 r __PRETTY_FUNCTION__.5338
+< 0000000000404558 r __PRETTY_FUNCTION__.6544
+< 0000000000404548 r __PRETTY_FUNCTION__.6627
+---
+> 0000000000404538 r __PRETTY_FUNCTION__.6876
+98a98,99
+> 0000000000404548 r __PRETTY_FUNCTION__.6627
+> 0000000000404558 r __PRETTY_FUNCTION__.6544
+100d100
+< 0000000000404538 r __PRETTY_FUNCTION__.6876
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/iconvconfig.x86_64
+92a93
+> 0000000000404bd8 r __PRETTY_FUNCTION__.5338
+95,97c96
+< 0000000000404bd8 r __PRETTY_FUNCTION__.5338
+< 0000000000404558 r __PRETTY_FUNCTION__.6544
+< 0000000000404548 r __PRETTY_FUNCTION__.6627
+---
+> 0000000000404538 r __PRETTY_FUNCTION__.6876
+98a98,99
+> 0000000000404548 r __PRETTY_FUNCTION__.6627
+> 0000000000404558 r __PRETTY_FUNCTION__.6544
+100d100
+< 0000000000404538 r __PRETTY_FUNCTION__.6876
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/ifconfig
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/init
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/install-info
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/ipmaddr
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/iptunnel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/ldattach
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/ldconfig
+4d3
+< 000000000045c2d0 W access
+5a5
+> 000000000045c2d0 W access
+14c14
+< 00000000006f8ac0 V __after_morecore_hook
+---
+> 00000000006f8ac0 W __after_morecore_hook
+38d37
+< 00000000004952d0 T __argp_failure
+39a39
+> 00000000004952d0 T __argp_failure
+45d44
+< 0000000000496fc0 T __argp_help
+46a46
+> 0000000000496fc0 T __argp_help
+51d50
+< 0000000000460310 T __argp_parse
+52a52
+> 0000000000460310 T __argp_parse
+63d62
+< 000000000043fc50 T __argz_create_sep
+64a64,65
+> 000000000043fc50 T __argz_create_sep
+> 0000000000418160 T ___asprintf
+67d67
+< 0000000000418160 T ___asprintf
+73,74c73
+< 0000000000432f50 i bcmp
+< 00000000004cce10 r blanks
+---
+> 0000000000432f50 W bcmp
+75a75
+> 00000000004cce10 r blanks
+82d81
+< 0000000000477920 t buffered_vfprintf
+83a83
+> 0000000000477920 t buffered_vfprintf
+89d88
+< 000000000048e110 W c32rtomb
+96d94
+< 00000000006f8cd0 b cachesize
+97a96
+> 00000000006f8cd0 b cachesize
+104c103
+< 0000000000000050 b catch_hook
+---
+> 0000000000000050 t catch_hook
+108d106
+< 000000000045c540 W chdir
+109a108
+> 000000000045c540 W chdir
+112d110
+< 000000000045c110 W chmod
+113a112
+> 000000000045c110 W chmod
+116d114
+< 0000000000471430 W clearenv
+117a116
+> 0000000000471430 W clearenv
+131,132d129
+< 00000000006f7a80 d __compound_literal.0
+< 00000000006f7a70 d __compound_literal.1
+133a131,132
+> 00000000006f7a70 d __compound_literal.1
+> 00000000006f7a80 d __compound_literal.0
+138d136
+< 00000000004aecc0 W connect
+139a138
+> 00000000004aecc0 W connect
+144a144
+> 000000000048e110 W c32rtomb
+157c157
+< 00000000006f8e08 V daylight
+---
+> 00000000006f8e08 W daylight
+175d174
+< 00000000004a7c60 T __dladdr
+177a177
+> 00000000004a7c60 T __dladdr
+292d291
+< 00000000004a4030 T _dl_runtime_resolve_avx
+293a293
+> 00000000004a4030 T _dl_runtime_resolve_avx
+307c307
+< 00000000006f7510 V _dl_starting_up
+---
+> 00000000006f7510 W _dl_starting_up
+310d309
+< 00000000004bb640 T __dlsym
+311a311
+> 00000000004bb640 T __dlsym
+376c376
+< 0000000000400000 r __ehdr_start
+---
+> 0000000000400000 t __ehdr_start
+381,389d380
+< 00000000004e80b0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80a0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80b8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80c0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80c8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80d0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80d8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80e0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80e8 r __elf_set___libc_subfreeres_element_free_mem__
+390a382,390
+> 00000000004e80e8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80e0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80d8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80d0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80c8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80c0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80b8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80a0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80b0 r __elf_set___libc_subfreeres_element_free_mem__
+403,404c403
+< 00000000006f8b18 V environ
+< 00000000006f8b18 V _environ
+---
+> 00000000006f8b18 W environ
+405a405
+> 00000000006f8b18 W _environ
+408c408
+< 0000000000000028 B errno
+---
+> 0000000000000028 t errno
+421d420
+< 00000000004172b0 T exit
+422a422
+> 00000000004172b0 T exit
+436d435
+< 0000000000491de0 W fdopendir
+437a437
+> 0000000000491de0 W fdopendir
+439d438
+< 000000000041afe0 T __fgets_unlocked
+440a440
+> 000000000041afe0 T __fgets_unlocked
+449d448
+< 0000000000400500 t fini
+450a450
+> 0000000000400500 t fini
+461d460
+< 00000000004188e0 W fopen
+462a462
+> 00000000004188e0 W fopen
+467d466
+< 0000000000417e70 T fprintf
+468a468
+> 0000000000417e70 T fprintf
+477d476
+< 00000000004a77b0 T __fread_unlocked
+478a478
+> 00000000004a77b0 T __fread_unlocked
+484c484
+< 00000000006f8ac8 V __free_hook
+---
+> 00000000006f8ac8 W __free_hook
+488,496d487
+< 00000000004c85d0 t free_mem
+< 00000000004c81c0 t free_mem
+< 00000000004c8860 t free_mem
+< 00000000004c8890 t free_mem
+< 00000000004c88f0 t free_mem
+< 00000000004c8920 t free_mem
+< 00000000004c8a00 t free_mem
+< 00000000004c8a60 t free_mem
+< 00000000004c8aa0 t free_mem
+497a489,495
+> 00000000004c8aa0 t free_mem
+> 00000000004c8a60 t free_mem
+> 00000000004c8a00 t free_mem
+> 00000000004c8920 t free_mem
+> 00000000004c88f0 t free_mem
+> 00000000004c8890 t free_mem
+> 00000000004c8860 t free_mem
+498a497,498
+> 00000000004c81c0 t free_mem
+> 00000000004c85d0 t free_mem
+510,511d509
+< 0000000000492e70 W ftruncate
+< 0000000000492e70 W __ftruncate
+514,522c512,515
+< 00000000004ccbd8 r __func__.10701
+< 00000000004ccb78 r __func__.10708
+< 00000000004ccb88 r __func__.10740
+< 00000000004ccc80 r __func__.10751
+< 00000000004ccca0 r __func__.10818
+< 00000000004ccbf8 r __func__.10977
+< 00000000004ccbc8 r __func__.11021
+< 00000000004ccbb8 r __func__.11032
+< 00000000004ccb98 r __func__.11054
+---
+> 0000000000492e70 W ftruncate
+> 0000000000492e70 W __ftruncate
+> 00000000004cc08a r __func__.11335
+> 00000000004ccb48 r __func__.11153
+525,527d517
+< 00000000004ccb48 r __func__.11153
+< 00000000004ccc08 r __func__.11194
+< 00000000004ccbe8 r __func__.11233
+530,531c520,530
+< 00000000004cc08a r __func__.11335
+< 0000000000482b10 W funlockfile
+---
+> 00000000004ccb98 r __func__.11054
+> 00000000004ccc08 r __func__.11194
+> 00000000004ccbf8 r __func__.10977
+> 00000000004ccbe8 r __func__.11233
+> 00000000004ccbd8 r __func__.10701
+> 00000000004ccbc8 r __func__.11021
+> 00000000004ccc80 r __func__.10751
+> 00000000004ccb88 r __func__.10740
+> 00000000004ccb78 r __func__.10708
+> 00000000004ccbb8 r __func__.11032
+> 00000000004ccca0 r __func__.10818
+532a532
+> 0000000000482b10 W funlockfile
+535d534
+< 000000000045c010 W _fxstat
+536a536
+> 000000000045c010 W _fxstat
+538d537
+< 000000000045c0b0 T __fxstatat
+539a539
+> 000000000045c0b0 T __fxstatat
+574d573
+< 000000000046d700 T __gconv_transform_internal_ucs2reverse
+576a576
+> 000000000046d700 T __gconv_transform_internal_ucs2reverse
+578,579d577
+< 000000000046bd80 T __gconv_transform_ucs2_internal
+< 000000000046cf40 T __gconv_transform_ucs2reverse_internal
+580a579
+> 000000000046bd80 T __gconv_transform_ucs2_internal
+581a581
+> 000000000046cf40 T __gconv_transform_ucs2reverse_internal
+594d593
+< 0000000000454ab0 T __getdents
+595a595
+> 0000000000454ab0 T __getdents
+598d597
+< 0000000000492760 W getegid
+599a599
+> 0000000000492760 W getegid
+601d600
+< 0000000000492740 W geteuid
+602a602
+> 0000000000492740 W geteuid
+604d603
+< 0000000000492750 W getgid
+605a605
+> 0000000000492750 W getgid
+608d607
+< 0000000000461940 T __getlogin_r
+609a609
+> 0000000000461940 T __getlogin_r
+612d611
+< 000000000045e540 T __get_nprocs
+614c613
+< 000000000045eb10 T __get_nprocs_conf
+---
+> 000000000045e540 T __get_nprocs
+615a615
+> 000000000045eb10 T __get_nprocs_conf
+624d623
+< 000000000045ce20 W getpagesize
+625a625
+> 000000000045ce20 W getpagesize
+630d629
+< 0000000000491ea0 T __getpwnam_r
+631a631
+> 0000000000491ea0 T __getpwnam_r
+634c634
+< 000000000045cca0 W getrlimit
+---
+> 000000000045cca0 T __getrlimit64
+637c637
+< 000000000045cca0 T __getrlimit64
+---
+> 000000000045cca0 W getrlimit
+645d644
+< 0000000000492730 W getuid
+647c646
+< 0000000000461b60 T __getutent_r
+---
+> 0000000000492730 W getuid
+648a648
+> 0000000000461b60 T __getutent_r
+658d657
+< 00000000004339e0 T __GI_stpcpy
+659a659
+> 00000000004339e0 T __GI_stpcpy
+667d666
+< 0000000000455cb0 T glob
+668a668
+> 0000000000455cb0 T glob
+671d670
+< 0000000000457a30 T globfree
+672a672
+> 0000000000457a30 T globfree
+678d677
+< 0000000000471f10 t group_number
+679a679
+> 0000000000471f10 t group_number
+694,696d693
+< 0000000000472070 t _i18n_number_rewrite
+< 0000000000477cb0 t _i18n_number_rewrite
+< 000000000047cf00 t _i18n_number_rewrite
+698,699c695
+< 000000000042d930 i index
+< 00000000004a7810 t init
+---
+> 000000000042d930 W index
+700a697
+> 00000000004a7810 t init
+708a706,708
+> 000000000047cf00 t _i18n_number_rewrite
+> 0000000000477cb0 t _i18n_number_rewrite
+> 0000000000472070 t _i18n_number_rewrite
+710d709
+< 00000000004cdb40 r intel_02_known
+711a711
+> 00000000004cdb40 r intel_02_known
+723,725d722
+< 00000000006f6240 D _IO_2_1_stderr_
+< 00000000006f6680 D _IO_2_1_stdin_
+< 00000000006f6460 D _IO_2_1_stdout_
+798d794
+< 00000000004e8720 r _IO_helper_jumps
+800c796
+< 0000000000472300 t _IO_helper_overflow
+---
+> 00000000004e8720 r _IO_helper_jumps
+801a798
+> 0000000000472300 t _IO_helper_overflow
+853a851
+> 00000000006f6240 D _IO_2_1_stderr_
+858a857
+> 00000000006f6680 D _IO_2_1_stdin_
+860a860
+> 00000000006f6460 D _IO_2_1_stdout_
+920d919
+< 0000000000492d10 W isatty
+921a921
+> 0000000000492d10 W isatty
+929d928
+< 000000000045efb0 W iswblank
+931c930
+< 000000000045f040 W iswcntrl
+---
+> 000000000045efb0 W iswblank
+933c932
+< 000000000045f700 W iswctype
+---
+> 000000000045f040 W iswcntrl
+934a934
+> 000000000045f700 W iswctype
+941d940
+< 000000000045f2a0 W iswprint
+943c942
+< 000000000045f340 W iswpunct
+---
+> 000000000045f2a0 W iswprint
+945c944
+< 000000000045f3d0 W iswspace
+---
+> 000000000045f340 W iswpunct
+946a946
+> 000000000045f3d0 W iswspace
+949d948
+< 000000000045f500 W iswxdigit
+950a950
+> 000000000045f500 W iswxdigit
+956d955
+< 00000000004de640 r jump_table
+957a957
+> 00000000004de640 r jump_table
+959d958
+< 000000000046f3b0 t known_compare
+960a960
+> 000000000046f3b0 t known_compare
+985c985
+< 0000000000000028 B __libc_errno
+---
+> 0000000000000028 t __libc_errno
+999c999
+< 0000000000433380 i __libc_memmove
+---
+> 0000000000433380 T __libc_memmove
+1022c1022
+< 0000000000432bd0 i __libc_strstr
+---
+> 0000000000432bd0 T __libc_strstr
+1024,1027c1024,1027
+< 0000000000000040 B __libc_tsd_CTYPE_B
+< 0000000000000030 B __libc_tsd_CTYPE_TOLOWER
+< 0000000000000038 B __libc_tsd_CTYPE_TOUPPER
+< 0000000000000000 D __libc_tsd_LOCALE
+---
+> 0000000000000040 t __libc_tsd_CTYPE_B
+> 0000000000000030 t __libc_tsd_CTYPE_TOLOWER
+> 0000000000000038 t __libc_tsd_CTYPE_TOUPPER
+>                  t __libc_tsd_LOCALE
+1048d1047
+< 00000000004ac0e0 T __localtime_r
+1050,1055c1049
+< 00000000006f85f8 b lock
+< 00000000006f8610 b lock
+< 00000000006f8a50 b lock
+< 00000000006f8dc4 b lock
+< 00000000006f8dcc b lock
+< 00000000006f8dd0 b lock
+---
+> 00000000004ac0e0 T __localtime_r
+1057c1051,1053
+< 00000000006f8580 b lock.10097
+---
+> 00000000006f8dd0 b lock
+> 00000000006f8dcc b lock
+> 00000000006f8dc4 b lock
+1058a1055,1057
+> 00000000006f8a50 b lock
+> 00000000006f8610 b lock
+> 00000000006f85f8 b lock
+1059a1059
+> 00000000006f8580 b lock.10097
+1065,1066d1064
+< 000000000045c270 W lseek
+< 000000000045c270 W __lseek
+1067a1066,1067
+> 000000000045c270 W __lseek
+> 000000000045c270 W lseek
+1069,1070d1068
+< 000000000045c060 W _lxstat
+< 000000000045c060 T __lxstat
+1072,1073c1070,1071
+< 00000000004cd970 R ___m128i_shift_right
+< 000000000045cfb0 W madvise
+---
+> 000000000045c060 T __lxstat
+> 000000000045c060 W _lxstat
+1074a1073
+> 000000000045cfb0 W madvise
+1080d1078
+< 000000000042a490 T malloc
+1081a1080
+> 000000000042a490 T malloc
+1089c1088
+< 00000000006f68e8 V __malloc_hook
+---
+> 00000000006f68e8 W __malloc_hook
+1091d1089
+< 000000000042d8c0 T __malloc_info
+1092a1091
+> 000000000042d8c0 T __malloc_info
+1097d1095
+< 000000000042c3b0 T __malloc_trim
+1098a1097
+> 000000000042c3b0 T __malloc_trim
+1101d1099
+< 000000000042cc70 W mallopt
+1102a1101
+> 000000000042cc70 W mallopt
+1104d1102
+< 00000000006f9848 b map
+1105a1104
+> 00000000006f9848 b map
+1112d1110
+< 00000000004bb880 W mbrlen
+1113a1112
+> 00000000004bb880 W mbrlen
+1115d1113
+< 00000000004bb8a0 W mbrtowc
+1117c1115
+< 000000000048e2e0 W mbsrtowcs
+---
+> 00000000004bb8a0 W mbrtowc
+1118a1117
+> 000000000048e2e0 W mbsrtowcs
+1123c1122
+< 00000000006f68d8 V __memalign_hook
+---
+> 00000000006f68d8 W __memalign_hook
+1125d1123
+< 0000000000432bf0 T memchr
+1127c1125,1126
+< 0000000000432f50 i memcmp
+---
+> 0000000000432bf0 T memchr
+> 0000000000432f50 T memcmp
+1132d1130
+< 000000000043f470 W memmem
+1134c1132,1133
+< 0000000000433380 i memmove
+---
+> 000000000043f470 W memmem
+> 0000000000433380 T memmove
+1136,1137d1134
+< 0000000000453150 T __memmove_avx512_unaligned
+< 0000000000453190 T __memmove_avx512_unaligned_erms
+1138a1136
+> 0000000000453150 T __memmove_avx512_unaligned
+1139a1138
+> 0000000000453190 T __memmove_avx512_unaligned_erms
+1147d1145
+< 0000000000433460 W mempcpy
+1149c1147
+< 0000000000487680 W memrchr
+---
+> 0000000000433460 W mempcpy
+1151c1149,1150
+< 00000000004337d0 i memset
+---
+> 0000000000487680 W memrchr
+> 00000000004337d0 T memset
+1153,1154d1151
+< 0000000000453690 T __memset_avx2_unaligned
+< 00000000004536e0 T __memset_avx2_unaligned_erms
+1157a1155
+> 0000000000453690 T __memset_avx2_unaligned
+1158a1157
+> 00000000004536e0 T __memset_avx2_unaligned_erms
+1161a1161
+> 00000000004cd970 R ___m128i_shift_right
+1166,1167d1165
+< 000000000045cec0 W mmap
+< 000000000045cec0 T __mmap
+1169a1168,1169
+> 000000000045cec0 W mmap
+> 000000000045cec0 T __mmap
+1189d1188
+< 00000000004a5c40 T __mpn_mul
+1190a1190
+> 00000000004a5c40 T __mpn_mul
+1197d1196
+< 000000000045ee40 W mremap
+1198a1198
+> 000000000045ee40 W mremap
+1202d1201
+< 000000000045cf70 W munmap
+1203a1203
+> 000000000045cf70 W munmap
+1205d1204
+< 00000000004926d0 W nanosleep
+1206a1206
+> 00000000004926d0 W nanosleep
+1212d1211
+< 00000000004e7ea0 r nbits.11362
+1213a1213
+> 00000000004e7ea0 r nbits.11362
+1241d1240
+< 00000000004d21a0 R _nl_C_LC_CTYPE_class
+1242a1242
+> 00000000004d21a0 R _nl_C_LC_CTYPE_class
+1273,1280c1273,1276
+< 0000000000000010 D _nl_current_LC_COLLATE
+< 0000000000000002 A _nl_current_LC_COLLATE_used
+< 0000000000000008 D _nl_current_LC_CTYPE
+< 0000000000000002 A _nl_current_LC_CTYPE_used
+< 0000000000000018 D _nl_current_LC_MONETARY
+< 0000000000000002 A _nl_current_LC_MONETARY_used
+< 0000000000000020 D _nl_current_LC_NUMERIC
+< 0000000000000002 A _nl_current_LC_NUMERIC_used
+---
+> 0000000000000010 t _nl_current_LC_COLLATE
+> 0000000000000008 t _nl_current_LC_CTYPE
+> 0000000000000018 t _nl_current_LC_MONETARY
+> 0000000000000020 t _nl_current_LC_NUMERIC
+1345d1340
+< 00000000004dde56 r null
+1346a1342
+> 00000000004dde56 r null
+1356d1351
+< 00000000006f8d70 b once
+1357a1353
+> 00000000006f8d70 b once
+1358a1355
+> 000000000045c150 W __open64
+1360d1356
+< 000000000045c150 W __open
+1362c1358
+< 000000000045c150 W __open64
+---
+> 000000000045c150 W __open
+1367d1362
+< 00000000004bb430 T __open_memstream
+1368a1364
+> 00000000004bb430 T __open_memstream
+1412d1407
+< 000000000042d610 T __posix_memalign
+1413a1409
+> 000000000042d610 T __posix_memalign
+1415,1432c1411,1424
+< 00000000006f5ee0 b __preinit_array_end
+< 00000000006f5ee0 b __preinit_array_start
+< 00000000004d06c0 r __PRETTY_FUNCTION__.10060
+< 00000000004e1cb8 r __PRETTY_FUNCTION__.10072
+< 00000000004cbcc0 r __PRETTY_FUNCTION__.10073
+< 00000000004e1fe0 r __PRETTY_FUNCTION__.10085
+< 00000000004cbd80 r __PRETTY_FUNCTION__.10121
+< 00000000004d0500 r __PRETTY_FUNCTION__.10135
+< 00000000004e1fb8 r __PRETTY_FUNCTION__.10135
+< 00000000004cef08 r __PRETTY_FUNCTION__.10224
+< 00000000004d06a0 r __PRETTY_FUNCTION__.10237
+< 00000000004ca700 r __PRETTY_FUNCTION__.10290
+< 00000000004d04e0 r __PRETTY_FUNCTION__.10317
+< 00000000004d0680 r __PRETTY_FUNCTION__.10399
+< 00000000004d04c0 r __PRETTY_FUNCTION__.10467
+< 00000000004e6cc0 r __PRETTY_FUNCTION__.10540
+< 00000000004d0660 r __PRETTY_FUNCTION__.10545
+< 00000000004e6a50 r __PRETTY_FUNCTION__.10567
+---
+> 00000000006f5ee0 t __preinit_array_end
+> 00000000006f5ee0 t __preinit_array_start
+> 00000000004e7fa0 r __PRETTY_FUNCTION__.11274
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+> 00000000004e7ee0 r __PRETTY_FUNCTION__.11274
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+> 00000000004e7e20 r __PRETTY_FUNCTION__.11279
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11229
+> 00000000004e7990 r __PRETTY_FUNCTION__.8466
+> 00000000004e7978 r __PRETTY_FUNCTION__.8387
+> 00000000004e7828 r __PRETTY_FUNCTION__.8265
+> 00000000004e7770 r __PRETTY_FUNCTION__.9368
+> 00000000004e7588 r __PRETTY_FUNCTION__.9288
+> 00000000004e7520 r __PRETTY_FUNCTION__.12201
+1433a1426
+> 00000000004e6cc0 r __PRETTY_FUNCTION__.10540
+1435,1437d1427
+< 00000000004e6720 r __PRETTY_FUNCTION__.10602
+< 00000000004d04a0 r __PRETTY_FUNCTION__.10613
+< 00000000004e6730 r __PRETTY_FUNCTION__.10657
+1439,1441c1429,1443
+< 00000000004d0420 r __PRETTY_FUNCTION__.10694
+< 00000000004d0460 r __PRETTY_FUNCTION__.10765
+< 00000000004d03a0 r __PRETTY_FUNCTION__.10846
+---
+> 00000000004e6a50 r __PRETTY_FUNCTION__.10567
+> 00000000004e6730 r __PRETTY_FUNCTION__.10657
+> 00000000004e6720 r __PRETTY_FUNCTION__.10602
+> 00000000004e2900 r __PRETTY_FUNCTION__.9159
+> 00000000004e26a0 r __PRETTY_FUNCTION__.9337
+> 00000000004e25b0 r __PRETTY_FUNCTION__.9319
+> 00000000004e2560 r __PRETTY_FUNCTION__.9553
+> 00000000004e1fb8 r __PRETTY_FUNCTION__.10135
+> 00000000004e1fe0 r __PRETTY_FUNCTION__.10085
+> 00000000004e1fc8 r __PRETTY_FUNCTION__.9859
+> 00000000004e1cb8 r __PRETTY_FUNCTION__.10072
+> 00000000004e1d10 r __PRETTY_FUNCTION__.9786
+> 00000000004cf990 r __PRETTY_FUNCTION__.9605
+> 00000000004e1cf0 r __PRETTY_FUNCTION__.9808
+> 00000000004e1cd0 r __PRETTY_FUNCTION__.9947
+1443,1453d1444
+< 00000000004d03e0 r __PRETTY_FUNCTION__.10917
+< 00000000004cbd50 r __PRETTY_FUNCTION__.11112
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11229
+< 00000000004e7ee0 r __PRETTY_FUNCTION__.11274
+< 00000000004e7fa0 r __PRETTY_FUNCTION__.11274
+< 00000000004e7e20 r __PRETTY_FUNCTION__.11279
+< 00000000004cfbc0 r __PRETTY_FUNCTION__.11291
+< 00000000004cbc88 r __PRETTY_FUNCTION__.11312
+< 00000000004e0a30 r __PRETTY_FUNCTION__.11522
+1455,1456d1445
+< 00000000004de6c0 r __PRETTY_FUNCTION__.11762
+< 00000000004de7f8 r __PRETTY_FUNCTION__.11788
+1458,1462d1446
+< 00000000004de6a0 r __PRETTY_FUNCTION__.11976
+< 00000000004de6a0 r __PRETTY_FUNCTION__.12000
+< 00000000004e7520 r __PRETTY_FUNCTION__.12201
+< 00000000004de7c0 r __PRETTY_FUNCTION__.13005
+< 00000000004e0fb0 r __PRETTY_FUNCTION__.5927
+1464c1448,1451
+< 00000000004cbc58 r __PRETTY_FUNCTION__.7280
+---
+> 00000000004e0fb0 r __PRETTY_FUNCTION__.5927
+> 00000000004e0ee0 r __PRETTY_FUNCTION__.9290
+> 00000000004e0e88 r __PRETTY_FUNCTION__.9290
+> 00000000004e0e10 r __PRETTY_FUNCTION__.9284
+1466,1475c1453,1458
+< 00000000004cedf0 r __PRETTY_FUNCTION__.7815
+< 00000000004d0060 r __PRETTY_FUNCTION__.8245
+< 00000000004e7828 r __PRETTY_FUNCTION__.8265
+< 00000000004e7978 r __PRETTY_FUNCTION__.8387
+< 00000000004e7990 r __PRETTY_FUNCTION__.8466
+< 00000000004ce7a0 r __PRETTY_FUNCTION__.8613
+< 00000000004cb150 r __PRETTY_FUNCTION__.8681
+< 00000000004cfa10 r __PRETTY_FUNCTION__.8697
+< 00000000004cb1e0 r __PRETTY_FUNCTION__.8802
+< 00000000004cb1c0 r __PRETTY_FUNCTION__.8858
+---
+> 00000000004e0a30 r __PRETTY_FUNCTION__.11522
+> 00000000004de7f8 r __PRETTY_FUNCTION__.11788
+> 00000000004de6a0 r __PRETTY_FUNCTION__.12000
+> 00000000004de7c0 r __PRETTY_FUNCTION__.13005
+> 00000000004de6c0 r __PRETTY_FUNCTION__.11762
+> 00000000004de6a0 r __PRETTY_FUNCTION__.11976
+1477d1459
+< 00000000004cfa40 r __PRETTY_FUNCTION__.8884
+1479,1501c1461,1478
+< 00000000004ce7b0 r __PRETTY_FUNCTION__.8891
+< 00000000004ce7c0 r __PRETTY_FUNCTION__.8941
+< 00000000004cee30 r __PRETTY_FUNCTION__.9148
+< 00000000004e2900 r __PRETTY_FUNCTION__.9159
+< 00000000004cdd70 r __PRETTY_FUNCTION__.9208
+< 00000000004cdd60 r __PRETTY_FUNCTION__.9277
+< 00000000004e0e10 r __PRETTY_FUNCTION__.9284
+< 00000000004e7588 r __PRETTY_FUNCTION__.9288
+< 00000000004e28a0 r __PRETTY_FUNCTION__.9290
+< 00000000004e0e88 r __PRETTY_FUNCTION__.9290
+< 00000000004e0ee0 r __PRETTY_FUNCTION__.9290
+< 00000000004e25b0 r __PRETTY_FUNCTION__.9319
+< 00000000004e26a0 r __PRETTY_FUNCTION__.9337
+< 00000000004caa30 r __PRETTY_FUNCTION__.9341
+< 00000000004e2880 r __PRETTY_FUNCTION__.9349
+< 00000000004cf380 r __PRETTY_FUNCTION__.9353
+< 00000000004e7770 r __PRETTY_FUNCTION__.9368
+< 00000000004e2860 r __PRETTY_FUNCTION__.9388
+< 00000000004cf3a8 r __PRETTY_FUNCTION__.9414
+< 00000000004d0640 r __PRETTY_FUNCTION__.9415
+< 00000000004cf390 r __PRETTY_FUNCTION__.9421
+< 00000000004ce70d r __PRETTY_FUNCTION__.9428
+< 00000000004cf3b8 r __PRETTY_FUNCTION__.9457
+---
+> 00000000004d03a0 r __PRETTY_FUNCTION__.10846
+> 00000000004d03e0 r __PRETTY_FUNCTION__.10917
+> 00000000004d0460 r __PRETTY_FUNCTION__.10765
+> 00000000004d0420 r __PRETTY_FUNCTION__.10694
+> 00000000004d0660 r __PRETTY_FUNCTION__.10545
+> 00000000004d04a0 r __PRETTY_FUNCTION__.10613
+> 00000000004d0680 r __PRETTY_FUNCTION__.10399
+> 00000000004d04c0 r __PRETTY_FUNCTION__.10467
+> 00000000004d06a0 r __PRETTY_FUNCTION__.10237
+> 00000000004d04e0 r __PRETTY_FUNCTION__.10317
+> 00000000004d06c0 r __PRETTY_FUNCTION__.10060
+> 00000000004d0500 r __PRETTY_FUNCTION__.10135
+> 00000000004d0520 r __PRETTY_FUNCTION__.9975
+> 00000000004d06e0 r __PRETTY_FUNCTION__.9908
+> 00000000004d0560 r __PRETTY_FUNCTION__.9831
+> 00000000004d0700 r __PRETTY_FUNCTION__.9648
+> 00000000004d05a0 r __PRETTY_FUNCTION__.9717
+> 00000000004d05e0 r __PRETTY_FUNCTION__.9613
+1503c1480,1483
+< 00000000004cf3c8 r __PRETTY_FUNCTION__.9536
+---
+> 00000000004d0640 r __PRETTY_FUNCTION__.9415
+> 00000000004d0060 r __PRETTY_FUNCTION__.8245
+> 00000000004cfbc0 r __PRETTY_FUNCTION__.11291
+> 00000000004cfa10 r __PRETTY_FUNCTION__.8697
+1506,1509c1486,1497
+< 00000000004e2560 r __PRETTY_FUNCTION__.9553
+< 00000000004cf990 r __PRETTY_FUNCTION__.9605
+< 00000000004d05e0 r __PRETTY_FUNCTION__.9613
+< 00000000004d0700 r __PRETTY_FUNCTION__.9648
+---
+> 00000000004cf3b8 r __PRETTY_FUNCTION__.9457
+> 00000000004cf3a8 r __PRETTY_FUNCTION__.9414
+> 00000000004cf3c8 r __PRETTY_FUNCTION__.9536
+> 00000000004cf380 r __PRETTY_FUNCTION__.9353
+> 00000000004cf390 r __PRETTY_FUNCTION__.9421
+> 00000000004cef08 r __PRETTY_FUNCTION__.10224
+> 00000000004cee30 r __PRETTY_FUNCTION__.9148
+> 00000000004cedf0 r __PRETTY_FUNCTION__.7815
+> 00000000004ce7c0 r __PRETTY_FUNCTION__.8941
+> 00000000004ce7a0 r __PRETTY_FUNCTION__.8613
+> 00000000004ce7b0 r __PRETTY_FUNCTION__.8891
+> 00000000004ce70d r __PRETTY_FUNCTION__.9428
+1511,1519c1499,1514
+< 00000000004d05a0 r __PRETTY_FUNCTION__.9717
+< 00000000004e1d10 r __PRETTY_FUNCTION__.9786
+< 00000000004e1cf0 r __PRETTY_FUNCTION__.9808
+< 00000000004d0560 r __PRETTY_FUNCTION__.9831
+< 00000000004e1fc8 r __PRETTY_FUNCTION__.9859
+< 00000000004d06e0 r __PRETTY_FUNCTION__.9908
+< 00000000004e1cd0 r __PRETTY_FUNCTION__.9947
+< 00000000004d0520 r __PRETTY_FUNCTION__.9975
+< 00000000004ca1c0 r primes
+---
+> 00000000004cbd80 r __PRETTY_FUNCTION__.10121
+> 00000000004cbd50 r __PRETTY_FUNCTION__.11112
+> 00000000004cbcc0 r __PRETTY_FUNCTION__.10073
+> 00000000004cbc88 r __PRETTY_FUNCTION__.11312
+> 00000000004cbc58 r __PRETTY_FUNCTION__.7280
+> 00000000004cb1c0 r __PRETTY_FUNCTION__.8858
+> 00000000004cb1e0 r __PRETTY_FUNCTION__.8802
+> 00000000004cb150 r __PRETTY_FUNCTION__.8681
+> 00000000004caa30 r __PRETTY_FUNCTION__.9341
+> 00000000004ca700 r __PRETTY_FUNCTION__.10290
+> 00000000004cdd60 r __PRETTY_FUNCTION__.9277
+> 00000000004cdd70 r __PRETTY_FUNCTION__.9208
+> 00000000004e2860 r __PRETTY_FUNCTION__.9388
+> 00000000004e2880 r __PRETTY_FUNCTION__.9349
+> 00000000004e28a0 r __PRETTY_FUNCTION__.9290
+> 00000000004cfa40 r __PRETTY_FUNCTION__.8884
+1520a1516
+> 00000000004ca1c0 r primes
+1526d1521
+< 000000000047a960 T ___printf_fp
+1527a1523
+> 000000000047a960 T ___printf_fp
+1532d1527
+< 00000000004723e0 t printf_positional
+1533a1529
+> 00000000004723e0 t printf_positional
+1537,1538d1532
+< 0000000000404fc0 T process_elf32_file
+< 0000000000405e70 T process_elf64_file
+1539a1534,1535
+> 0000000000405e70 T process_elf64_file
+> 0000000000404fc0 T process_elf32_file
+1547,1548c1543,1544
+< 00000000006f7248 V program_invocation_name
+< 00000000006f7240 V program_invocation_short_name
+---
+> 00000000006f7248 W program_invocation_name
+> 00000000006f7240 W program_invocation_short_name
+1555d1550
+< 000000000042bd40 W pvalloc
+1556a1552
+> 000000000042bd40 W pvalloc
+1559d1554
+< 0000000000416bc0 T __qsort_r
+1560a1556
+> 0000000000416bc0 T __qsort_r
+1570,1571d1565
+< 00000000004549b0 W readdir
+< 00000000004549b0 T __readdir
+1572a1567
+> 00000000004549b0 T __readdir
+1574c1569
+< 000000000045cc60 W readlink
+---
+> 00000000004549b0 W readdir
+1575a1571
+> 000000000045cc60 W readlink
+1582d1577
+< 000000000042b0c0 T realloc
+1583a1579
+> 000000000042b0c0 T realloc
+1585c1581
+< 00000000006f68e0 V __realloc_hook
+---
+> 00000000006f68e0 W __realloc_hook
+1589d1584
+< 000000000047aae0 T __register_printf_function
+1591c1586
+< 000000000047c790 T __register_printf_modifier
+---
+> 000000000047aae0 T __register_printf_function
+1593c1588
+< 000000000047a9d0 T __register_printf_specifier
+---
+> 000000000047c790 T __register_printf_modifier
+1595c1590
+< 000000000047cb00 T __register_printf_type
+---
+> 000000000047a9d0 T __register_printf_specifier
+1596a1592
+> 000000000047cb00 T __register_printf_type
+1598,1599c1594,1595
+< 0000000000400370 r __rela_iplt_end
+< 00000000004001d8 r __rela_iplt_start
+---
+> 0000000000400370 t __rela_iplt_end
+> 00000000004001d8 t __rela_iplt_start
+1604d1599
+< 0000000000491d50 W rewinddir
+1605a1601
+> 0000000000491d50 W rewinddir
+1608,1609d1603
+< 00000000004bef00 t round_and_return
+< 00000000004c1f60 t round_and_return
+1610a1605,1606
+> 00000000004c1f60 t round_and_return
+> 00000000004bef00 t round_and_return
+1623d1618
+< 000000000045cd30 W sbrk
+1625c1620
+< 000000000045bf50 T __sched_yield
+---
+> 000000000045cd30 W sbrk
+1626a1622
+> 000000000045bf50 T __sched_yield
+1630d1625
+< 00000000004aedd0 W send
+1631a1627
+> 00000000004aedd0 W send
+1633d1628
+< 0000000000471290 W setenv
+1634a1630
+> 0000000000471290 W setenv
+1636d1631
+< 00000000004c78f0 W setitimer
+1637a1633
+> 00000000004c78f0 W setitimer
+1644d1639
+< 000000000046fa30 W sigaction
+1645a1641
+> 000000000046fa30 W sigaction
+1651d1646
+< 0000000000492660 W sleep
+1652a1648
+> 0000000000492660 W sleep
+1654d1649
+< 0000000000417ff0 W snprintf
+1656c1651
+< 00000000004aee90 W socket
+---
+> 0000000000417ff0 W snprintf
+1658c1653
+< 00000000004180a0 T sprintf
+---
+> 00000000004aee90 W socket
+1659a1655
+> 00000000004180a0 T sprintf
+1668d1663
+< 00000000006f8ef0 b start_fct.11317
+1669a1665
+> 00000000006f8ef0 b start_fct.11317
+1672d1667
+< 00000000006f8ef8 b startp.11316
+1674c1669
+< 00000000006f8f00 b startp_initialized.11315
+---
+> 00000000006f8ef8 b startp.11316
+1676,1678c1671
+< 00000000006f8dd8 b state
+< 00000000006f8de0 b state
+< 00000000006f8de8 b state
+---
+> 00000000006f8f00 b startp_initialized.11315
+1679a1673,1675
+> 00000000006f8de8 b state
+> 00000000006f8de0 b state
+> 00000000006f8dd8 b state
+1685,1691d1680
+< 00000000004de540 r step0_jumps.11766
+< 00000000004dee20 r step0_jumps.11792
+< 00000000004de440 r step1_jumps.11797
+< 00000000004ded20 r step1_jumps.11823
+< 00000000004de340 r step2_jumps.11798
+< 00000000004dec20 r step2_jumps.11824
+< 00000000004de240 r step3a_jumps.11799
+1693c1682
+< 00000000004de040 r step3b_jumps.11801
+---
+> 00000000004de240 r step3a_jumps.11799
+1695c1684,1686
+< 00000000004de140 r step4_jumps.11802
+---
+> 00000000004de040 r step3b_jumps.11801
+> 00000000004ded20 r step1_jumps.11823
+> 00000000004dec20 r step2_jumps.11824
+1697c1688
+< 00000000004ddf40 r step4_jumps.11980
+---
+> 00000000004dee20 r step0_jumps.11792
+1698a1690,1694
+> 00000000004de140 r step4_jumps.11802
+> 00000000004de440 r step1_jumps.11797
+> 00000000004de340 r step2_jumps.11798
+> 00000000004de540 r step0_jumps.11766
+> 00000000004ddf40 r step4_jumps.11980
+1701,1702c1697,1698
+< 00000000004339b0 i stpcpy
+< 00000000004339b0 i __stpcpy
+---
+> 00000000004339b0 T __stpcpy
+> 00000000004339b0 W stpcpy
+1706,1707c1702,1703
+< 00000000004a7ec0 i stpncpy
+< 00000000004a7ec0 i __stpncpy
+---
+> 00000000004a7ec0 T __stpncpy
+> 00000000004a7ec0 W stpncpy
+1711,1712c1707,1708
+< 0000000000433b00 i strcasecmp
+< 0000000000433b00 i __strcasecmp
+---
+> 0000000000433b00 T __strcasecmp
+> 0000000000433b00 W strcasecmp
+1714,1715c1710,1711
+< 0000000000433ac0 i __strcasecmp_l
+< 0000000000433ac0 i strcasecmp_l
+---
+> 0000000000433ac0 T __strcasecmp_l
+> 0000000000433ac0 W strcasecmp_l
+1721d1716
+< 0000000000433b50 T __strcasecmp_sse2
+1722a1718
+> 0000000000433b50 T __strcasecmp_sse2
+1724c1720
+< 0000000000486380 i strcat
+---
+> 0000000000486380 T strcat
+1728c1724
+< 000000000042d930 i strchr
+---
+> 000000000042d930 T strchr
+1733c1729,1730
+< 000000000042db70 i strcmp
+---
+> 000000000042db70 T strcmp
+> 000000000042efe0 T __strcmp_sse42
+1736d1732
+< 000000000042efe0 T __strcmp_sse42
+1739d1734
+< 00000000004866a0 T __strcoll_l
+1741c1736,1737
+< 000000000042fd90 i strcpy
+---
+> 00000000004866a0 T __strcoll_l
+> 000000000042fd90 T strcpy
+1745,1746c1741
+< 000000000042fea0 i strcspn
+< 000000000042fec0 T __strcspn_sse2
+---
+> 000000000042fea0 T strcspn
+1747a1743
+> 000000000042fec0 T __strcspn_sse2
+1751d1746
+< 0000000000430090 T __strerror_r
+1752a1748
+> 0000000000430090 T __strerror_r
+1757,1758c1753,1754
+< 0000000000438ff0 i strncasecmp
+< 0000000000438ff0 i __strncasecmp
+---
+> 0000000000438ff0 W strncasecmp
+> 0000000000438ff0 T __strncasecmp
+1760,1761c1756,1757
+< 0000000000438fb0 i __strncasecmp_l
+< 0000000000438fb0 i strncasecmp_l
+---
+> 0000000000438fb0 T __strncasecmp_l
+> 0000000000438fb0 W strncasecmp_l
+1767d1762
+< 0000000000439040 T __strncasecmp_sse2
+1768a1764
+> 0000000000439040 T __strncasecmp_sse2
+1771c1767
+< 0000000000486580 i strncpy
+---
+> 0000000000486580 T strncpy
+1775d1770
+< 000000000042ffb0 W strndup
+1776a1772
+> 000000000042ffb0 W strndup
+1783c1779
+< 0000000000432bd0 i strstr
+---
+> 0000000000432bd0 T strstr
+1788d1783
+< 00000000004c49d0 W __strtod_l
+1789a1785
+> 00000000004c49d0 W __strtod_l
+1800d1795
+< 0000000000471500 W strtol
+1801a1797
+> 0000000000471500 W strtol
+1804d1799
+< 00000000004c75c0 W __strtold_l
+1805a1801
+> 00000000004c75c0 W __strtold_l
+1809d1804
+< 0000000000471500 W strtoll
+1812c1807
+< 0000000000471520 T ____strtol_l_internal
+---
+> 0000000000471500 W strtoll
+1813a1809
+> 0000000000471520 T ____strtol_l_internal
+1819,1820d1814
+< 00000000004bec10 t str_to_mpn.isra.0
+< 00000000004c1c70 t str_to_mpn.isra.0
+1821a1816,1817
+> 00000000004c1c70 t str_to_mpn.isra.0
+> 00000000004bec10 t str_to_mpn.isra.0
+1823d1818
+< 0000000000417510 W strtoul
+1824a1820
+> 0000000000417510 W strtoul
+1826d1821
+< 0000000000417510 W strtoull
+1828a1824
+> 0000000000417510 W strtoull
+1831d1826
+< 0000000000417950 W __strtoull_l
+1832a1828
+> 0000000000417950 W __strtoull_l
+1839d1834
+< 0000000000454ca0 W sysconf
+1840a1836
+> 0000000000454ca0 W sysconf
+1843,1844c1839,1840
+< 00000000004dfc40 V _sys_errlist
+< 00000000004dfc40 V sys_errlist
+---
+> 00000000004dfc40 W sys_errlist
+> 00000000004dfc40 W _sys_errlist
+1847d1842
+< 000000000045ee60 W sysinfo
+1848a1844
+> 000000000045ee60 W sysinfo
+1850,1852c1846,1847
+< 00000000004e0078 V _sys_nerr
+< 00000000004e0078 V sys_nerr
+< 00000000004e0078 R __sys_nerr_internal
+---
+> 00000000004e0078 W _sys_nerr
+> 00000000004e0078 W sys_nerr
+1853a1849
+> 00000000004e0078 R __sys_nerr_internal
+1858d1853
+< 000000000045d560 W tdelete
+1859a1855
+> 000000000045d560 W tdelete
+1865d1860
+< 000000000040e040 W textdomain
+1866a1862
+> 000000000040e040 W textdomain
+1868d1863
+< 000000000045d500 W tfind
+1870c1865,1866
+< 0000000000000048 b thread_arena
+---
+> 000000000045d500 W tfind
+> 0000000000000048 t thread_arena
+1875d1870
+< 00000000006f8e00 V timezone
+1876a1872
+> 00000000006f8e00 W timezone
+1883d1878
+< 0000000000492f30 W towctrans
+1884a1880
+> 0000000000492f30 W towctrans
+1898d1893
+< 000000000045d120 W tsearch
+1899a1895
+> 000000000045d120 W tsearch
+1908d1903
+< 0000000000432120 t two_way_long_needle
+1909a1905
+> 0000000000432120 t two_way_long_needle
+1920c1916
+< 00000000006f7d70 V tzname
+---
+> 00000000006f7d70 W tzname
+1934d1929
+< 0000000000492620 W uname
+1935a1931
+> 0000000000492620 W uname
+1940d1935
+< 00000000004712f0 W unsetenv
+1941a1937
+> 00000000004712f0 W unsetenv
+1948d1943
+< 0000000000462f80 W utmpname
+1950c1945
+< 000000000042b8f0 W valloc
+---
+> 0000000000462f80 W utmpname
+1951a1947
+> 000000000042b8f0 W valloc
+1954,1955d1949
+< 00000000004bb020 W vfscanf
+< 00000000004bb020 T __vfscanf
+1957c1951,1952
+< 000000000047f940 W vfwprintf
+---
+> 00000000004bb020 T __vfscanf
+> 00000000004bb020 W vfscanf
+1959c1954
+< 000000000041aec0 W vsnprintf
+---
+> 000000000047f940 W vfwprintf
+1960a1956
+> 000000000041aec0 W vsnprintf
+1962d1957
+< 00000000004a7400 W vsscanf
+1963a1959
+> 00000000004a7400 W vsscanf
+1970d1965
+< 000000000048db70 W wcslen
+1971a1967
+> 000000000048db70 W wcslen
+1977d1972
+< 000000000048e5b0 W wcsnlen
+1979c1974
+< 000000000048e300 W wcsrtombs
+---
+> 000000000048e5b0 W wcsnlen
+1980a1976
+> 000000000048e300 W wcsrtombs
+1985d1980
+< 000000000048de10 W wmemchr
+1987c1982
+< 000000000048dec0 W wmemcpy
+---
+> 000000000048de10 W wmemchr
+1988a1984
+> 000000000048dec0 W wmemcpy
+1991d1986
+< 0000000000454010 W wmempcpy
+1993c1988
+< 000000000048dee0 W wmemset
+---
+> 0000000000454010 W wmempcpy
+1994a1990
+> 000000000048dee0 W wmemset
+1999d1994
+< 000000000045cdc0 W writev
+2000a1996
+> 000000000045cdc0 W writev
+2003a2000
+> 00000000004063a0 T xcalloc
+2005a2003,2005
+> 0000000000406330 T xmalloc
+> 00000000006f6114 D xmalloc_exit_failure
+> 0000000000417ba0 T __xpg_basename
+2010a2011
+> 0000000000406410 T xrealloc
+2014,2019d2014
+< 00000000004063a0 T xcalloc
+< 0000000000406330 T xmalloc
+< 00000000006f6114 D xmalloc_exit_failure
+< 0000000000417ba0 T __xpg_basename
+< 0000000000406410 T xrealloc
+< 000000000045bfc0 W _xstat
+2021a2017
+> 000000000045bfc0 W _xstat
+2032d2027
+< 00000000004e0990 r zeroes
+2033a2029
+> 00000000004e0990 r zeroes
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/losetup
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mii-diag
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mii-tool
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkdict
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkfs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkfs.cramfs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkfs.minix
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkhomedir_helper
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/mkswap
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/nameif
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/newusers
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/nologin
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/packer
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pam_console_apply
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pam_tally2
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pam_timestamp_check
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/partx
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pivot_root
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/plipconfig
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/poweroff
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pwck
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pwconv
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pwhistory_helper
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/pwunconv
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/readprofile
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/reboot
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/resizepart
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/rotatelogs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/route
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/rtcwake
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/runlevel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/runuser
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/sasldblistusers2
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/saslpasswd2
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/sefcontext_compile
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/setcap
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/sfdisk
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/shutdown
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/slattach
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/sln
+4d3
+< 000000000045c2d0 W access
+5a5
+> 000000000045c2d0 W access
+14c14
+< 00000000006f8ac0 V __after_morecore_hook
+---
+> 00000000006f8ac0 W __after_morecore_hook
+38d37
+< 00000000004952d0 T __argp_failure
+39a39
+> 00000000004952d0 T __argp_failure
+45d44
+< 0000000000496fc0 T __argp_help
+46a46
+> 0000000000496fc0 T __argp_help
+51d50
+< 0000000000460310 T __argp_parse
+52a52
+> 0000000000460310 T __argp_parse
+63d62
+< 000000000043fc50 T __argz_create_sep
+64a64,65
+> 000000000043fc50 T __argz_create_sep
+> 0000000000418160 T ___asprintf
+67d67
+< 0000000000418160 T ___asprintf
+73,74c73
+< 0000000000432f50 i bcmp
+< 00000000004cce10 r blanks
+---
+> 0000000000432f50 W bcmp
+75a75
+> 00000000004cce10 r blanks
+82d81
+< 0000000000477920 t buffered_vfprintf
+83a83
+> 0000000000477920 t buffered_vfprintf
+89d88
+< 000000000048e110 W c32rtomb
+96d94
+< 00000000006f8cd0 b cachesize
+97a96
+> 00000000006f8cd0 b cachesize
+104c103
+< 0000000000000050 b catch_hook
+---
+> 0000000000000050 t catch_hook
+108d106
+< 000000000045c540 W chdir
+109a108
+> 000000000045c540 W chdir
+112d110
+< 000000000045c110 W chmod
+113a112
+> 000000000045c110 W chmod
+116d114
+< 0000000000471430 W clearenv
+117a116
+> 0000000000471430 W clearenv
+131,132d129
+< 00000000006f7a80 d __compound_literal.0
+< 00000000006f7a70 d __compound_literal.1
+133a131,132
+> 00000000006f7a70 d __compound_literal.1
+> 00000000006f7a80 d __compound_literal.0
+138d136
+< 00000000004aecc0 W connect
+139a138
+> 00000000004aecc0 W connect
+144a144
+> 000000000048e110 W c32rtomb
+157c157
+< 00000000006f8e08 V daylight
+---
+> 00000000006f8e08 W daylight
+175d174
+< 00000000004a7c60 T __dladdr
+177a177
+> 00000000004a7c60 T __dladdr
+292d291
+< 00000000004a4030 T _dl_runtime_resolve_avx
+293a293
+> 00000000004a4030 T _dl_runtime_resolve_avx
+307c307
+< 00000000006f7510 V _dl_starting_up
+---
+> 00000000006f7510 W _dl_starting_up
+310d309
+< 00000000004bb640 T __dlsym
+311a311
+> 00000000004bb640 T __dlsym
+376c376
+< 0000000000400000 r __ehdr_start
+---
+> 0000000000400000 t __ehdr_start
+381,389d380
+< 00000000004e80b0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80a0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80b8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80c0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80c8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80d0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80d8 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80e0 r __elf_set___libc_subfreeres_element_free_mem__
+< 00000000004e80e8 r __elf_set___libc_subfreeres_element_free_mem__
+390a382,390
+> 00000000004e80e8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80e0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80d8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80d0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80c8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80c0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80b8 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80a0 r __elf_set___libc_subfreeres_element_free_mem__
+> 00000000004e80b0 r __elf_set___libc_subfreeres_element_free_mem__
+403,404c403
+< 00000000006f8b18 V environ
+< 00000000006f8b18 V _environ
+---
+> 00000000006f8b18 W environ
+405a405
+> 00000000006f8b18 W _environ
+408c408
+< 0000000000000028 B errno
+---
+> 0000000000000028 t errno
+421d420
+< 00000000004172b0 T exit
+422a422
+> 00000000004172b0 T exit
+436d435
+< 0000000000491de0 W fdopendir
+437a437
+> 0000000000491de0 W fdopendir
+439d438
+< 000000000041afe0 T __fgets_unlocked
+440a440
+> 000000000041afe0 T __fgets_unlocked
+449d448
+< 0000000000400500 t fini
+450a450
+> 0000000000400500 t fini
+461d460
+< 00000000004188e0 W fopen
+462a462
+> 00000000004188e0 W fopen
+467d466
+< 0000000000417e70 T fprintf
+468a468
+> 0000000000417e70 T fprintf
+477d476
+< 00000000004a77b0 T __fread_unlocked
+478a478
+> 00000000004a77b0 T __fread_unlocked
+484c484
+< 00000000006f8ac8 V __free_hook
+---
+> 00000000006f8ac8 W __free_hook
+488,496d487
+< 00000000004c85d0 t free_mem
+< 00000000004c81c0 t free_mem
+< 00000000004c8860 t free_mem
+< 00000000004c8890 t free_mem
+< 00000000004c88f0 t free_mem
+< 00000000004c8920 t free_mem
+< 00000000004c8a00 t free_mem
+< 00000000004c8a60 t free_mem
+< 00000000004c8aa0 t free_mem
+497a489,495
+> 00000000004c8aa0 t free_mem
+> 00000000004c8a60 t free_mem
+> 00000000004c8a00 t free_mem
+> 00000000004c8920 t free_mem
+> 00000000004c88f0 t free_mem
+> 00000000004c8890 t free_mem
+> 00000000004c8860 t free_mem
+498a497,498
+> 00000000004c81c0 t free_mem
+> 00000000004c85d0 t free_mem
+510,511d509
+< 0000000000492e70 W ftruncate
+< 0000000000492e70 W __ftruncate
+514,522c512,515
+< 00000000004ccbd8 r __func__.10701
+< 00000000004ccb78 r __func__.10708
+< 00000000004ccb88 r __func__.10740
+< 00000000004ccc80 r __func__.10751
+< 00000000004ccca0 r __func__.10818
+< 00000000004ccbf8 r __func__.10977
+< 00000000004ccbc8 r __func__.11021
+< 00000000004ccbb8 r __func__.11032
+< 00000000004ccb98 r __func__.11054
+---
+> 0000000000492e70 W ftruncate
+> 0000000000492e70 W __ftruncate
+> 00000000004cc08a r __func__.11335
+> 00000000004ccb48 r __func__.11153
+525,527d517
+< 00000000004ccb48 r __func__.11153
+< 00000000004ccc08 r __func__.11194
+< 00000000004ccbe8 r __func__.11233
+530,531c520,530
+< 00000000004cc08a r __func__.11335
+< 0000000000482b10 W funlockfile
+---
+> 00000000004ccb98 r __func__.11054
+> 00000000004ccc08 r __func__.11194
+> 00000000004ccbf8 r __func__.10977
+> 00000000004ccbe8 r __func__.11233
+> 00000000004ccbd8 r __func__.10701
+> 00000000004ccbc8 r __func__.11021
+> 00000000004ccc80 r __func__.10751
+> 00000000004ccb88 r __func__.10740
+> 00000000004ccb78 r __func__.10708
+> 00000000004ccbb8 r __func__.11032
+> 00000000004ccca0 r __func__.10818
+532a532
+> 0000000000482b10 W funlockfile
+535d534
+< 000000000045c010 W _fxstat
+536a536
+> 000000000045c010 W _fxstat
+538d537
+< 000000000045c0b0 T __fxstatat
+539a539
+> 000000000045c0b0 T __fxstatat
+574d573
+< 000000000046d700 T __gconv_transform_internal_ucs2reverse
+576a576
+> 000000000046d700 T __gconv_transform_internal_ucs2reverse
+578,579d577
+< 000000000046bd80 T __gconv_transform_ucs2_internal
+< 000000000046cf40 T __gconv_transform_ucs2reverse_internal
+580a579
+> 000000000046bd80 T __gconv_transform_ucs2_internal
+581a581
+> 000000000046cf40 T __gconv_transform_ucs2reverse_internal
+594d593
+< 0000000000454ab0 T __getdents
+595a595
+> 0000000000454ab0 T __getdents
+598d597
+< 0000000000492760 W getegid
+599a599
+> 0000000000492760 W getegid
+601d600
+< 0000000000492740 W geteuid
+602a602
+> 0000000000492740 W geteuid
+604d603
+< 0000000000492750 W getgid
+605a605
+> 0000000000492750 W getgid
+608d607
+< 0000000000461940 T __getlogin_r
+609a609
+> 0000000000461940 T __getlogin_r
+612d611
+< 000000000045e540 T __get_nprocs
+614c613
+< 000000000045eb10 T __get_nprocs_conf
+---
+> 000000000045e540 T __get_nprocs
+615a615
+> 000000000045eb10 T __get_nprocs_conf
+624d623
+< 000000000045ce20 W getpagesize
+625a625
+> 000000000045ce20 W getpagesize
+630d629
+< 0000000000491ea0 T __getpwnam_r
+631a631
+> 0000000000491ea0 T __getpwnam_r
+634c634
+< 000000000045cca0 W getrlimit
+---
+> 000000000045cca0 T __getrlimit64
+637c637
+< 000000000045cca0 T __getrlimit64
+---
+> 000000000045cca0 W getrlimit
+645d644
+< 0000000000492730 W getuid
+647c646
+< 0000000000461b60 T __getutent_r
+---
+> 0000000000492730 W getuid
+648a648
+> 0000000000461b60 T __getutent_r
+658d657
+< 00000000004339e0 T __GI_stpcpy
+659a659
+> 00000000004339e0 T __GI_stpcpy
+667d666
+< 0000000000455cb0 T glob
+668a668
+> 0000000000455cb0 T glob
+671d670
+< 0000000000457a30 T globfree
+672a672
+> 0000000000457a30 T globfree
+678d677
+< 0000000000471f10 t group_number
+679a679
+> 0000000000471f10 t group_number
+694,696d693
+< 0000000000472070 t _i18n_number_rewrite
+< 0000000000477cb0 t _i18n_number_rewrite
+< 000000000047cf00 t _i18n_number_rewrite
+698,699c695
+< 000000000042d930 i index
+< 00000000004a7810 t init
+---
+> 000000000042d930 W index
+700a697
+> 00000000004a7810 t init
+708a706,708
+> 000000000047cf00 t _i18n_number_rewrite
+> 0000000000477cb0 t _i18n_number_rewrite
+> 0000000000472070 t _i18n_number_rewrite
+710d709
+< 00000000004cdb40 r intel_02_known
+711a711
+> 00000000004cdb40 r intel_02_known
+723,725d722
+< 00000000006f6240 D _IO_2_1_stderr_
+< 00000000006f6680 D _IO_2_1_stdin_
+< 00000000006f6460 D _IO_2_1_stdout_
+798d794
+< 00000000004e8720 r _IO_helper_jumps
+800c796
+< 0000000000472300 t _IO_helper_overflow
+---
+> 00000000004e8720 r _IO_helper_jumps
+801a798
+> 0000000000472300 t _IO_helper_overflow
+853a851
+> 00000000006f6240 D _IO_2_1_stderr_
+858a857
+> 00000000006f6680 D _IO_2_1_stdin_
+860a860
+> 00000000006f6460 D _IO_2_1_stdout_
+920d919
+< 0000000000492d10 W isatty
+921a921
+> 0000000000492d10 W isatty
+929d928
+< 000000000045efb0 W iswblank
+931c930
+< 000000000045f040 W iswcntrl
+---
+> 000000000045efb0 W iswblank
+933c932
+< 000000000045f700 W iswctype
+---
+> 000000000045f040 W iswcntrl
+934a934
+> 000000000045f700 W iswctype
+941d940
+< 000000000045f2a0 W iswprint
+943c942
+< 000000000045f340 W iswpunct
+---
+> 000000000045f2a0 W iswprint
+945c944
+< 000000000045f3d0 W iswspace
+---
+> 000000000045f340 W iswpunct
+946a946
+> 000000000045f3d0 W iswspace
+949d948
+< 000000000045f500 W iswxdigit
+950a950
+> 000000000045f500 W iswxdigit
+956d955
+< 00000000004de640 r jump_table
+957a957
+> 00000000004de640 r jump_table
+959d958
+< 000000000046f3b0 t known_compare
+960a960
+> 000000000046f3b0 t known_compare
+985c985
+< 0000000000000028 B __libc_errno
+---
+> 0000000000000028 t __libc_errno
+999c999
+< 0000000000433380 i __libc_memmove
+---
+> 0000000000433380 T __libc_memmove
+1022c1022
+< 0000000000432bd0 i __libc_strstr
+---
+> 0000000000432bd0 T __libc_strstr
+1024,1027c1024,1027
+< 0000000000000040 B __libc_tsd_CTYPE_B
+< 0000000000000030 B __libc_tsd_CTYPE_TOLOWER
+< 0000000000000038 B __libc_tsd_CTYPE_TOUPPER
+< 0000000000000000 D __libc_tsd_LOCALE
+---
+> 0000000000000040 t __libc_tsd_CTYPE_B
+> 0000000000000030 t __libc_tsd_CTYPE_TOLOWER
+> 0000000000000038 t __libc_tsd_CTYPE_TOUPPER
+>                  t __libc_tsd_LOCALE
+1048d1047
+< 00000000004ac0e0 T __localtime_r
+1050,1055c1049
+< 00000000006f85f8 b lock
+< 00000000006f8610 b lock
+< 00000000006f8a50 b lock
+< 00000000006f8dc4 b lock
+< 00000000006f8dcc b lock
+< 00000000006f8dd0 b lock
+---
+> 00000000004ac0e0 T __localtime_r
+1057c1051,1053
+< 00000000006f8580 b lock.10097
+---
+> 00000000006f8dd0 b lock
+> 00000000006f8dcc b lock
+> 00000000006f8dc4 b lock
+1058a1055,1057
+> 00000000006f8a50 b lock
+> 00000000006f8610 b lock
+> 00000000006f85f8 b lock
+1059a1059
+> 00000000006f8580 b lock.10097
+1065,1066d1064
+< 000000000045c270 W lseek
+< 000000000045c270 W __lseek
+1067a1066,1067
+> 000000000045c270 W __lseek
+> 000000000045c270 W lseek
+1069,1070d1068
+< 000000000045c060 W _lxstat
+< 000000000045c060 T __lxstat
+1072,1073c1070,1071
+< 00000000004cd970 R ___m128i_shift_right
+< 000000000045cfb0 W madvise
+---
+> 000000000045c060 T __lxstat
+> 000000000045c060 W _lxstat
+1074a1073
+> 000000000045cfb0 W madvise
+1080d1078
+< 000000000042a490 T malloc
+1081a1080
+> 000000000042a490 T malloc
+1089c1088
+< 00000000006f68e8 V __malloc_hook
+---
+> 00000000006f68e8 W __malloc_hook
+1091d1089
+< 000000000042d8c0 T __malloc_info
+1092a1091
+> 000000000042d8c0 T __malloc_info
+1097d1095
+< 000000000042c3b0 T __malloc_trim
+1098a1097
+> 000000000042c3b0 T __malloc_trim
+1101d1099
+< 000000000042cc70 W mallopt
+1102a1101
+> 000000000042cc70 W mallopt
+1104d1102
+< 00000000006f9848 b map
+1105a1104
+> 00000000006f9848 b map
+1112d1110
+< 00000000004bb880 W mbrlen
+1113a1112
+> 00000000004bb880 W mbrlen
+1115d1113
+< 00000000004bb8a0 W mbrtowc
+1117c1115
+< 000000000048e2e0 W mbsrtowcs
+---
+> 00000000004bb8a0 W mbrtowc
+1118a1117
+> 000000000048e2e0 W mbsrtowcs
+1123c1122
+< 00000000006f68d8 V __memalign_hook
+---
+> 00000000006f68d8 W __memalign_hook
+1125d1123
+< 0000000000432bf0 T memchr
+1127c1125,1126
+< 0000000000432f50 i memcmp
+---
+> 0000000000432bf0 T memchr
+> 0000000000432f50 T memcmp
+1132d1130
+< 000000000043f470 W memmem
+1134c1132,1133
+< 0000000000433380 i memmove
+---
+> 000000000043f470 W memmem
+> 0000000000433380 T memmove
+1136,1137d1134
+< 0000000000453150 T __memmove_avx512_unaligned
+< 0000000000453190 T __memmove_avx512_unaligned_erms
+1138a1136
+> 0000000000453150 T __memmove_avx512_unaligned
+1139a1138
+> 0000000000453190 T __memmove_avx512_unaligned_erms
+1147d1145
+< 0000000000433460 W mempcpy
+1149c1147
+< 0000000000487680 W memrchr
+---
+> 0000000000433460 W mempcpy
+1151c1149,1150
+< 00000000004337d0 i memset
+---
+> 0000000000487680 W memrchr
+> 00000000004337d0 T memset
+1153,1154d1151
+< 0000000000453690 T __memset_avx2_unaligned
+< 00000000004536e0 T __memset_avx2_unaligned_erms
+1157a1155
+> 0000000000453690 T __memset_avx2_unaligned
+1158a1157
+> 00000000004536e0 T __memset_avx2_unaligned_erms
+1161a1161
+> 00000000004cd970 R ___m128i_shift_right
+1166,1167d1165
+< 000000000045cec0 W mmap
+< 000000000045cec0 T __mmap
+1169a1168,1169
+> 000000000045cec0 W mmap
+> 000000000045cec0 T __mmap
+1189d1188
+< 00000000004a5c40 T __mpn_mul
+1190a1190
+> 00000000004a5c40 T __mpn_mul
+1197d1196
+< 000000000045ee40 W mremap
+1198a1198
+> 000000000045ee40 W mremap
+1202d1201
+< 000000000045cf70 W munmap
+1203a1203
+> 000000000045cf70 W munmap
+1205d1204
+< 00000000004926d0 W nanosleep
+1206a1206
+> 00000000004926d0 W nanosleep
+1212d1211
+< 00000000004e7ea0 r nbits.11362
+1213a1213
+> 00000000004e7ea0 r nbits.11362
+1241d1240
+< 00000000004d21a0 R _nl_C_LC_CTYPE_class
+1242a1242
+> 00000000004d21a0 R _nl_C_LC_CTYPE_class
+1273,1280c1273,1276
+< 0000000000000010 D _nl_current_LC_COLLATE
+< 0000000000000002 A _nl_current_LC_COLLATE_used
+< 0000000000000008 D _nl_current_LC_CTYPE
+< 0000000000000002 A _nl_current_LC_CTYPE_used
+< 0000000000000018 D _nl_current_LC_MONETARY
+< 0000000000000002 A _nl_current_LC_MONETARY_used
+< 0000000000000020 D _nl_current_LC_NUMERIC
+< 0000000000000002 A _nl_current_LC_NUMERIC_used
+---
+> 0000000000000010 t _nl_current_LC_COLLATE
+> 0000000000000008 t _nl_current_LC_CTYPE
+> 0000000000000018 t _nl_current_LC_MONETARY
+> 0000000000000020 t _nl_current_LC_NUMERIC
+1345d1340
+< 00000000004dde56 r null
+1346a1342
+> 00000000004dde56 r null
+1356d1351
+< 00000000006f8d70 b once
+1357a1353
+> 00000000006f8d70 b once
+1358a1355
+> 000000000045c150 W __open64
+1360d1356
+< 000000000045c150 W __open
+1362c1358
+< 000000000045c150 W __open64
+---
+> 000000000045c150 W __open
+1367d1362
+< 00000000004bb430 T __open_memstream
+1368a1364
+> 00000000004bb430 T __open_memstream
+1412d1407
+< 000000000042d610 T __posix_memalign
+1413a1409
+> 000000000042d610 T __posix_memalign
+1415,1432c1411,1424
+< 00000000006f5ee0 b __preinit_array_end
+< 00000000006f5ee0 b __preinit_array_start
+< 00000000004d06c0 r __PRETTY_FUNCTION__.10060
+< 00000000004e1cb8 r __PRETTY_FUNCTION__.10072
+< 00000000004cbcc0 r __PRETTY_FUNCTION__.10073
+< 00000000004e1fe0 r __PRETTY_FUNCTION__.10085
+< 00000000004cbd80 r __PRETTY_FUNCTION__.10121
+< 00000000004d0500 r __PRETTY_FUNCTION__.10135
+< 00000000004e1fb8 r __PRETTY_FUNCTION__.10135
+< 00000000004cef08 r __PRETTY_FUNCTION__.10224
+< 00000000004d06a0 r __PRETTY_FUNCTION__.10237
+< 00000000004ca700 r __PRETTY_FUNCTION__.10290
+< 00000000004d04e0 r __PRETTY_FUNCTION__.10317
+< 00000000004d0680 r __PRETTY_FUNCTION__.10399
+< 00000000004d04c0 r __PRETTY_FUNCTION__.10467
+< 00000000004e6cc0 r __PRETTY_FUNCTION__.10540
+< 00000000004d0660 r __PRETTY_FUNCTION__.10545
+< 00000000004e6a50 r __PRETTY_FUNCTION__.10567
+---
+> 00000000006f5ee0 t __preinit_array_end
+> 00000000006f5ee0 t __preinit_array_start
+> 00000000004e7fa0 r __PRETTY_FUNCTION__.11274
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+> 00000000004e7ee0 r __PRETTY_FUNCTION__.11274
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+> 00000000004e7e20 r __PRETTY_FUNCTION__.11279
+> 00000000004e7dc8 r __PRETTY_FUNCTION__.11229
+> 00000000004e7990 r __PRETTY_FUNCTION__.8466
+> 00000000004e7978 r __PRETTY_FUNCTION__.8387
+> 00000000004e7828 r __PRETTY_FUNCTION__.8265
+> 00000000004e7770 r __PRETTY_FUNCTION__.9368
+> 00000000004e7588 r __PRETTY_FUNCTION__.9288
+> 00000000004e7520 r __PRETTY_FUNCTION__.12201
+1433a1426
+> 00000000004e6cc0 r __PRETTY_FUNCTION__.10540
+1435,1437d1427
+< 00000000004e6720 r __PRETTY_FUNCTION__.10602
+< 00000000004d04a0 r __PRETTY_FUNCTION__.10613
+< 00000000004e6730 r __PRETTY_FUNCTION__.10657
+1439,1441c1429,1443
+< 00000000004d0420 r __PRETTY_FUNCTION__.10694
+< 00000000004d0460 r __PRETTY_FUNCTION__.10765
+< 00000000004d03a0 r __PRETTY_FUNCTION__.10846
+---
+> 00000000004e6a50 r __PRETTY_FUNCTION__.10567
+> 00000000004e6730 r __PRETTY_FUNCTION__.10657
+> 00000000004e6720 r __PRETTY_FUNCTION__.10602
+> 00000000004e2900 r __PRETTY_FUNCTION__.9159
+> 00000000004e26a0 r __PRETTY_FUNCTION__.9337
+> 00000000004e25b0 r __PRETTY_FUNCTION__.9319
+> 00000000004e2560 r __PRETTY_FUNCTION__.9553
+> 00000000004e1fb8 r __PRETTY_FUNCTION__.10135
+> 00000000004e1fe0 r __PRETTY_FUNCTION__.10085
+> 00000000004e1fc8 r __PRETTY_FUNCTION__.9859
+> 00000000004e1cb8 r __PRETTY_FUNCTION__.10072
+> 00000000004e1d10 r __PRETTY_FUNCTION__.9786
+> 00000000004cf990 r __PRETTY_FUNCTION__.9605
+> 00000000004e1cf0 r __PRETTY_FUNCTION__.9808
+> 00000000004e1cd0 r __PRETTY_FUNCTION__.9947
+1443,1453d1444
+< 00000000004d03e0 r __PRETTY_FUNCTION__.10917
+< 00000000004cbd50 r __PRETTY_FUNCTION__.11112
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11224
+< 00000000004e7dc8 r __PRETTY_FUNCTION__.11229
+< 00000000004e7ee0 r __PRETTY_FUNCTION__.11274
+< 00000000004e7fa0 r __PRETTY_FUNCTION__.11274
+< 00000000004e7e20 r __PRETTY_FUNCTION__.11279
+< 00000000004cfbc0 r __PRETTY_FUNCTION__.11291
+< 00000000004cbc88 r __PRETTY_FUNCTION__.11312
+< 00000000004e0a30 r __PRETTY_FUNCTION__.11522
+1455,1456d1445
+< 00000000004de6c0 r __PRETTY_FUNCTION__.11762
+< 00000000004de7f8 r __PRETTY_FUNCTION__.11788
+1458,1462d1446
+< 00000000004de6a0 r __PRETTY_FUNCTION__.11976
+< 00000000004de6a0 r __PRETTY_FUNCTION__.12000
+< 00000000004e7520 r __PRETTY_FUNCTION__.12201
+< 00000000004de7c0 r __PRETTY_FUNCTION__.13005
+< 00000000004e0fb0 r __PRETTY_FUNCTION__.5927
+1464c1448,1451
+< 00000000004cbc58 r __PRETTY_FUNCTION__.7280
+---
+> 00000000004e0fb0 r __PRETTY_FUNCTION__.5927
+> 00000000004e0ee0 r __PRETTY_FUNCTION__.9290
+> 00000000004e0e88 r __PRETTY_FUNCTION__.9290
+> 00000000004e0e10 r __PRETTY_FUNCTION__.9284
+1466,1475c1453,1458
+< 00000000004cedf0 r __PRETTY_FUNCTION__.7815
+< 00000000004d0060 r __PRETTY_FUNCTION__.8245
+< 00000000004e7828 r __PRETTY_FUNCTION__.8265
+< 00000000004e7978 r __PRETTY_FUNCTION__.8387
+< 00000000004e7990 r __PRETTY_FUNCTION__.8466
+< 00000000004ce7a0 r __PRETTY_FUNCTION__.8613
+< 00000000004cb150 r __PRETTY_FUNCTION__.8681
+< 00000000004cfa10 r __PRETTY_FUNCTION__.8697
+< 00000000004cb1e0 r __PRETTY_FUNCTION__.8802
+< 00000000004cb1c0 r __PRETTY_FUNCTION__.8858
+---
+> 00000000004e0a30 r __PRETTY_FUNCTION__.11522
+> 00000000004de7f8 r __PRETTY_FUNCTION__.11788
+> 00000000004de6a0 r __PRETTY_FUNCTION__.12000
+> 00000000004de7c0 r __PRETTY_FUNCTION__.13005
+> 00000000004de6c0 r __PRETTY_FUNCTION__.11762
+> 00000000004de6a0 r __PRETTY_FUNCTION__.11976
+1477d1459
+< 00000000004cfa40 r __PRETTY_FUNCTION__.8884
+1479,1501c1461,1478
+< 00000000004ce7b0 r __PRETTY_FUNCTION__.8891
+< 00000000004ce7c0 r __PRETTY_FUNCTION__.8941
+< 00000000004cee30 r __PRETTY_FUNCTION__.9148
+< 00000000004e2900 r __PRETTY_FUNCTION__.9159
+< 00000000004cdd70 r __PRETTY_FUNCTION__.9208
+< 00000000004cdd60 r __PRETTY_FUNCTION__.9277
+< 00000000004e0e10 r __PRETTY_FUNCTION__.9284
+< 00000000004e7588 r __PRETTY_FUNCTION__.9288
+< 00000000004e28a0 r __PRETTY_FUNCTION__.9290
+< 00000000004e0e88 r __PRETTY_FUNCTION__.9290
+< 00000000004e0ee0 r __PRETTY_FUNCTION__.9290
+< 00000000004e25b0 r __PRETTY_FUNCTION__.9319
+< 00000000004e26a0 r __PRETTY_FUNCTION__.9337
+< 00000000004caa30 r __PRETTY_FUNCTION__.9341
+< 00000000004e2880 r __PRETTY_FUNCTION__.9349
+< 00000000004cf380 r __PRETTY_FUNCTION__.9353
+< 00000000004e7770 r __PRETTY_FUNCTION__.9368
+< 00000000004e2860 r __PRETTY_FUNCTION__.9388
+< 00000000004cf3a8 r __PRETTY_FUNCTION__.9414
+< 00000000004d0640 r __PRETTY_FUNCTION__.9415
+< 00000000004cf390 r __PRETTY_FUNCTION__.9421
+< 00000000004ce70d r __PRETTY_FUNCTION__.9428
+< 00000000004cf3b8 r __PRETTY_FUNCTION__.9457
+---
+> 00000000004d03a0 r __PRETTY_FUNCTION__.10846
+> 00000000004d03e0 r __PRETTY_FUNCTION__.10917
+> 00000000004d0460 r __PRETTY_FUNCTION__.10765
+> 00000000004d0420 r __PRETTY_FUNCTION__.10694
+> 00000000004d0660 r __PRETTY_FUNCTION__.10545
+> 00000000004d04a0 r __PRETTY_FUNCTION__.10613
+> 00000000004d0680 r __PRETTY_FUNCTION__.10399
+> 00000000004d04c0 r __PRETTY_FUNCTION__.10467
+> 00000000004d06a0 r __PRETTY_FUNCTION__.10237
+> 00000000004d04e0 r __PRETTY_FUNCTION__.10317
+> 00000000004d06c0 r __PRETTY_FUNCTION__.10060
+> 00000000004d0500 r __PRETTY_FUNCTION__.10135
+> 00000000004d0520 r __PRETTY_FUNCTION__.9975
+> 00000000004d06e0 r __PRETTY_FUNCTION__.9908
+> 00000000004d0560 r __PRETTY_FUNCTION__.9831
+> 00000000004d0700 r __PRETTY_FUNCTION__.9648
+> 00000000004d05a0 r __PRETTY_FUNCTION__.9717
+> 00000000004d05e0 r __PRETTY_FUNCTION__.9613
+1503c1480,1483
+< 00000000004cf3c8 r __PRETTY_FUNCTION__.9536
+---
+> 00000000004d0640 r __PRETTY_FUNCTION__.9415
+> 00000000004d0060 r __PRETTY_FUNCTION__.8245
+> 00000000004cfbc0 r __PRETTY_FUNCTION__.11291
+> 00000000004cfa10 r __PRETTY_FUNCTION__.8697
+1506,1509c1486,1497
+< 00000000004e2560 r __PRETTY_FUNCTION__.9553
+< 00000000004cf990 r __PRETTY_FUNCTION__.9605
+< 00000000004d05e0 r __PRETTY_FUNCTION__.9613
+< 00000000004d0700 r __PRETTY_FUNCTION__.9648
+---
+> 00000000004cf3b8 r __PRETTY_FUNCTION__.9457
+> 00000000004cf3a8 r __PRETTY_FUNCTION__.9414
+> 00000000004cf3c8 r __PRETTY_FUNCTION__.9536
+> 00000000004cf380 r __PRETTY_FUNCTION__.9353
+> 00000000004cf390 r __PRETTY_FUNCTION__.9421
+> 00000000004cef08 r __PRETTY_FUNCTION__.10224
+> 00000000004cee30 r __PRETTY_FUNCTION__.9148
+> 00000000004cedf0 r __PRETTY_FUNCTION__.7815
+> 00000000004ce7c0 r __PRETTY_FUNCTION__.8941
+> 00000000004ce7a0 r __PRETTY_FUNCTION__.8613
+> 00000000004ce7b0 r __PRETTY_FUNCTION__.8891
+> 00000000004ce70d r __PRETTY_FUNCTION__.9428
+1511,1519c1499,1514
+< 00000000004d05a0 r __PRETTY_FUNCTION__.9717
+< 00000000004e1d10 r __PRETTY_FUNCTION__.9786
+< 00000000004e1cf0 r __PRETTY_FUNCTION__.9808
+< 00000000004d0560 r __PRETTY_FUNCTION__.9831
+< 00000000004e1fc8 r __PRETTY_FUNCTION__.9859
+< 00000000004d06e0 r __PRETTY_FUNCTION__.9908
+< 00000000004e1cd0 r __PRETTY_FUNCTION__.9947
+< 00000000004d0520 r __PRETTY_FUNCTION__.9975
+< 00000000004ca1c0 r primes
+---
+> 00000000004cbd80 r __PRETTY_FUNCTION__.10121
+> 00000000004cbd50 r __PRETTY_FUNCTION__.11112
+> 00000000004cbcc0 r __PRETTY_FUNCTION__.10073
+> 00000000004cbc88 r __PRETTY_FUNCTION__.11312
+> 00000000004cbc58 r __PRETTY_FUNCTION__.7280
+> 00000000004cb1c0 r __PRETTY_FUNCTION__.8858
+> 00000000004cb1e0 r __PRETTY_FUNCTION__.8802
+> 00000000004cb150 r __PRETTY_FUNCTION__.8681
+> 00000000004caa30 r __PRETTY_FUNCTION__.9341
+> 00000000004ca700 r __PRETTY_FUNCTION__.10290
+> 00000000004cdd60 r __PRETTY_FUNCTION__.9277
+> 00000000004cdd70 r __PRETTY_FUNCTION__.9208
+> 00000000004e2860 r __PRETTY_FUNCTION__.9388
+> 00000000004e2880 r __PRETTY_FUNCTION__.9349
+> 00000000004e28a0 r __PRETTY_FUNCTION__.9290
+> 00000000004cfa40 r __PRETTY_FUNCTION__.8884
+1520a1516
+> 00000000004ca1c0 r primes
+1526d1521
+< 000000000047a960 T ___printf_fp
+1527a1523
+> 000000000047a960 T ___printf_fp
+1532d1527
+< 00000000004723e0 t printf_positional
+1533a1529
+> 00000000004723e0 t printf_positional
+1537,1538d1532
+< 0000000000404fc0 T process_elf32_file
+< 0000000000405e70 T process_elf64_file
+1539a1534,1535
+> 0000000000405e70 T process_elf64_file
+> 0000000000404fc0 T process_elf32_file
+1547,1548c1543,1544
+< 00000000006f7248 V program_invocation_name
+< 00000000006f7240 V program_invocation_short_name
+---
+> 00000000006f7248 W program_invocation_name
+> 00000000006f7240 W program_invocation_short_name
+1555d1550
+< 000000000042bd40 W pvalloc
+1556a1552
+> 000000000042bd40 W pvalloc
+1559d1554
+< 0000000000416bc0 T __qsort_r
+1560a1556
+> 0000000000416bc0 T __qsort_r
+1570,1571d1565
+< 00000000004549b0 W readdir
+< 00000000004549b0 T __readdir
+1572a1567
+> 00000000004549b0 T __readdir
+1574c1569
+< 000000000045cc60 W readlink
+---
+> 00000000004549b0 W readdir
+1575a1571
+> 000000000045cc60 W readlink
+1582d1577
+< 000000000042b0c0 T realloc
+1583a1579
+> 000000000042b0c0 T realloc
+1585c1581
+< 00000000006f68e0 V __realloc_hook
+---
+> 00000000006f68e0 W __realloc_hook
+1589d1584
+< 000000000047aae0 T __register_printf_function
+1591c1586
+< 000000000047c790 T __register_printf_modifier
+---
+> 000000000047aae0 T __register_printf_function
+1593c1588
+< 000000000047a9d0 T __register_printf_specifier
+---
+> 000000000047c790 T __register_printf_modifier
+1595c1590
+< 000000000047cb00 T __register_printf_type
+---
+> 000000000047a9d0 T __register_printf_specifier
+1596a1592
+> 000000000047cb00 T __register_printf_type
+1598,1599c1594,1595
+< 0000000000400370 r __rela_iplt_end
+< 00000000004001d8 r __rela_iplt_start
+---
+> 0000000000400370 t __rela_iplt_end
+> 00000000004001d8 t __rela_iplt_start
+1604d1599
+< 0000000000491d50 W rewinddir
+1605a1601
+> 0000000000491d50 W rewinddir
+1608,1609d1603
+< 00000000004bef00 t round_and_return
+< 00000000004c1f60 t round_and_return
+1610a1605,1606
+> 00000000004c1f60 t round_and_return
+> 00000000004bef00 t round_and_return
+1623d1618
+< 000000000045cd30 W sbrk
+1625c1620
+< 000000000045bf50 T __sched_yield
+---
+> 000000000045cd30 W sbrk
+1626a1622
+> 000000000045bf50 T __sched_yield
+1630d1625
+< 00000000004aedd0 W send
+1631a1627
+> 00000000004aedd0 W send
+1633d1628
+< 0000000000471290 W setenv
+1634a1630
+> 0000000000471290 W setenv
+1636d1631
+< 00000000004c78f0 W setitimer
+1637a1633
+> 00000000004c78f0 W setitimer
+1644d1639
+< 000000000046fa30 W sigaction
+1645a1641
+> 000000000046fa30 W sigaction
+1651d1646
+< 0000000000492660 W sleep
+1652a1648
+> 0000000000492660 W sleep
+1654d1649
+< 0000000000417ff0 W snprintf
+1656c1651
+< 00000000004aee90 W socket
+---
+> 0000000000417ff0 W snprintf
+1658c1653
+< 00000000004180a0 T sprintf
+---
+> 00000000004aee90 W socket
+1659a1655
+> 00000000004180a0 T sprintf
+1668d1663
+< 00000000006f8ef0 b start_fct.11317
+1669a1665
+> 00000000006f8ef0 b start_fct.11317
+1672d1667
+< 00000000006f8ef8 b startp.11316
+1674c1669
+< 00000000006f8f00 b startp_initialized.11315
+---
+> 00000000006f8ef8 b startp.11316
+1676,1678c1671
+< 00000000006f8dd8 b state
+< 00000000006f8de0 b state
+< 00000000006f8de8 b state
+---
+> 00000000006f8f00 b startp_initialized.11315
+1679a1673,1675
+> 00000000006f8de8 b state
+> 00000000006f8de0 b state
+> 00000000006f8dd8 b state
+1685,1691d1680
+< 00000000004de540 r step0_jumps.11766
+< 00000000004dee20 r step0_jumps.11792
+< 00000000004de440 r step1_jumps.11797
+< 00000000004ded20 r step1_jumps.11823
+< 00000000004de340 r step2_jumps.11798
+< 00000000004dec20 r step2_jumps.11824
+< 00000000004de240 r step3a_jumps.11799
+1693c1682
+< 00000000004de040 r step3b_jumps.11801
+---
+> 00000000004de240 r step3a_jumps.11799
+1695c1684,1686
+< 00000000004de140 r step4_jumps.11802
+---
+> 00000000004de040 r step3b_jumps.11801
+> 00000000004ded20 r step1_jumps.11823
+> 00000000004dec20 r step2_jumps.11824
+1697c1688
+< 00000000004ddf40 r step4_jumps.11980
+---
+> 00000000004dee20 r step0_jumps.11792
+1698a1690,1694
+> 00000000004de140 r step4_jumps.11802
+> 00000000004de440 r step1_jumps.11797
+> 00000000004de340 r step2_jumps.11798
+> 00000000004de540 r step0_jumps.11766
+> 00000000004ddf40 r step4_jumps.11980
+1701,1702c1697,1698
+< 00000000004339b0 i stpcpy
+< 00000000004339b0 i __stpcpy
+---
+> 00000000004339b0 T __stpcpy
+> 00000000004339b0 W stpcpy
+1706,1707c1702,1703
+< 00000000004a7ec0 i stpncpy
+< 00000000004a7ec0 i __stpncpy
+---
+> 00000000004a7ec0 T __stpncpy
+> 00000000004a7ec0 W stpncpy
+1711,1712c1707,1708
+< 0000000000433b00 i strcasecmp
+< 0000000000433b00 i __strcasecmp
+---
+> 0000000000433b00 T __strcasecmp
+> 0000000000433b00 W strcasecmp
+1714,1715c1710,1711
+< 0000000000433ac0 i __strcasecmp_l
+< 0000000000433ac0 i strcasecmp_l
+---
+> 0000000000433ac0 T __strcasecmp_l
+> 0000000000433ac0 W strcasecmp_l
+1721d1716
+< 0000000000433b50 T __strcasecmp_sse2
+1722a1718
+> 0000000000433b50 T __strcasecmp_sse2
+1724c1720
+< 0000000000486380 i strcat
+---
+> 0000000000486380 T strcat
+1728c1724
+< 000000000042d930 i strchr
+---
+> 000000000042d930 T strchr
+1733c1729,1730
+< 000000000042db70 i strcmp
+---
+> 000000000042db70 T strcmp
+> 000000000042efe0 T __strcmp_sse42
+1736d1732
+< 000000000042efe0 T __strcmp_sse42
+1739d1734
+< 00000000004866a0 T __strcoll_l
+1741c1736,1737
+< 000000000042fd90 i strcpy
+---
+> 00000000004866a0 T __strcoll_l
+> 000000000042fd90 T strcpy
+1745,1746c1741
+< 000000000042fea0 i strcspn
+< 000000000042fec0 T __strcspn_sse2
+---
+> 000000000042fea0 T strcspn
+1747a1743
+> 000000000042fec0 T __strcspn_sse2
+1751d1746
+< 0000000000430090 T __strerror_r
+1752a1748
+> 0000000000430090 T __strerror_r
+1757,1758c1753,1754
+< 0000000000438ff0 i strncasecmp
+< 0000000000438ff0 i __strncasecmp
+---
+> 0000000000438ff0 W strncasecmp
+> 0000000000438ff0 T __strncasecmp
+1760,1761c1756,1757
+< 0000000000438fb0 i __strncasecmp_l
+< 0000000000438fb0 i strncasecmp_l
+---
+> 0000000000438fb0 T __strncasecmp_l
+> 0000000000438fb0 W strncasecmp_l
+1767d1762
+< 0000000000439040 T __strncasecmp_sse2
+1768a1764
+> 0000000000439040 T __strncasecmp_sse2
+1771c1767
+< 0000000000486580 i strncpy
+---
+> 0000000000486580 T strncpy
+1775d1770
+< 000000000042ffb0 W strndup
+1776a1772
+> 000000000042ffb0 W strndup
+1783c1779
+< 0000000000432bd0 i strstr
+---
+> 0000000000432bd0 T strstr
+1788d1783
+< 00000000004c49d0 W __strtod_l
+1789a1785
+> 00000000004c49d0 W __strtod_l
+1800d1795
+< 0000000000471500 W strtol
+1801a1797
+> 0000000000471500 W strtol
+1804d1799
+< 00000000004c75c0 W __strtold_l
+1805a1801
+> 00000000004c75c0 W __strtold_l
+1809d1804
+< 0000000000471500 W strtoll
+1812c1807
+< 0000000000471520 T ____strtol_l_internal
+---
+> 0000000000471500 W strtoll
+1813a1809
+> 0000000000471520 T ____strtol_l_internal
+1819,1820d1814
+< 00000000004bec10 t str_to_mpn.isra.0
+< 00000000004c1c70 t str_to_mpn.isra.0
+1821a1816,1817
+> 00000000004c1c70 t str_to_mpn.isra.0
+> 00000000004bec10 t str_to_mpn.isra.0
+1823d1818
+< 0000000000417510 W strtoul
+1824a1820
+> 0000000000417510 W strtoul
+1826d1821
+< 0000000000417510 W strtoull
+1828a1824
+> 0000000000417510 W strtoull
+1831d1826
+< 0000000000417950 W __strtoull_l
+1832a1828
+> 0000000000417950 W __strtoull_l
+1839d1834
+< 0000000000454ca0 W sysconf
+1840a1836
+> 0000000000454ca0 W sysconf
+1843,1844c1839,1840
+< 00000000004dfc40 V _sys_errlist
+< 00000000004dfc40 V sys_errlist
+---
+> 00000000004dfc40 W sys_errlist
+> 00000000004dfc40 W _sys_errlist
+1847d1842
+< 000000000045ee60 W sysinfo
+1848a1844
+> 000000000045ee60 W sysinfo
+1850,1852c1846,1847
+< 00000000004e0078 V _sys_nerr
+< 00000000004e0078 V sys_nerr
+< 00000000004e0078 R __sys_nerr_internal
+---
+> 00000000004e0078 W _sys_nerr
+> 00000000004e0078 W sys_nerr
+1853a1849
+> 00000000004e0078 R __sys_nerr_internal
+1858d1853
+< 000000000045d560 W tdelete
+1859a1855
+> 000000000045d560 W tdelete
+1865d1860
+< 000000000040e040 W textdomain
+1866a1862
+> 000000000040e040 W textdomain
+1868d1863
+< 000000000045d500 W tfind
+1870c1865,1866
+< 0000000000000048 b thread_arena
+---
+> 000000000045d500 W tfind
+> 0000000000000048 t thread_arena
+1875d1870
+< 00000000006f8e00 V timezone
+1876a1872
+> 00000000006f8e00 W timezone
+1883d1878
+< 0000000000492f30 W towctrans
+1884a1880
+> 0000000000492f30 W towctrans
+1898d1893
+< 000000000045d120 W tsearch
+1899a1895
+> 000000000045d120 W tsearch
+1908d1903
+< 0000000000432120 t two_way_long_needle
+1909a1905
+> 0000000000432120 t two_way_long_needle
+1920c1916
+< 00000000006f7d70 V tzname
+---
+> 00000000006f7d70 W tzname
+1934d1929
+< 0000000000492620 W uname
+1935a1931
+> 0000000000492620 W uname
+1940d1935
+< 00000000004712f0 W unsetenv
+1941a1937
+> 00000000004712f0 W unsetenv
+1948d1943
+< 0000000000462f80 W utmpname
+1950c1945
+< 000000000042b8f0 W valloc
+---
+> 0000000000462f80 W utmpname
+1951a1947
+> 000000000042b8f0 W valloc
+1954,1955d1949
+< 00000000004bb020 W vfscanf
+< 00000000004bb020 T __vfscanf
+1957c1951,1952
+< 000000000047f940 W vfwprintf
+---
+> 00000000004bb020 T __vfscanf
+> 00000000004bb020 W vfscanf
+1959c1954
+< 000000000041aec0 W vsnprintf
+---
+> 000000000047f940 W vfwprintf
+1960a1956
+> 000000000041aec0 W vsnprintf
+1962d1957
+< 00000000004a7400 W vsscanf
+1963a1959
+> 00000000004a7400 W vsscanf
+1970d1965
+< 000000000048db70 W wcslen
+1971a1967
+> 000000000048db70 W wcslen
+1977d1972
+< 000000000048e5b0 W wcsnlen
+1979c1974
+< 000000000048e300 W wcsrtombs
+---
+> 000000000048e5b0 W wcsnlen
+1980a1976
+> 000000000048e300 W wcsrtombs
+1985d1980
+< 000000000048de10 W wmemchr
+1987c1982
+< 000000000048dec0 W wmemcpy
+---
+> 000000000048de10 W wmemchr
+1988a1984
+> 000000000048dec0 W wmemcpy
+1991d1986
+< 0000000000454010 W wmempcpy
+1993c1988
+< 000000000048dee0 W wmemset
+---
+> 0000000000454010 W wmempcpy
+1994a1990
+> 000000000048dee0 W wmemset
+1999d1994
+< 000000000045cdc0 W writev
+2000a1996
+> 000000000045cdc0 W writev
+2003a2000
+> 00000000004063a0 T xcalloc
+2005a2003,2005
+> 0000000000406330 T xmalloc
+> 00000000006f6114 D xmalloc_exit_failure
+> 0000000000417ba0 T __xpg_basename
+2010a2011
+> 0000000000406410 T xrealloc
+2014,2019d2014
+< 00000000004063a0 T xcalloc
+< 0000000000406330 T xmalloc
+< 00000000006f6114 D xmalloc_exit_failure
+< 0000000000417ba0 T __xpg_basename
+< 0000000000406410 T xrealloc
+< 000000000045bfc0 W _xstat
+2021a2017
+> 000000000045bfc0 W _xstat
+2032d2027
+< 00000000004e0990 r zeroes
+2033a2029
+> 00000000004e0990 r zeroes
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/suexec
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/sulogin
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/swaplabel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/swapoff
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/swapon
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/switch_root
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/tcsd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/telinit
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/unix_chkpwd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/unix_update
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/update-alternatives
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/useradd
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/userdel
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/usermod
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/vigr
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/vipw
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/visudo
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/wipefs
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/zdump
+17c17
+< 0000000000603110 V environ@@GLIBC_2.2.5
+---
+> 0000000000603110 W environ@@GLIBC_2.2.5
+[1m[31mFailed[39m [21m
+________________________
+Test file is :  /usr/sbin/zic
+[1m[32mSuccess[39m [21m
+________________________
+Test file is :  /usr/sbin/zramctl
+[1m[32mSuccess[39m [21m
